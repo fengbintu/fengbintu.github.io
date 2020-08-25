@@ -29,7 +29,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * B.S. in Electronic Science and Technology 
 
 # Project Experience
-Apr. 2018 - Jul. 2020: **ELearn**, a sparsity and mixed-precision aware edge learning processor.
+Apr. 2018 - Aug. 2020: **Evolver**, A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning.
 
 Feb. 2017 - Mar. 2018: [**RANA**](https://ieeexplore.ieee.org/abstract/document/8416839/)
 
@@ -66,7 +66,6 @@ Journal Papers
 * **[TVLSI'17]** **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**TVLSI Top 5 Downloaded Manuscripts - 2017: 6 Times Monthly NO.1 since Sep. 2017.**)
 
 Conference Papers
-* **[ASSCC'20]** **F. Tu**, W. Wu, Y. Wang, H. Chen, L. Liu, J. Zhang, S. Wei, Y. Xie, S. Yin, "A 3.8-to-172.8 TOPS/W Edge Learning Processor with Sparsity and Mixed-Precision aware Dataflow Parallelism Reconfiguration," IEEE Asian Solid-State Circuits Conference (ASSCC), 2020. 
 * **[HotChips'20]** **F. Tu**, W. Wu, Y. Wang, H. Chen, F. Xiong, M. Shi, N. Li, J. Deng, T. Chen, L. Liu, S. Wei, S. Yin, "ELearn: Edge Learning Processor with Bidirectional Speculation and Sparsity & Mixed-Precision aware Dataflow Parallelism Reconfiguration," Hot Chips, 2020. 
 * **[ISCA'18]** **F. Tu**, W. Wu, S. Yin, L. Liu, S. Wei, "[RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/abstract/document/8416839/)," International Symposium on Computer Architecture (ISCA), Los Angeles, USA, 2018. (**Acceptance Rate: 16.9% = 64/378**)
 * **[VLSI'17]** S. Yin, P. Ouyang, S. Tang, **F. Tu**, L. Liu, S. Wei, "A 1.06-to-5.09 TOPS/W Reconfigurable Hybrid-Neural-Network Processor	for Deep Learning Applications," Symposia on VLSI Technology and Circuits (VLSI Symposia), Kyoto, Japan, 2017. (**The 1st Student Author**)
