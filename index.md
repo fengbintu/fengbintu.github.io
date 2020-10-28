@@ -82,7 +82,7 @@ Conference Papers
 * **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “Neural Approximating Architecture  Targeting Multiple Application Domains," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
 Featured Co-authored Papers
-* **[MICRO'20]** L. Liu, Z. Qu, L. Deng, **F. Tu**, S. Li, X. Hu, Z. Gu, Y. Ding, Y. Xie, "DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture," IEEE/ACM International Symposium on Microarchitecture (MICRO), 2020.
+* **[MICRO'20]** L. Liu, Z. Qu, L. Deng, **F. Tu**, S. Li, X. Hu, Z. Gu, Y. Ding, Y. Xie, "DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture," IEEE/ACM International Symposium on Microarchitecture (MICRO), 2020. (**Acceptance Rate: 15.6% = 66/422**)
 * **[DAC'20]** F. Xiong, **F. Tu**, M. Shi, Y. Wang, L. Liu, S. Wei, S. Yin, "STC: Significance-Aware Transform-Based Codec Framework for External Memory Access Reduction," Design Automation Conference (DAC), 2020. (Co-advisor)
 * **[ISVLSI'19]** F. Xiong, **F. Tu**, S. Yin, S. Wei, "Towards Efficient Compact Network Training on Edge-Devices," IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Miami, USA, 2019. (**Special Session**, Co-advisor)
 * **[TPDS'18]** S. Yin, S. Tang, X. Lin, P. Ouyang, **F. Tu**, L. Liu, J. Zhao, C. Xu, S. Li, Y. Xie, S. Wei, "Parana: A Parallel Neural Architecture Considering Thermal Problem of 3D Stacked Memory," IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018. 
