@@ -132,6 +132,9 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 * National Scholarship for Undergraduate Students (2010, 2011, 2012)
 * BUPT Merit Student (2010, 2011, 2012) 
 
+# Book
+* S. Yin, **F. Tu**, D. Zhu, S. Wei, "Deep Learning Chip Design," Science Press, 2020.
+
 # Service and Activities
 * 2019 - Present: Reviewer, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
