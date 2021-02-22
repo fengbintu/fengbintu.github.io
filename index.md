@@ -92,7 +92,10 @@ Featured Co-authored Papers
 Acceleration for Hybrid Neural Networks with Efficient Resource Management on FPGA," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018.
 * **[DAC'18]** X. Lin, S. Yin, **F. Tu**, L. Liu, X. Li, S. Wei, "LCP: A Layer Clusters Paralleling Mapping Method for Accelerating Inception and Residual Networks on FPGA," Design Automation Conference (DAC), San Francisco, USA, 2018. (**Acceptance Rate: 24.3%**)
 
-# Invited Talks
+# Talks
+
+From Thinker to Evolver: Towards Evolvable Intelligent Hardware
+* Biren Technology, Online, Feb. 2021.
 
 Architecture Design and Memory Optimization for Neural Network Accelerators
 * Dissertation talk at Tsinghua University, Beijing, China, Jul. 2019.
