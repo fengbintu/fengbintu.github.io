@@ -82,7 +82,7 @@ Conference Papers
 * **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “Neural Approximating Architecture  Targeting Multiple Application Domains," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
 Featured Co-authored Papers
-* **[DAC'21]** X. Lin, L. Sun, **F. Tu**, L. Liu, X. Li, S. Wei, S. Yin, "ADROIT: An Adaptive Dynamic Refresh Optimization Framework for DRAM Power Saving in DNN Training," Design Automation Conference (DAC), Virtual, 2021.
+* **[DAC'21]** X. Lin, L. Sun, **F. Tu**, L. Liu, X. Li, S. Wei, S. Yin, "ADROIT: An Adaptive Dynamic Refresh Optimization Framework for DRAM Power Saving in DNN Training," Design Automation Conference (DAC), Virtual, 2021. (**Acceptance Rate: 23%**)
 * **[MICRO'20]** L. Liu, Z. Qu, L. Deng, **F. Tu**, S. Li, X. Hu, Z. Gu, Y. Ding, Y. Xie, "DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture," IEEE/ACM International Symposium on Microarchitecture (MICRO), Virtual, 2020. (**Acceptance Rate: 15.6% = 66/422**)
 * **[DAC'20]** F. Xiong, **F. Tu**, M. Shi, Y. Wang, L. Liu, S. Wei, S. Yin, "STC: Significance-Aware Transform-Based Codec Framework for External Memory Access Reduction," Design Automation Conference (DAC), San Francisco, USA, 2020. (Co-advisor)
 * **[ISVLSI'19]** F. Xiong, **F. Tu**, S. Yin, S. Wei, "Towards Efficient Compact Network Training on Edge-Devices," IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Miami, USA, 2019. (**Invited Paper**, Co-advisor)
