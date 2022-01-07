@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Fengbin Tu"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "UCSB"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=whszODQAAAAJ&hl=zh-CN"
-  email            : "fengbintu at ucsb dot edu"
+  email            : "fengbintu at ucsb.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
