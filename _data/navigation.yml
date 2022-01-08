@@ -8,10 +8,7 @@ main:
 
   - title: "Talks"
     url: /talks/
-  
-  - title: "Awards"
-    url: /awards/
     
   - title: "Gallery"
-    url: /portfolio/
+    url: /gallery/
         
