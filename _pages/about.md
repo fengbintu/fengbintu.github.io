@@ -37,11 +37,26 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * GPA 3.9/4.0, Rank 1/255 in the School of Electronic Engineering
 * B.S. in Electronic Science and Technology 
 
-## Service and Activities
+## Services
 * TPC Member, Design Automation Conference (DAC)
 * Reviewer, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 * Reviewer, IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
 * Reviewer, IEEE Micro
+
+## Honors and Awards
+* Beijing Outstanding Graduate (2013, 2019)
+* THU Excellent Dissertation Award (2019)
+* THU Outstanding Student Scholarship (2016, 2018)
+* THU DengFeng Fellowship (2015, 2018)
+* IME Outstanding Young Researcher Award (2018)
+* National Scholarship for Ph.D. Students (2017)
+* ISLPED'17 Design Contest Winner (2017)
+* THU Outstanding Postgraduate Assistant (2016)
+* ICFC Fellowship for Outstanding Ph.D. Students (2016)
+* Lam Research Scholarship (2015)
+* Excellent Paper Award of THU Ph.D. Student Forum (2015)
+* National Scholarship for Undergraduate Students (2010, 2011, 2012)
+* BUPT Merit Student (2010, 2011, 2012) 
 
 ## Contact
 Address: Ellison Hall 1804, UCSB, Santa Barbara, California, USA
