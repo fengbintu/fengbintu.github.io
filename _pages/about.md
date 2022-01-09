@@ -10,8 +10,8 @@ redirect_from:
 
 **Postdoctoral Researcher**
 
-*Department of Electrical and Computer Engineering*  
-*Center for Energy-efficient Computing and Applications (CECA)*  
+*Scalable Energy-efficient Architecture Lab (SEAL)* 
+*Department of Electrical and Computer Engineering* 
 *University of California, Santa Barbara (UCSB)*  
 
 I'm currently working with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/), as a postdoctoral researcher at the Scalable Energy-efficient Architecture Lab (SEAL), Department of Electrical and Computer Engineering, UCSB. Before joining UCSB, I received my Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. Shaojun Wei and Prof. Shouyi Yin. My dissertation entitled "[**Architecture Design and Memory Optimization for Neural Network Accelerators**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" won the Tsinghua Excellent Dissertation Award. 
@@ -39,6 +39,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Services
 * TPC Member, Design Automation Conference (DAC)
+* TPC Member, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
 * Reviewer, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 * Reviewer, IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
 * Reviewer, IEEE Micro
