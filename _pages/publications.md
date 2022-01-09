@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Selected Publications"
 permalink: /publications/
 author_profile: true
