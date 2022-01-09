@@ -26,23 +26,24 @@ Oct. 2019 - Present: **University of California, Santa Barbara (UCSB)**
 
 ## Education
 Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
-
+* Ph.D. in Electronic Science and Technology
 * Dissertation: Architecture Design and Memory Optimization for Neural Network Accelerators
   - Tsinghua Excellent Dissertation Award
+  - Advisor: Prof. Shaojun Wei and Prof. Shouyi Yin
 * GPA 3.8/4.0, Rank 2/20 in the Institute of Microelectronics 
-* Ph.D. in Electronic Science and Technology, advised by Prof. Shaojun Wei and Prof. Shouyi Yin
 
 Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUPT)**
-
-* GPA 3.9/4.0, Rank 1/255 in the School of Electronic Engineering
 * B.S. in Electronic Science and Technology 
+* GPA 3.9/4.0, Rank 1/255 in the School of Electronic Engineering
 
 ## Services
-* TPC Member, Design Automation Conference (DAC)
-* TPC Member, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
-* Reviewer, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-* Reviewer, IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
-* Reviewer, IEEE Micro
+### TPC Member
+* Design Automation Conference (DAC)
+* IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
+### Reviewer
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+* IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+* IEEE Micro
 
 ## Honors and Awards
 * Beijing Outstanding Graduate (2013, 2019)
