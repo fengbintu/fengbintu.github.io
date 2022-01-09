@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Book
+* S. Yin, **F. Tu**, D. Zhu, S. Wei, "Deep Learning Chip Design," Science Press, 2020.
+
 ## Journal Papers
 * **[JSSC'21]** **F. Tu**, W. Wu, Y. Wang, H. Chen, F. Xiong, M. Shi, N. Li, J. Deng, T. Chen, L. Liu, S. Wei, Y. Xie, S. Yin, "[Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning](https://ieeexplore.ieee.org/document/9209075)," IEEE Journal of Solid-State Circuits (JSSC), 2021.
 * **[TCSVT'18]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[Reconfigurable Architecture for Neural Approximation in Multimedia Computing](http://ieeexplore.ieee.org/document/8307081/)," IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018.
