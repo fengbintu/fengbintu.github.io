@@ -7,7 +7,6 @@ author_profile: true
 
 ### From Thinker to Evolver: Towards Evolvable Intelligent Hardware
 * Biren Technology, Online, Feb. 2021.
-* Journal of Semiconductors, Online, Jan. 2022.
 
 ### Architecture Design and Memory Optimization for Neural Network Accelerators
 * Dissertation talk at Tsinghua University, Beijing, China, Jul. 2019.
