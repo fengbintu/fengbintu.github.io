@@ -25,12 +25,10 @@ author_profile: true
 * **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “Neural Approximating Architecture  Targeting Multiple Application Domains," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
 ## Featured Co-authored Papers
-* **[TCAD'22]** L. Liang, Z. Qu, Z. Chen, **F. Tu**, Y. Wu, L. Deng, G. Li, P. Li, Y. Xie, "H2Learn: High-Efficiency Learning Accelerator for High-Accuracy Spiking Neural Networks," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. 
- 	
-* **[ASPLOS'22]** Z. Qu, L. Liu, **F. Tu**, Z. Chen, Y. Ding, Y. Xie, "DOTA: Detect and Omit Weak Attentions for Scalable Transformer Acceleration," ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2022. (**Acceptance Rate: 20.2% = 80/397**)
- 	
-* **[ICCAD'21]** H. Amrouch, J. Chen, K. Roy, Y. Xie, I. Chakraborty, W. Huangfu, L. Liang, **F. Tu**, C. Wang, M. Yayla, "Brain-Inspired Computing: Adventure from Beyond CMOS Technologies to Beyond von Neumann Architectures," International Conference On Computer Aided Design (ICCAD), 2021. (**Special Session Paper**)
-
+* **[DAC'22]** H. Lin, M. Yan, D. Wang, M. Zou, **F. Tu**, X. Ye, D. Fan, Y. Xie, "Alleviating Datapath Conflicts and Design Centralization in Graph Analytics Acceleration," Design Automation Conference (DAC), 2022. (**Acceptance Rate: 23%**)
+* **[TCAD'22]** L. Liang, Z. Qu, Z. Chen, **F. Tu**, Y. Wu, L. Deng, G. Li, P. Li, Y. Xie, "H2Learn: High-Efficiency Learning Accelerator for High-Accuracy Spiking Neural Networks," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022.  	
+* **[ASPLOS'22]** Z. Qu, L. Liu, **F. Tu**, Z. Chen, Y. Ding, Y. Xie, "DOTA: Detect and Omit Weak Attentions for Scalable Transformer Acceleration," ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2022. (**Acceptance Rate: 20.2% = 80/397**) 	
+* **[ICCAD'21]** H. Amrouch, J. Chen, K. Roy, Y. Xie, I. Chakraborty, W. Huangfu, L. Liang, **F. Tu**, C. Wang, M. Yayla, "Brain-Inspired Computing: Adventure from Beyond CMOS Technologies to Beyond von Neumann Architectures," International Conference on Computer Aided Design (ICCAD), 2021. (**Special Session Paper**)
 * **[DAC'21]** X. Lin, L. Sun, **F. Tu**, L. Liu, X. Li, S. Wei, S. Yin, "ADROIT: An Adaptive Dynamic Refresh Optimization Framework for DRAM Power Saving in DNN Training," Design Automation Conference (DAC), 2021. (**Acceptance Rate: 23%**)
 * **[MICRO'20]** L. Liu, Z. Qu, L. Deng, **F. Tu**, S. Li, X. Hu, Z. Gu, Y. Ding, Y. Xie, "DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture," IEEE/ACM International Symposium on Microarchitecture (MICRO), 2020. (**Acceptance Rate: 15.6% = 66/422**)
 * **[DAC'20]** F. Xiong, **F. Tu**, M. Shi, Y. Wang, L. Liu, S. Wei, S. Yin, "STC: Significance-Aware Transform-Based Codec Framework for External Memory Access Reduction," Design Automation Conference (DAC), San Francisco, USA, 2020. (**Acceptance Rate: 23%**)
