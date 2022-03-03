@@ -5,6 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
+### ReCIM: Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline for Cloud Deep Learning Acceleration
+* Conference talk at ISSCC, Online, Feb. 2022.
+* TsingMicro, Beijing, China, Feb. 2022.
+
+### Brain-Inspired Computing: Algorithm, Technology, and Application-Driven Innovations
+* Conference talk at ICCAD, Online, Nov. 2021.
+
 ### From Thinker to Evolver: Towards Evolvable Intelligent Hardware
 * Biren Technology, Online, Feb. 2021.
 
