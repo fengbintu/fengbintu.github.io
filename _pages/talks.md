@@ -5,8 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-### ReCIM: Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline for Cloud Deep Learning Acceleration
-* Conference talk at ISSCC, Online, Feb. 2022.
+### Reconfigurable Digital Computing-in-Memory: Innovative Design Philosophy for AI Chips
+* Conference talk (ReDCIM and TranCIM) at ISSCC, Online, Feb. 2022.
 * TsingMicro, Beijing, China, Feb. 2022.
 
 ### Brain-Inspired Computing: Algorithm, Technology, and Application-Driven Innovations
@@ -27,7 +27,7 @@ author_profile: true
 * Lam Research Technical Symposium, Beijing, China, Sep. 2018.
 
 ### Thinker: A Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications
-* Conference talk at ISLPED, Taipei, Jul. 2017.
+* Conference talk at ISLPED, Taipei, China, Jul. 2017.
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2018.
 
 ### DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns
