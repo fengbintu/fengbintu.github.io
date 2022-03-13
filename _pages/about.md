@@ -29,7 +29,7 @@ Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
 * Ph.D. in Electronic Science and Technology
 * Dissertation: Architecture Design and Memory Optimization for Neural Network Accelerators
   - Tsinghua Excellent Dissertation Award
-  - Advisor: Prof. Shaojun Wei and Prof. Shouyi Yin
+  - Advisor: Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm)
 * GPA 3.8/4.0, Rank 2/20 in the Institute of Microelectronics 
 
 Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUPT)**
