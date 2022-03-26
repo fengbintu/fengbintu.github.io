@@ -48,6 +48,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Honors and Awards
 * Nomination for 2021 Top-10 Research in China's Semiconductors (2021)
+* Top Picks 2021 in Chinese Institute of Electronics (2021)
 * Beijing Outstanding Graduate (2013, 2019)
 * THU Excellent Dissertation Award (2019)
 * THU Outstanding Student Scholarship (2016, 2018)
