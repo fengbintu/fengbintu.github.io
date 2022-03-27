@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Book
-* S. Yin, **F. Tu**, D. Zhu, S. Wei, "Deep Learning Chip Design," Science Press, 2020.
+* S. Yin, **F. Tu**, D. Zhu, S. Wei, "[Artificial Intelligence Chip Design](https://item.jd.com/12905294.html)," Science Press, 2020.
 
 ## Journal Papers
 * **[JSSC'21]** **F. Tu**, W. Wu, Y. Wang, H. Chen, F. Xiong, M. Shi, N. Li, J. Deng, T. Chen, L. Liu, S. Wei, Y. Xie, S. Yin, "[Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning](https://ieeexplore.ieee.org/document/9209075)," IEEE Journal of Solid-State Circuits (JSSC), 2021. (**Nomination for 2021 Top-10 Research in China’s Semiconductors**)
