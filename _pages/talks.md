@@ -5,9 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Reconfigurable Digital Computing-in-Memory: Innovative Design Philosophy for AI Chips
+### Reconfigurable Digital Computing-in-Memory: Innovative Architecture Paradigm for AI Chips
 * Conference talk (ReDCIM and TranCIM) at ISSCC, Online, Feb. 2022.
 * TsingMicro, Beijing, China, Feb. 2022.
+* Beijing Innovation Center for Future Chips, Tsinghua University, Beijing, China, Apr. 2022 ([Video and Text](https://mp.weixin.qq.com/s/Zfh2_iQ2NSQDGHSRwoVnww)).
+* Department of Electronic Engineering, Tsinghua University, Beijing, China, Apr. 2022.
 
 ### Brain-Inspired Computing: Algorithm, Technology, and Application-Driven Innovations
 * Conference talk at ICCAD, Online, Nov. 2021.
