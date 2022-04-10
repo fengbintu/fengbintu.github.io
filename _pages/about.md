@@ -55,7 +55,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * THU DengFeng Fellowship (2015, 2018)
 * IME Outstanding Young Researcher Award (2018)
 * National Scholarship for Ph.D. Students (2017)
-* ISLPED'17 Design Contest Winner (2017)
+* ISLPED'17 Design Contest Award (2017)
 * THU Outstanding Postgraduate Assistant (2016)
 * ICFC Fellowship for Outstanding Ph.D. Students (2016)
 * Lam Research Scholarship (2015)
