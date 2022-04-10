@@ -14,7 +14,7 @@ author_profile: true
 ### Brain-Inspired Computing: Algorithm, Technology, and Application-Driven Innovations
 * Conference talk at ICCAD, Online, Nov. 2021.
 
-### From Thinker to Evolver: Towards Evolvable Intelligent Hardware
+### From Thinker to Evolver: Towards Evolvable Intelligence Hardware
 * Biren Technology, Online, Feb. 2021.
 
 ### Architecture Design and Memory Optimization for Neural Network Accelerators
