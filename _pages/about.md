@@ -38,13 +38,14 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Services
 ### TPC Member
-* Design Automation Conference (DAC)
-* IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
+* Design Automation Conference (DAC 2022)
+* Asia and South Pacific Design Automation Conference (ASP-DAC 2023)
+* IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
 
 ### Reviewer
-* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-* IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
-* IEEE Micro
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021 - Present)
+* IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS 2021 - Present)
+* IEEE Micro (2021 - Present)
 
 ## Honors and Awards
 * Nomination for 2021 Top-10 Research in China's Semiconductors (2021)
