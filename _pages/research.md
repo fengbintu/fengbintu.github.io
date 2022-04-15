@@ -16,7 +16,7 @@ Sep. 2020 - Oct. 2021: **ReDCIM and TranCIM. Reconfigurable Digital Computing-in
     - TranCIM connects its CIM engines through a reconfigurable streaming network (RSN) with dedicated modes for different layers in Transformer: Pipeline mode for attention layers and parallel mode for fully-connected layers. 
     - TranCIM's SRAM-CIM macro is designed with a bitline-transpose structure to align the directions of input feeding and weight writing. Thus in the QKT-pipeline mode, transposing K is realized without additional storage and buffer access. 
     - TranCIM implements a sparse attention scheduler (SAS) to dynamically configure CIM workload for different sparse attention patterns.
-- ReDCIM is the first CIM chip for cloud AI. TranCIM is the first CIM chip for Transformer models.
+- ReDCIM is the first CIM chip for cloud AI, which was covered by [Synced](https://mp.weixin.qq.com/s/v82Bt99l43S6Kegf83_q6A). TranCIM is the first CIM chip for Transformer models.
 
 Apr. 2018 - Aug. 2020: **Evolver, Evolvable AI Chip.**
 
