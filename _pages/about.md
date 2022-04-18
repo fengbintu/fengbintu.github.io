@@ -21,20 +21,21 @@ Computer Architecture, Reconfigurable Computing, In-Memory Computing, Deep Learn
 
 ## Professional Experience
 Oct. 2019 - Present: **University of California, Santa Barbara (UCSB)**
-
-* Postdoctoral researcher, working with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/)
+* Department of Electrical and Computer Engineering   
+* Scalable Energy-efficient Architecture Lab (SEAL)
+* **Postdoctoral Researcher**, working with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/)
 
 ## Education
 Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
-* Ph.D. in Electronic Science and Technology
-* Dissertation: Architecture Design and Memory Optimization for Neural Network Accelerators
+* **Ph.D.** in Electronic Science and Technology
+* Dissertation: **Architecture Design and Memory Optimization for Neural Network Accelerators**
   - Tsinghua Excellent Dissertation Award
   - Advisor: Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm)
-* GPA 3.8/4.0, Rank 2/20 in the Institute of Microelectronics 
+* **GPA Rank 2/20** in the Institute of Microelectronics 
 
 Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUPT)**
-* B.S. in Electronic Science and Technology 
-* GPA 3.9/4.0, Rank 1/255 in the School of Electronic Engineering
+* **B.S.** in Electronic Science and Technology 
+* **GPA Rank 1/255** in the School of Electronic Engineering
 
 ## Services
 ### TPC Member
