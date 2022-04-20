@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Book
+## Books
 * **F. Tu**, "Architecture Design and Memory Optimization for Neural Network Accelerators," Tsinghua University Press, 2022.
 * S. Yin, **F. Tu**, D. Zhu, S. Wei, "[Artificial Intelligence Chip Design](https://item.jd.com/12905294.html)," Science Press, 2020.
 
