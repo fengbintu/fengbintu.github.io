@@ -83,11 +83,11 @@ author:
   name             : "Fengbin Tu"
   avatar           : "profile.jpg"
   bio              : "Ph.D. in Electronic Science and Technology"
-  location         : "UCSB"
-  employer         :
+  location         : 
+  employer         : "UCSB"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=whszODQAAAAJ&hl=zh-CN"
-  email            : "fengbintu@ucsb.edu"
+  email            : "tufengbin@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
