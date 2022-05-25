@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fengbin Tu"
+title: "Fengbin Tu (涂锋斌)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
