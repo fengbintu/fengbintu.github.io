@@ -13,5 +13,9 @@ This is the most important lesson I learned from Prof. Yuan Xie. The ABCDE provi
 * D: Design (Creative Thinking)
 * E: Execution (Engineering Thinking)
 
+## Pyramid Principle
+
+## Deep Work
+
 ## Others
 Refer to Prof. Xie's [Advice Collection](https://seal.ece.ucsb.edu/advice-collection) for more tips.
