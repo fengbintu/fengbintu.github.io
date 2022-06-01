@@ -69,6 +69,5 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 ## Contact
 Address: Ellison Hall 1804, UCSB, Santa Barbara, California, USA
 
-Email1: strcat(last_name, "fengbin") at gmail dot com
+Email: strcat(last_name, "fengbin") at gmail dot com
 
-Email2: strcat("fengbin", last_name) at ucsb dot edu
