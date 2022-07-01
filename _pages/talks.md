@@ -10,7 +10,7 @@ author_profile: true
 * TsingMicro, Beijing, China, Feb. 2022.
 * Beijing Innovation Center for Future Chips, Tsinghua University, Beijing, China, Apr. 2022 ([Video and Text](https://mp.weixin.qq.com/s/Zfh2_iQ2NSQDGHSRwoVnww)).
 * Tsinghua University, Beijing, China, Apr. 2022.
-* ICAC (Workshop on IC Advances in China), Online, Jun. 2022.
+* ICAC (Workshop on IC Advances in China), [Online](https://mp.weixin.qq.com/s/qAy2EWFchCXDl-kak-F8cw), Jun. 2022.
 
 ### Brain-Inspired Computing: Algorithm, Technology, and Application-Driven Innovations
 * Conference talk at ICCAD, Online, Nov. 2021.
