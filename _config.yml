@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Fengbin Tu's Homepage"
-description              : &description "Postdoc Researcher"
+description              : &description "Postdoc Fellow"
 url                      : https://fengbintu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fengbintu/fengbintu.github.io"
@@ -83,8 +83,8 @@ author:
   name             : "Fengbin Tu"
   avatar           : "profile.jpg"
   bio              : "Ph.D. in Electronic Science and Technology"
-  location         : 
-  employer         : "UCSB"
+  location         : "Hong Kong"
+  employer         : "HKUST"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=whszODQAAAAJ&hl=zh-CN"
   email            : "tufengbin@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/fengbin-tu/"
   orcid            : 
   pinterest        :
   soundcloud       :
