@@ -8,22 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-**Postdoctoral Researcher**
+**Postdoctoral Fellow**
 
-*Scalable Energy-efficient Architecture Lab (SEAL)*    
-*Department of Electrical and Computer Engineering*    
-*University of California, Santa Barbara (UCSB)*    
+*AI Chip Center for Emerging Smart Systems (ACCESS)*      
+*The Hong Kong University of Science and Technology (HKUST)*    
 
-I'm currently working with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/), as a postdoctoral researcher at the Scalable Energy-efficient Architecture Lab (SEAL), Department of Electrical and Computer Engineering, UCSB. Before joining UCSB, I received my Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). My dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" won the Tsinghua Excellent Dissertation Award. I have an online collection of reseach on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
+I'm currently working with Prof. [Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326), as a Postdoctoral Fellow at AI Chip Center for Emerging Smart Systems (ACCESS) and The Hong Kong University of Science and Technology (HKUST). Before joining the current team, I worked with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/), as a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), Department of Electrical and Computer Engineering, UCSB. I received my Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). My dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" won the Tsinghua Excellent Dissertation Award. I have an online collection of reseach on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
 
 ## Research Interests
 Computer Architecture, Reconfigurable Computing, In-Memory Computing, Deep Learning
 
 ## Professional Experience
-Oct. 2019 - Present: **University of California, Santa Barbara (UCSB)**
+May. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
+* AI Chip Center for Emerging Smart Systems (ACCESS) 
+* **Postdoctoral Fellow**, working with Prof. [Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326)
+
+Oct. 2019 - May 2022: **University of California, Santa Barbara (UCSB)**
 * Department of Electrical and Computer Engineering   
 * Scalable Energy-efficient Architecture Lab (SEAL)
-* **Postdoctoral Researcher**, working with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/)
+* **Postdoctoral Scholar**, working with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/)
 
 ## Education
 Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
@@ -67,7 +70,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * BUPT Merit Student (2010, 2011, 2012) 
 
 ## Contact
-Address: Ellison Hall 1804, UCSB, Santa Barbara, California, USA
+Address: Units 801-806, 8/F, Building of 17W, 17 Science Park West Avenue, Hong Kong Science Park, Pak Shek Kok, Sha Tin, Hong Kong, China
 
 Email: strcat(last_name, "fengbin") at gmail dot com
-
+Email: strcat("fengbin", last_name) at ust dot hk
