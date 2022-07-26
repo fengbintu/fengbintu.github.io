@@ -8,7 +8,7 @@ author_profile: true
 ### Reconfigurable Digital Computing-In-Memory: Innovative Architecture Paradigm for AI Chips
 * Conference talk (ReDCIM and TranCIM) at ISSCC, Online, Feb. 2022.
 * TsingMicro, Beijing, China, Feb. 2022.
-* Beijing Innovation Center for Future Chips, Tsinghua University, Beijing, China, Apr. 2022 ([Video and Text](https://mp.weixin.qq.com/s/Zfh2_iQ2NSQDGHSRwoVnww)).
+* Beijing Innovation Center for Future Chips, Beijing, China, Apr. 2022 ([Video and Text](https://mp.weixin.qq.com/s/Zfh2_iQ2NSQDGHSRwoVnww)).
 * Tsinghua University, Beijing, China, Apr. 2022.
 * ICAC (Workshop on IC Advances in China), [Online](https://mp.weixin.qq.com/s/qAy2EWFchCXDl-kak-F8cw) [[Slides](http://icacworkshop.cn/slides/ICAC_2022_4.3_Tu_Fengbin.pdf)], Jun. 2022.
 * The University of Hong Kong, Hong Kong, China, Jul. 2022.
@@ -26,11 +26,11 @@ author_profile: true
 ### RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM
 * Conference talk at ISCA, Los Angeles, USA, Jun. 2018. 
 * Lightning talk for ISCA, [Online](https://www.youtube.com/watch?v=QmtDP13oXFE&list=PL_i_ACawvXe6jchq9RgA0lOL42EeVA7H4&t=33s&index=5), Jun. 2018.
-* Department of Electronic Engineering, Tsinghua University, Beijing, China, Jun. 2018.
+* Tsinghua University, Beijing, China, Jun. 2018.
 * Intel Labs China, Beijing, China, Aug. 2018.
 * Lam Research Technical Symposium, Beijing, China, Sep. 2018.
 
-### Thinker: A Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications
+### Thinker: Reconfigurable AI Chip for Multi-Modal DNN Inference
 * Conference talk at ISLPED, Taipei, China, Jul. 2017.
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2018.
 
