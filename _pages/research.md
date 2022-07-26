@@ -54,4 +54,4 @@ Sep. 2015 - Oct. 2016: **DNA and Thinker, Reconfigurable AI Chip.**
 Oct. 2013 - Oct. 2014: **RNA, Reconfigurable Architecture for Neural Approximation.**
 
 - [Reconfigurable Architecture for Neural Approximation in Multimedia Computing](http://ieeexplore.ieee.org/document/8307081/) (**TCSVT'19**)
-    - I designed a reconfigurable neural accelerator (RNA) that can be reconfigured for different neural networks. RNA targets approximate computing in multiple application domains.
+    - I designed a reconfigurable neural accelerator (RNA) to process multi-layer perceptron (MLP) for neural approximation. By approximating the core kernels in a program with MLP, RNA achieves higher performance and efficiency with negligible accuracy loss.
