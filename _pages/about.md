@@ -16,7 +16,7 @@ redirect_from:
 Fengbin Tu is currently working with Prof. [Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326), as a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS) and The Hong Kong University of Science and Technology. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He worked with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/), as a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), University of California, Santa Barbara, from 2019 to 2022. His Ph.D. dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" was recognized by the Tsinghua Excellent Dissertation Award. Dr. Tu has an online collection of reseach on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
 
 ## Research Interests
-Computer Architecture, Reconfigurable Computing, In-Memory Computing, Deep Learning
+AI Chip, Computer Architecture, Reconfigurable Computing, Computing-In-Memory
 
 ## Professional Experience
 May. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
@@ -41,12 +41,12 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * **GPA Rank 1/255** in the School of Electronic Engineering
 
 ## Services
-### TPC Member
+### Conference TPC Member
 * Design Automation Conference (DAC 2022)
 * Asia and South Pacific Design Automation Conference (ASP-DAC 2023)
 * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
 
-### Reviewer
+### Journal Reviewer
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021 - Present)
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS 2021 - Present)
 * IEEE Micro (2021 - Present)
@@ -70,7 +70,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * BUPT Merit Student (2010, 2011, 2012) 
 
 ## Contact
-Address: Units 801-806, 8/F, Building of 17W, 17 Science Park West Avenue, Hong Kong Science Park, Pak Shek Kok, Sha Tin, Hong Kong, China
+Address: Units 801, 8/F, Building of 17W, 17 Science Park West Avenue, Hong Kong Science Park, Pak Shek Kok, Sha Tin, Hong Kong, China
 
 Email: strcat(last_name, "fengbin") at gmail dot com
 
