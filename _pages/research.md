@@ -41,7 +41,7 @@ Jan. 2016 - Present: [**Neural Networks on Silicon.**](https://github.com/fengbi
 
 - I'm collecting works on neural network accelerators and related topics, in a GitHub project named [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon). It has attracted many researchers all around the world.
 
-Sep. 2015 - Oct. 2016: **DNA and Thinker, Reconfigurable AI Chip.**
+Sep. 2015 - Oct. 2016: **Thinker and DNA, Reconfigurable AI Chip.**
 
 - [Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI popular paper. No.5/2/6/8/8 Downloaded Manuscripts in 2017~2021: 6 Times Monthly No.1 since Sep. 2017.**)
   - I designed a deep convolutional neural network accelerator (DNA) targeting flexible and efficient CNN acceleration. This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters. DNA has two main features, in the architecture level and scheduling leverl, respectively.
