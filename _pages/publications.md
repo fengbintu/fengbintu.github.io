@@ -25,7 +25,8 @@ author_profile: true
 * **[DATE'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “RNA: A Reconfigurable Architecture for Hardware Neural Acceleration," Design, Automation and Test in Europe Conference (DATE), Grenoble, France, 2015. (**Acceptance Rate: 22%**)
 * **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “Neural Approximating Architecture  Targeting Multiple Application Domains," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
-## Featured Co-authored Papers
+## Featured Collaborative Papers
+* **[TCAS-I'22]** J. Yang, **F. Tu**, Y. Li, Y. Wang, L. Liu, S. Wei, S. Yin, "GQNA: Generic Quantized DNN Accelerator With Weight-Repetition-Aware Activation Aggregating," IEEE Transactions on Circuits and Systems I (TCAS-I), 2022. 
 * **[ISCA'22]** J. Lin, L. Liang, Z. Qu, I. Ahmad, L. Liu, **F. Tu**, T. Gupta, Y. Ding, Y. Xie, "INSPIRE: In-Storage Private Information Retrieval via Protocol and Architecture Co-design," International Symposium on Computer Architecture (ISCA), New York City, USA, 2022. (**Acceptance Rate: 16.8% = 67/400**) 	
 * **[DAC'22]** H. Lin, M. Yan, D. Wang, M. Zou, **F. Tu**, X. Ye, D. Fan, Y. Xie, "Alleviating Datapath Conflicts and Design Centralization in Graph Analytics Acceleration," Design Automation Conference (DAC), San Francisco, USA, 2022. (**Acceptance Rate: 23%**)
 * **[DATE'22]** L. Liang, Z. Chen, L. Deng, **F. Tu**, G. Li, Y. Xie, "Accelerating Spatiotemporal Supervised Training of Large-Scale Spiking Neural Networks on GPU," Design, Automation and Test in Europe Conference (DATE), 2022.
