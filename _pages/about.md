@@ -13,7 +13,7 @@ redirect_from:
 *AI Chip Center for Emerging Smart Systems (ACCESS)*      
 *The Hong Kong University of Science and Technology (HKUST)*    
 
-Fengbin Tu is currently an Adjunct Assistant Professor in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology. He is also a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS), working with Prof. [Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326). He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He worked with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/), as a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), University of California, Santa Barbara, from 2019 to 2022. His Ph.D. dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" was recognized by the Tsinghua Excellent Dissertation Award. Dr. Tu has an online collection of reseach on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
+Fengbin Tu is currently an [Adjunct Assistant Professor](https://ece.hkust.edu.hk/fengbintu) in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology. He is also a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS), working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui). He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He worked with Prof. [Yuan Xie](https://seal.ece.ucsb.edu/people/yuan-xie) and Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei), as a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), University of California, Santa Barbara, from 2019 to 2022. His Ph.D. dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" was recognized by the Tsinghua Excellent Dissertation Award. Dr. Tu has an online collection of reseach on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
 
 ## Research Interests
 AI Chip, Computer Architecture, Reconfigurable Computing, Computing-In-Memory
@@ -24,10 +24,10 @@ Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST
 * Department of Electronic and Computer Engineering 
 
 May. 2022 - Present: **AI Chip Center for Emerging Smart Systems (ACCESS)**
-* **Postdoctoral Fellow**, working with Prof. [Tim Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326)
+* **Postdoctoral Fellow**, working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui)
 
 Oct. 2019 - May 2022: **University of California, Santa Barbara (UCSB)**
-* **Postdoctoral Scholar**, working with Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/index.html) and Prof. [Yufei Ding](http://sites.cs.ucsb.edu/~yufeiding/)
+* **Postdoctoral Scholar**, working with Prof. [Yuan Xie](https://seal.ece.ucsb.edu/people/yuan-xie) and Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei)
 * Scalable Energy-efficient Architecture Lab (SEAL)
 * Department of Electrical and Computer Engineering   
 
@@ -54,7 +54,6 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * IEEE Open Journal of the Solid-State Circuits Society (OJ-SSCS 2022 - Present)
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS 2021 - Present)
 * IEEE Micro (2021 - Present)
-* Frontiers in Neuroscience (2022 - Present)
 
 ## Honors and Awards
 * Nomination for 2021 Top-10 Research in China's Semiconductors (2021)
