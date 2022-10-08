@@ -10,6 +10,8 @@ author_profile: true
 * S. Yin, **F. Tu**, D. Zhu, S. Wei, "[Artificial Intelligence Chip Design](https://item.jd.com/12905294.html)," Science Press, 2020.
 
 ## Journal Papers
+* **[JSSC'23]** **F. Tu**,  Z. Wu, Y. Wang, L. Liang, L. Liu, Y. Ding, L. Liu, S. Wei, Y. Xie, S. Yin, "TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes," IEEE Journal of Solid-State Circuits (JSSC), 2023. (*To Appear*)
+* **[TCAD'22]** **F. Tu***, Y. Wang*, L. Liang, Y. Ding, L. Liu, S. Wei,	S. Yin, Y. Xie, "SDP: Co-Designing Algorithm, Dataflow, and Architecture for in-SRAM Sparse NN Acceleration," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. (*Equal Contribution)
 * **[JSSC'21]** **F. Tu**, W. Wu, Y. Wang, H. Chen, F. Xiong, M. Shi, N. Li, J. Deng, T. Chen, L. Liu, S. Wei, Y. Xie, S. Yin, "[Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning](https://ieeexplore.ieee.org/document/9209075)," IEEE Journal of Solid-State Circuits (JSSC), 2021. (**Nomination for 2021 Top-10 Research in China’s Semiconductors**)
 * **[TCSVT'19]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[Reconfigurable Architecture for Neural Approximation in Multimedia Computing](http://ieeexplore.ieee.org/document/8307081/)," IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2019.
 * **[JSSC'18]** S. Yin, P. Ouyang, S. Tang, **F. Tu**, X. Li, S. Zheng, T. Lu, J. Gu, L. Liu, S. Wei, "[A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications](http://ieeexplore.ieee.org/document/8207783/)," IEEE Journal of Solid-State Circuits (JSSC), 2018.
@@ -26,6 +28,7 @@ author_profile: true
 * **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “Neural Approximating Architecture  Targeting Multiple Application Domains," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
 ## Featured Collaborative Papers
+* **[TC'22]** L. Liu, Z. Qu, Z. Chen, **F. Tu**, Y. Ding, Y. Xie, "Dynamic Sparse Attention for Scalable Transformer Acceleration," IEEE Transactions on Computers (TC), 2022.
 * **[TCAS-I'22]** J. Yang, **F. Tu**, Y. Li, Y. Wang, L. Liu, S. Wei, S. Yin, "GQNA: Generic Quantized DNN Accelerator With Weight-Repetition-Aware Activation Aggregating," IEEE Transactions on Circuits and Systems I (TCAS-I), 2022. 
 * **[ISCA'22]** J. Lin, L. Liang, Z. Qu, I. Ahmad, L. Liu, **F. Tu**, T. Gupta, Y. Ding, Y. Xie, "INSPIRE: In-Storage Private Information Retrieval via Protocol and Architecture Co-design," International Symposium on Computer Architecture (ISCA), New York City, USA, 2022. (**Acceptance Rate: 16.8% = 67/400**) 	
 * **[DAC'22]** H. Lin, M. Yan, D. Wang, M. Zou, **F. Tu**, X. Ye, D. Fan, Y. Xie, "Alleviating Datapath Conflicts and Design Centralization in Graph Analytics Acceleration," Design Automation Conference (DAC), San Francisco, USA, 2022. (**Acceptance Rate: 23%**)
