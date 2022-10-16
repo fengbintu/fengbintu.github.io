@@ -16,6 +16,9 @@ This is the most important lesson I learned from Prof. Yuan Xie. The ABCDE provi
 ## Pyramid Principle
 
 ## Deep Work
+Deep Work Mode: Use large time blocks for thinking-intensive works like formulating ideas and creating presentations. The tasks are usually on the critical path of your project, so they deserve your most active energy of a day.
+
+Shallow Work Mode: Use small time pieces for non-thinking-intensive works. Sometimes even forgetting these tasks won't change the results.
 
 ## Others
 Refer to Prof. Xie's [Advice Collection](https://seal.ece.ucsb.edu/advice-collection) for more tips.
