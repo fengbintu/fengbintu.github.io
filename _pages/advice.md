@@ -15,6 +15,9 @@ This is the most important lesson I learned from Prof. Yuan Xie. The ABCDE provi
 
 ## Pyramid Principle
 
+## Beautiful Science
+I believe the highest-level research is a beautiful art: Great insight matches smoothly with the target scientific problem. Readers would enjoy reading such beauty of science and get inspired to create their own arts.
+
 ## Deep Work
 Deep Work Mode: Use large time blocks for thinking-intensive works like formulating ideas and creating presentations. The tasks are usually on the critical path of your project, so they deserve your most active energy of a day.
 
