@@ -4,6 +4,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+## HKUST, Hong Kong, China, Oct. 2022
+
+<img src="/images/hkust.jpg" />
+
+I joined HKUST as an Adjunct Assistant Professor at the ECE Department and a Postdoc Fellow at ACCESS. My postdoc advisors: Prof. Tim Cheng and Prof. Yuan Xie.
+
 ## UCSB, California, USA, Dec. 2021
 
 <img src="/images/seal.jpg" />
