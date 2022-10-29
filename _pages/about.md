@@ -45,7 +45,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Services
 ### Conference TPC Member
-* Design Automation Conference (DAC 2022)
+* Design Automation Conference (DAC 2022, 2023)
 * Asia and South Pacific Design Automation Conference (ASP-DAC 2023)
 * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
 
