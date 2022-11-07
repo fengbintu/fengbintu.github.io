@@ -23,5 +23,7 @@ Deep Work Mode: Use large time blocks for thinking-intensive works like formulat
 
 Shallow Work Mode: Use small time pieces for non-thinking-intensive works. Sometimes even forgetting these tasks won't change the results.
 
+## Lifelong Learning
+
 ## Others
 Refer to Prof. Xie's [Advice Collection](https://seal.ece.ucsb.edu/advice-collection) for more tips.
