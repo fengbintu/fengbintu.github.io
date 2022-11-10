@@ -10,6 +10,7 @@ author_profile: true
 * S. Yin, **F. Tu**, D. Zhu, S. Wei, "[Artificial Intelligence Chip Design](https://item.jd.com/12905294.html)," Science Press, 2020.
 
 ## Journal Papers
+* **[JSSC'23]** **F. Tu**, Y. Wang,  Z. Wu, L. Liang, Y. Ding, B. Kim, L. Liu, S. Wei, Y. Xie, S. Yin, "ReDCIM: Reconfigurable Digital Computing-In-Memory Processor with Unified FP/INT Pipeline for Cloud AI Acceleration," IEEE Journal of Solid-State Circuits (JSSC), 2023 (**Invited Paper**, *To Appear*). 
 * **[JSSC'23]** **F. Tu**,  Z. Wu, Y. Wang, L. Liang, L. Liu, Y. Ding, L. Liu, S. Wei, Y. Xie, S. Yin, "[TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9931922)," IEEE Journal of Solid-State Circuits (JSSC), 2023. 
 * **[TCAS-I'23]** Y. Wang, **F. Tu**, L. Liu, S. Wei, Y. Xie, S. Yin, "[SPCIM: Sparsity-Balanced Practical CIM Accelerator with Optimized Spatial-Temporal Multi-Macro Utilization](https://ieeexplore.ieee.org/document/9933049)," IEEE Transactions on Circuits and Systems I (TCAS-I), 2023.
 * **[TCAD'22]** **F. Tu**, Y. Wang, L. Liang, Y. Ding, L. Liu, S. Wei,	S. Yin, Y. Xie, "[SDP: Co-Designing Algorithm, Dataflow, and Architecture for in-SRAM Sparse NN Acceleration](https://ieeexplore.ieee.org/document/9768124)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022.
