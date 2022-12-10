@@ -20,7 +20,7 @@ I joined HKUST as an Adjunct Assistant Professor at the ECE Department and a Pos
 
 <img src="/images/seal.jpg" />
 
-SEAL lab at the Goleta beach.
+SEAL lab at the Goleta Beach.
 
 ## UCSB, California, USA, Oct. 2019
 
@@ -28,7 +28,7 @@ SEAL lab at the Goleta beach.
 
 <img src="/images/ucsb_danli.jpg" />
 
-I started my journey at UCSB.
+I started my journey at UCSB, as a Postdoc Scholar in Prof. Yuan Xie's SEAL lab.
 
 ## THU, Beijing, China, Jul. 2019
 
@@ -36,7 +36,13 @@ I started my journey at UCSB.
 
 <img src="/images/graduate_yin.jpg" />
 
-I graduated from THU. My advisors: Prof. Shaojun Wei and Prof. Shouyi Yin.
+I graduated from Tsinghua University with great honor. My advisors: Prof. Shaojun Wei and Prof. Shouyi Yin.
+
+## Taipei, China, Jul. 2017
+
+<img src="/images/thinker.jpg" />
+
+Our Thinker chip won the ISLPED'17 Design Contest Award. It was the starting point of our lab's success in AI chips.
 
 ## Cabo da Roca, Lisbon, Portugal, May 2015
 
