@@ -38,7 +38,7 @@ I started my journey at UCSB, as a Postdoc Scholar in Prof. Yuan Xie's SEAL lab.
 
 I graduated from Tsinghua University with great honor. My advisors: Prof. Shaojun Wei and Prof. Shouyi Yin.
 
-## Taipei, China, Jul. 2017
+## Thinker at ISLPED'17, Taipei, China, Jul. 2017
 
 <img src="/images/thinker.jpg" />
 
