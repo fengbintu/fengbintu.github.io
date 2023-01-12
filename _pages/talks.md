@@ -13,6 +13,7 @@ author_profile: true
 * ICAC (Workshop on IC Advances in China), [Online](https://mp.weixin.qq.com/s/qAy2EWFchCXDl-kak-F8cw) [[Slides](http://icacworkshop.cn/slides/ICAC_2022_4.3_Tu_Fengbin.pdf)], Jun. 2022.
 * The University of Hong Kong, Hong Kong, China, Jul. 2022.
 * Beihang University, Beijing, China, Dec. 2022.
+* Institute of Computing Technology, Chinese Academy of Sciences, China, Jan. 2023.
 
 ### Brain-Inspired Computing: Algorithm, Technology, and Application-Driven Innovations
 * Conference talk at ICCAD, Online, Nov. 2021.
