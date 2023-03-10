@@ -7,6 +7,8 @@ author_profile: true
 
 ### Reconfigurable Digital CIM and AutoDCIM
 * TsingMicro, Beijing, China, Mar. 2023.
+* Horizon Robotics, Beijing, China, Mar. 2023.
+* Peking University, Beijing, China, Mar. 2023.
 
 ### Reconfigurable Digital Computing-In-Memory: Innovative Architecture Paradigm for AI Chips
 * Conference talk (ReDCIM and TranCIM) at ISSCC, Online, Feb. 2022.
