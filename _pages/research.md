@@ -16,7 +16,7 @@ Sep. 2020 - Oct. 2021: **Reconfigurable Digital Computing-In-Memory AI Chip.**
 - TranCIM: [A 28nm 15.59$\mu$J/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645) (**ISSCC'22**, extended to [**JSSC'23**](https://ieeexplore.ieee.org/document/9931922))
   - TranCIM has three features targeting the challenges raised by the attention mechanism of Transformer models.
     - TranCIM connects its CIM engines through a reconfigurable streaming network (RSN) with dedicated modes for different layers in Transformer: Pipeline mode for attention layers and parallel mode for fully-connected layers. 
-    - TranCIM's SRAM-CIM macro is designed with a bitline-transpose structure to align the directions of input feeding and weight writing. Thus in the QKT-pipeline mode, transposing K is realized without additional storage and buffer access. 
+    - TranCIM's SRAM-CIM macro is designed with a bitline-transpose structure to align the directions of input feeding and weight writing. Thus in the QK$^T$-pipeline mode, transposing K is realized without additional storage and buffer access. 
     - TranCIM implements a sparse attention scheduler (SAS) to dynamically configure CIM workload for different sparse attention patterns.
 
 Apr. 2018 - Aug. 2020: **Evolver, Evolvable AI Chip.**
