@@ -20,7 +20,7 @@ author_profile: true
 * **[TVLSI'17]** **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**TVLSI No.5/2/6/8/8 Downloaded Manuscripts in 2017~2021: 6 Times Monthly No.1 since Sep. 2017**)
 
 ## Conference Papers
-* **[DAC'23]** J. Chen, **F. Tu**, K. Shao, F. Tian, X. Huo, C-Y. Tsui, T. Cheng, "AutoDCIM: An Automated Digital CIM Compiler," Design Automation Conference (DAC), San Francisco, USA, 2023. (Corresponding Author, **Acceptance Rate: 23%**)
+* **[DAC'23]** J. Chen, **F. Tu**, K. Shao, F. Tian, X. Huo, C.-Y. Tsui, K.-T. Cheng, "AutoDCIM: An Automated Digital CIM Compiler," Design Automation Conference (DAC), San Francisco, USA, 2023. (Corresponding Author, **Acceptance Rate: 23%**)
 * **[ISSCC'23]** **F. Tu**,  Y. Wang, Z. Wu, W. Wu, L. Liu, Y. Hu, S. Wei, S. Yin, "TensorCIM: A 28nm 3.7nJ/Gather and 8.3TFLOPS/W FP32 Digital-CIM Tensor Processor for MCM-CIM-based Beyond-NN Acceleration," International Solid-State Circuits Conference (ISSCC), San Francisco, USA, 2023.
 * **[ISSCC'23]** **F. Tu**,  Z. Wu, Y. Wang, W. Wu, L. Liu, Y. Hu, S. Wei, S. Yin, "MulTCIM: A 28nm 2.24$\mu$J/Token Attention-Token-Bit Hybrid Sparse Digital CIM-based Accelerator for Multimodal Transformers," International Solid-State Circuits Conference (ISSCC), San Francisco, USA, 2023. (**Highlight Paper**)
 * **[ISSCC'22]** **F. Tu**,  Y. Wang, Z. Wu, L. Liang, Y. Ding, B. Kim, L. Liu, S. Wei, Y. Xie, S. Yin, "[A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration](https://ieeexplore.ieee.org/document/9731762)," International Solid-State Circuits Conference (ISSCC), 2022. (**Highlight Paper**)
@@ -33,7 +33,7 @@ author_profile: true
 * **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “Neural Approximating Architecture  Targeting Multiple Application Domains," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
 ## Featured Collaborative Papers
-* **[DAC'23]** Y. Zhu, Z. Zhu, G. Dai, **F. Tu**, H. Sun, T. Cheng, H. Yang, Y. Wang, "PIM-HLS: Automatic Hardware Generation and Scheduling for Processing-in-Memory-based Neural Network Accelerators," Design Automation Conference (DAC), San Francisco, USA, 2023. (**Acceptance Rate: 23%**)
+* **[DAC'23]** Y. Zhu, Z. Zhu, G. Dai, **F. Tu**, H. Sun, K.-T. Cheng, H. Yang, Y. Wang, "PIM-HLS: Automatic Hardware Generation and Scheduling for Processing-in-Memory-based Neural Network Accelerators," Design Automation Conference (DAC), San Francisco, USA, 2023. (**Acceptance Rate: 23%**)
 * **[TCAS-I'23]** W. Wu, **F. Tu**, M. Niu, Z. Yue, L. Liu, S. Wei, X. Li, Y. Hu, S. Yin, "STAR: An STGCN ARchitecture for Skeleton-based Human Action Recognition," IEEE Transactions on Circuits and Systems I (TCAS-I), 2023. 
 * **[TCAS-I'23]** S. Wei, X. Lin, **F. Tu**, Y. Wang, L. Liu, S. Yin, "Reconfigurability, Why It Matters in AI Tasks Processing: a Survey of Reconfigurable AI Chips," IEEE Transactions on Circuits and Systems I (TCAS-I), 2023. 
 * **[TC'22]** L. Liu, Z. Qu, Z. Chen, **F. Tu**, Y. Ding, Y. Xie, "Dynamic Sparse Attention for Scalable Transformer Acceleration," IEEE Transactions on Computers (TC), 2022.
