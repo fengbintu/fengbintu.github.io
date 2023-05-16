@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-**Adjunct Assistant Professor at HKUST, Postdoctoral Fellow at ACCESS**
+**Assistant Professor**
 
-*AI Chip Center for Emerging Smart Systems (ACCESS)*      
 *The Hong Kong University of Science and Technology (HKUST)*    
+*Department of Electronic and Computer Engineering* 
 
-Fengbin Tu is currently an [Adjunct Assistant Professor](https://ece.hkust.edu.hk/fengbintu) in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology. He is also a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS), working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui). He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He worked with Prof. [Yuan Xie](https://seal.ece.ucsb.edu/people/yuan-xie) and Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei), as a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), University of California, Santa Barbara, from 2019 to 2022. His Ph.D. dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" was recognized by the Tsinghua Excellent Dissertation Award. Dr. Tu has an online collection of reseach on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
+Fengbin Tu is currently an Assistant Professor in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://seal.ece.ucsb.edu/people/yuan-xie) and Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS), working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui), from 2022 to 2023. His Ph.D. dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" was recognized by the Tsinghua Excellent Dissertation Award. Dr. Tu has an online collection of reseach on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
 
 ## Research Interests
 AI Chip, Computer Architecture, Reconfigurable Computing, Computing-In-Memory
 
 ## Professional Experience
 Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
-* **Adjunct Assistant Professor**
+* **Assistant Professor** (Since Jun. 2023)
+* **Adjunct Assistant Professor** (Oct. 2022 - Jun. 2023)
 * Department of Electronic and Computer Engineering 
 
 May. 2022 - Present: **AI Chip Center for Emerging Smart Systems (ACCESS)**
