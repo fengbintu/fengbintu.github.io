@@ -74,7 +74,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * BUPT Merit Student (2010, 2011, 2012) 
 
 ## Contact
-Address: Units 801, 8/F, Building of 17W, 17 Science Park West Avenue, Hong Kong Science Park, Pak Shek Kok, Sha Tin, Hong Kong, China
+Address: Room 2418, 2/F (Lift 25/26), The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
 
 Email: strcat(last_name, "fengbin") at gmail dot com
 
