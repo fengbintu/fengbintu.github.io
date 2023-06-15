@@ -74,7 +74,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * BUPT Merit Student (2010, 2011, 2012) 
 
 ## Contact
-Address: Room 2418, 2/F (Lift 25/26), The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+Address: Room 2418, 2/F (Lift 25/26), Academic Building, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
 
 Email: strcat(last_name, "fengbin") at gmail dot com
 
