@@ -4,6 +4,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+## HKUST, Hong Kong, China, Jun. 2023
+
+<img src="/images/hkust_onboard.jpg" />
+
+I started my new career as a tenue-track assistant professor at the ECE Department of HKUST.
+
 ## MacLehose Trail, Hong Kong, China, Dec. 2022
 
 <img src="/images/一生所爱.jpg" />
