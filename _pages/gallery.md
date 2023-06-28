@@ -8,7 +8,7 @@ author_profile: true
 
 <img src="/images/hkust_onboard.jpg" />
 
-I started my new career as a tenue-track assistant professor at the ECE Department of HKUST.
+I started my new career as a tenue-track Assistant Professor at the ECE Department of HKUST.
 
 ## MacLehose Trail, Hong Kong, China, Dec. 2022
 
