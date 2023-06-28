@@ -24,7 +24,7 @@ Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST
 * **Adjunct Assistant Professor** (Oct. 2022 - Jun. 2023)
 * Department of Electronic and Computer Engineering 
 
-May. 2022 - Present: **AI Chip Center for Emerging Smart Systems (ACCESS)**
+May. 2022 - Jun. 2023: **AI Chip Center for Emerging Smart Systems (ACCESS)**
 * **Postdoctoral Fellow**, working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui)
 
 Oct. 2019 - May 2022: **University of California, Santa Barbara (UCSB)**
@@ -76,6 +76,4 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 ## Contact
 Address: Room 2418, 2/F (Lift 25/26), Academic Building, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
 
-Email: strcat(last_name, "fengbin") at gmail dot com
-
-Email: strcat("fengbin", last_name) at ust dot hk
+Email: fengbintu at ust dot hk
