@@ -27,5 +27,7 @@ Shallow Work Mode: Use small time pieces for non-thinking-intensive works. Somet
 
 ## Lifelong Learning
 
+## Passion-Driven Research
+
 ## Others
 Refer to Prof. Xie's [Advice Collection](https://seal.ece.ucsb.edu/advice-collection) for more tips.
