@@ -4,6 +4,9 @@ title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
+[Jul. 2023] **AutoDCIM, Automated Digital CIM Macro Compiler.**
+- I worked with ACCESS and developed AutoDCIM, the first automated digital CIM (DCIM) macro compiler. AutoDCIM takes the user specifications as inputs and generates a DCIM macro architecture with an optimized layout. With the growing interest in the DCIM field, AutoDCIM will play an important role in agile DCIM implementation and developing an ecosystem for DCIM-based AI computing.
+- [AutoDCIM: An Automated Digital CIM Compiler](https://ieeexplore.ieee.org/document/10247976) (**DAC'23**)
 
 [Feb. 2023] **Scaling-out Reconfigurable Digital CIM.**
 - I designed two 28nm chips that scale out the AI capability based on Reconfigurable Digital Computing-In-Memory (CIM). TensorCIM is the first CIM processor for tensor computing in a Multi-Chip-Module system. MulTCIM is the first CIM accelerator for the emerging multimodal Transformer models, which leverages attention-token-bit hybrid sparsity to improve energy efficiency.
@@ -33,7 +36,7 @@ author_profile: true
 
 [Apr. 2017] **Thinker and DNA, Reconfigurable AI Chip.**
 
-- DNA: [Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI popular paper. No.5/2/6/8/8 Downloaded Manuscripts in 2017~2021: 6 Times Monthly No.1 since Sep. 2017.**)
+- DNA: [Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI No.5/2/6/8/8/9 Downloaded Manuscripts in 2017~2022: 6 Times Monthly No.1 since Sep. 2017.**)
   - I designed a deep convolutional neural network accelerator (DNA) targeting flexible and efficient CNN acceleration. This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.
 - Thinker: [A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications](http://ieeexplore.ieee.org/document/8207783/) (**JSSC'18**) 
   - A reconfigurable multi-modal neural network processor (Thinker) was fabricated based on the DNA architecture, supporting CNN, RNN, and FCN. 
