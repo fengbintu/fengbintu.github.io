@@ -13,7 +13,7 @@ redirect_from:
 *The Hong Kong University of Science and Technology (HKUST)*    
 *Department of Electronic and Computer Engineering* 
 
-Fengbin Tu is currently an [Assistant Professor](https://ece.hkust.edu.hk/fengbintu) in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://seal.ece.ucsb.edu/people/yuan-xie) and Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS), working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui), from 2022 to 2023. His Ph.D. dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" was recognized by the Tsinghua Excellent Dissertation Award. Dr. Tu has an online collection of reseach on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
+Fengbin Tu is currently an [Assistant Professor](https://ece.hkust.edu.hk/fengbintu) in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology and a core faculty member of the AI Chip Center for Emerging Smart Systems ([ACCESS](https://inno-access.hk)) under InnoHK. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://seal.ece.ucsb.edu/people/yuan-xie) and Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at ACCESS, working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui), from 2022 to 2023. His Ph.D. dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" was recognized by the Tsinghua Excellent Dissertation Award. Dr. Tu has an online collection of reseach on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
 
 ## Research Interests
 AI Chip, Computer Architecture, Reconfigurable Computing, Computing-In-Memory
@@ -46,19 +46,25 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Services
 ### Conference TPC Member
-* Design Automation Conference (DAC 2022, 2023)
+* Design Automation Conference (DAC 2022 - 2024)
 * Asia and South Pacific Design Automation Conference (ASP-DAC 2023)
 * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
 
+### Journal Editor
+SCIENCE CHINA Information Sciences (Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
+
 ### Journal Reviewer
+* IEEE Journal of Solid-State Circuits (JSSC 2023 - Present)
+* IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I 2023 - Present)
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021 - Present)
 * IEEE Open Journal of the Solid-State Circuits Society (OJ-SSCS 2022 - Present)
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS 2021 - Present)
 * IEEE Micro (2021 - Present)
 
 ## Honors and Awards
-* Nomination for 2021 Top-10 Research in China's Semiconductors (2021)
-* Top Picks 2021 in Chinese Institute of Electronics (2021)
+* ZGC Forum Top-100 New Technologies and Products (2023)
+* JOS Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2021)
+* 2021 Top Picks in Chinese Institute of Electronics (2021)
 * Beijing Outstanding Graduate (2013, 2019)
 * THU Excellent Dissertation Award (2019)
 * THU Outstanding Student Scholarship (2016, 2018)
