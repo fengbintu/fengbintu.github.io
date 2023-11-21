@@ -11,6 +11,12 @@ author_profile: true
 * Peking University, Beijing, China, Mar. 2023 ([Text](https://mp.weixin.qq.com/s/rf1yLB7N-TOGdcBDOlP0hA)).
 * ICAC (Workshop on IC Advances in China), Shenzhen, China, Mar. 2023.
 * ACCESS Technology Symposium, Hong Kong, China, Jun. 2023.
+* ISIC (International Symposium on Integrated Circuits), Nanjing, China, Jul. 2023.
+* HKUST ICDC Annual Symposium, Hong Kong, China, Aug. 2023.
+* HKUST-THU Joint Workshop, Hong Kong, China, Sep. 2023.
+* ESWEEK DOT-PIM Workshop, Hamburg, Germany, Sept. 2023.
+* HKTDC Hong Kong Electronics Fair, Hong Kong, China, Oct. 2023.
+* EDA Forum, HKUST(GZ), Guangzhou, China, Dec. 2023.
 
 ### Reconfigurable Digital Computing-In-Memory: Innovative Architecture Paradigm for AI Chips
 * Conference talk (ReDCIM and TranCIM) at ISSCC, Online, Feb. 2022.
@@ -19,8 +25,12 @@ author_profile: true
 * Tsinghua University, Beijing, China, Apr. 2022.
 * ICAC (Workshop on IC Advances in China), [Online](https://mp.weixin.qq.com/s/qAy2EWFchCXDl-kak-F8cw), Jun. 2022.
 * The University of Hong Kong, Hong Kong, China, Jul. 2022.
-* Beihang University, Beijing, China, Dec. 2022.
+* ACCESS Seminar, Hong Kong and Online, Aug. 2022.
+* Novauto, Online, Sep. 2022.
+* The Hong Kong University of Science and Technology, Hong Kong, China, Nov. 2022.
+* Beihang University, Online, Dec. 2022.
 * Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China, Jan. 2023.
+* Huazhong University of Science and Technology, Online, Aug. 2023.
 
 ### Brain-Inspired Computing: Algorithm, Technology, and Application-Driven Innovations
 * Conference talk at ICCAD, Online, Nov. 2021.
