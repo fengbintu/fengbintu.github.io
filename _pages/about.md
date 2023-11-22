@@ -24,8 +24,9 @@ Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST
 * **Adjunct Assistant Professor** (Oct. 2022 - Jun. 2023)
 * Department of Electronic and Computer Engineering 
 
-May. 2022 - Jun. 2023: **AI Chip Center for Emerging Smart Systems (ACCESS)**
-* **Postdoctoral Fellow**, working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui)
+May. 2022 - Present: **AI Chip Center for Emerging Smart Systems (ACCESS)**
+* **Faculty Member** (Since Jun. 2023)
+* **Postdoctoral Fellow** (May. 2022 - Jun. 2023), working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui)
 
 Oct. 2019 - May 2022: **University of California, Santa Barbara (UCSB)**
 * **Postdoctoral Scholar**, working with Prof. [Yuan Xie](https://seal.ece.ucsb.edu/people/yuan-xie) and Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei)
