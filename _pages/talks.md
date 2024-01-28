@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+### Scalable Computing-In-Memory Chiplet-based Artificial Intelligence Processor 
+* Intel China Research Center, Beijing, China, Jan. 2024.
+* Tsinghua University, Beijing, China, Jan. 2024.
+
 ### Digital Computing-In-Memory and Design Automation
 * TsingMicro, Beijing, China, Mar. 2023.
 * Horizon Robotics, Beijing, China, Mar. 2023.
