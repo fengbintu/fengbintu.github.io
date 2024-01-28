@@ -52,7 +52,8 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
 
 ### Journal Editor
-SCIENCE CHINA Information Sciences (Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
+* SCIENCE CHINA Information Sciences (Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
+* Journal of Semiconductors (Youth Editorial Board Member, JOS 2024 - Present)
 
 ### Journal Reviewer
 * IEEE Journal of Solid-State Circuits (JSSC 2023 - Present)
