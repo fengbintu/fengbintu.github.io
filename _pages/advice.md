@@ -29,5 +29,12 @@ Shallow Work Mode: Use small time pieces for non-thinking-intensive works. Somet
 
 ## Passion-Driven Research
 
+## Reading List
+* Computer Architecture:A Quantitative Approach
+* Computer Organization and Design: The Hardware/Software Interface
+* Readings in Computer Architecture
+* The Pyramid Principle: Logic in Writing and Thinking
+* Deep Work: Rules for Focused Success in a Distracted World
+
 ## Others
 Refer to Prof. Xie's [Advice Collection](https://seal.ece.ucsb.edu/advice-collection) for more tips.
