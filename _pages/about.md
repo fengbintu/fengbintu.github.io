@@ -33,7 +33,7 @@ Oct. 2019 - May 2022: **University of California, Santa Barbara (UCSB)**
 * Scalable Energy-efficient Architecture Lab (SEAL)
 * Department of Electrical and Computer Engineering   
 
-## Education
+## Education Experience
 Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
 * **Ph.D.** in Electronic Science and Technology
 * Dissertation: **Architecture Design and Memory Optimization for Neural Network Accelerators**
@@ -45,7 +45,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * **B.S.** in Electronic Science and Technology 
 * Beijing Outstanding Graduate (5%), GPA Rank 1/255 in the School of Electronic Engineering
 
-## Services
+## Academic Services
 ### Conference TPC Member
 * Design Automation Conference (DAC 2022 - 2024)
 * Asia and South Pacific Design Automation Conference (ASP-DAC 2023)
@@ -81,12 +81,15 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * Lam Research Scholarship (2015)
 * Excellent Paper Award of THU Ph.D. Student Forum (2015)
 * National Scholarship for Undergraduate Students (BUPT 2010, 2011, 2012, 0.2%)
-* BUPT Merit Student (2010, 2011, 2012) 
+* BUPT Merit Student (2010, 2011, 2012)
+
+## COURSE TEACHING 
+* ELEC 2350: Introduction to Computer Organization and Design (Spring 2024)
+* ELEC 6950: Departmental Seminar (Spring 2024)
 
 ## Contact
 Address: Room 2418, 2/F (Lift 25/26), Academic Building, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
 
 Email: fengbintu at ust dot hk
-
 <br/><br/>
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=fa9RQj-cgl1m5eQQQyP1VHu5hbgUfLQa-PSsV3Cc58w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
