@@ -34,7 +34,6 @@ author_profile: true
 [Jan. 2016] [**Neural Networks on Silicon.**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
 - I'm collecting works on neural network accelerators and related topics, in a GitHub project named [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon). It has attracted many researchers all around the world.
-
 <br/><br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=dsa5AVOFg0rRpp7KEbZkefF_b96H2AZUpT5NKWikq3s&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
