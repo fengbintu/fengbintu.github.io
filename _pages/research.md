@@ -17,13 +17,14 @@ author_profile: true
 [Feb. 2022] **Reconfigurable Digital Computing-In-Memory AI Chip.**
 - I designed an innovative AI chip architecture, Reconfigurable Digital Computing-In-Memory. The architecture fuses the philosophy of reconfigurable computing and digital computing-in-memory, balancing efficiency, accuracy, and flexibility for emerging AI chips. I designed two 28nm chips based on the new architecture, Reconfigurable Digital CIM (ReDCIM) and Transformer CIM (TranCIM). ReDCIM (pronounced as "red-CIM") is the first CIM chip for cloud AI with flexible FP/INT support, which was covered by [Synced](https://mp.weixin.qq.com/s/v82Bt99l43S6Kegf83_q6A). TranCIM is the first CIM chip for Transformer models, which tackles the memory and computation challenges raised by Transformer's attention mechanism.
 - ReDCIM: [A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration](https://ieeexplore.ieee.org/document/9731762) (**ISSCC'22**, extended to [**JSSC'23**](https://ieeexplore.ieee.org/document/9968289))
+  - ReDCIM was awarded the [2023 Top-10 Research Advances in China Semiconductors](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650731796&idx=1&sn=20715157349e7b05c33a499bfb3ff49b&chksm=881d30bebf6ab9a891cc54bc66f95126fbaf295b2df5121a91b8fe95029ecde29237719e9ac8&mpshare=1&scene=2&srcid=0205egurWwnMVy5QKhWrR1d3&sharer_shareinfo=0a5e68f5bd8e867fbaa555ede0957cef&sharer_shareinfo_first=9d0438640e200e56fc5ef6d3473b320a#rd).
 - TranCIM: [A 28nm 15.59$\mu$J/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645) (**ISSCC'22**, extended to [**JSSC'23**](https://ieeexplore.ieee.org/document/9931922))
 
 [Aug. 2020] **Evolver, Evolvable AI Chip.**
 
 - [Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning](https://ieeexplore.ieee.org/document/9209075) (**JSSC'21**)
   - I designed a 28nm evolvable AI chip (Evolver) with DNN training and reinforcement learning capabilities, to enable intelligence evolution during the chip's long lifetime. This work demonstrates a lifelong learning example of on-device quantization-voltage-frequency (QVF) tuning. Compared with conventional QVF tuning that determines policies offline, Evolver makes optimal customizations for varying local user scenarios. 
-  - Evolver won the [JOS Nomination Award for 2021 Top-10 Research Advances in China Semiconductors](https://mp.weixin.qq.com/s/Sad4Kc9lP8XW9vebdt7KaA).
+  - Evolver won the [Nomination Award for 2021 Top-10 Research Advances in China Semiconductors](https://mp.weixin.qq.com/s/Sad4Kc9lP8XW9vebdt7KaA).
 
 [Jun. 2018] **RANA, Software-Hardware Co-design for AI Chip Memory Optimization.**
 
