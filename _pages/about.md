@@ -66,8 +66,9 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * IEEE Micro (2021 - Present)
 
 ## Honors and Awards
+* 2023 Top-10 Research Advances in China Semiconductors (2023)
 * ZGC Forum Top-100 New Technologies and Products (2023)
-* JOS Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2021)
+* Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2021)
 * Top-Pick Paper Award in Chinese Institute of Electronics (2021)
 * Beijing Outstanding Graduate (BUPT 2013, THU 2019, 5%)
 * THU Excellent Dissertation Award (2019)
