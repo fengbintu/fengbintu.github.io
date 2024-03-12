@@ -85,7 +85,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * National Scholarship for Undergraduate Students (BUPT 2010, 2011, 2012, 0.2%)
 * BUPT Merit Student (2010, 2011, 2012)
 
-## COURSE TEACHING 
+## Course Teaching
 * ELEC 2350: Introduction to Computer Organization and Design (Spring 2024)
 * ELEC 6950: Departmental Seminar (Spring 2024)
 
