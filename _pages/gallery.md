@@ -20,7 +20,7 @@ I started my new career as a tenue-track Assistant Professor at the ECE Departme
 
 ## ACCESS, Hong Kong, China, Jun. 2023
 
-<img src="/images/2023_acces_symposium.png" />
+<img src="/images/2023_access_symposium.png" />
 
 I gave a talk at the ACCESS Symposium (with Prof. CY Tsui and Prof. Hayden So), as a Postdoc at ACCESS and Adjunct Assistant Professor at HKUST. I would switch to a tenue-track Assistant Professor at HKUST one week later.
 
