@@ -4,17 +4,25 @@ permalink: /gallery/
 author_profile: true
 ---
 
-## HKUST, Hong Kong, China, Aug. 2023
+## DOT-PIM at ESWEEK'23, Hamburg, Germany, Sep. 2023
 
-<img src="/images/2023_tulab.jpg" />
+<img src="/images/2023_esweek.png" />
 
-TU-LAB at the Integrated Circuit Design Center (ICDC). Left to right: Kunming Shao (PhD Student), Jia Chen (Postdoc), Me, Bohan Yang (Visiting Student), Yongkun Wu (PhD Student).
+<img src="/images/2023_esweek-dotpim.jpg" />
+
+I attended the ESWEEK'23 as a speaker and part-time co-host of Workshop on Agile Design and Optimization Tools for Processing-In-Memory (DOT-PIM). Happy to connect my students to the international research community, and meet Prof. Sharon Hu (General Chair) and Prof. Yiyu Shi. Sharon attended our DOT-PIM to the last minute and concluded the one-day workshop in the classroom of TU Hamburg. The zero-distance discussion really empressed me a lot. 
 
 ## HKUST, Hong Kong, China, Jun. 2023
 
 <img src="/images/2023_hkust_onboard.jpg" />
 
 I started my new career as a tenue-track Assistant Professor at the ECE Department of HKUST.
+
+## ACCESS, Hong Kong, China, Jun. 2023
+
+<img src="/images/2023_acces-symposium.png" />
+
+I gave a talk at the ACCESS Symposium (with Prof. CY Tsui and Prof. Hayden So), as a Postdoc at ACCESS and Adjunct Assistant Professor at HKUST. I would switch to a tenue-track Assistant Professor at HKUST one week later.
 
 ## MacLehose Trail, Hong Kong, China, Dec. 2022
 
