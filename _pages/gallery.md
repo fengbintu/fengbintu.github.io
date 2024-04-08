@@ -8,7 +8,7 @@ author_profile: true
 
 <img src="/images/2023_esweek.png" />
 
-<img src="/images/2023_esweek-dotpim.jpg" />
+<img src="/images/2023_esweek_dotpim.jpg" />
 
 I attended the ESWEEK'23 as a speaker and part-time co-host of Workshop on Agile Design and Optimization Tools for Processing-In-Memory (DOT-PIM). Happy to connect my students to the international research community, and meet Prof. Sharon Hu (General Chair) and Prof. Yiyu Shi. Sharon attended our DOT-PIM to the last minute and concluded the one-day workshop in the classroom of TU Hamburg. The zero-distance discussion really empressed me a lot. 
 
@@ -20,7 +20,7 @@ I started my new career as a tenue-track Assistant Professor at the ECE Departme
 
 ## ACCESS, Hong Kong, China, Jun. 2023
 
-<img src="/images/2023_acces-symposium.png" />
+<img src="/images/2023_acces_symposium.png" />
 
 I gave a talk at the ACCESS Symposium (with Prof. CY Tsui and Prof. Hayden So), as a Postdoc at ACCESS and Adjunct Assistant Professor at HKUST. I would switch to a tenue-track Assistant Professor at HKUST one week later.
 
