@@ -47,14 +47,16 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * Beijing Outstanding Graduate (5%), GPA Rank 1/255 in the School of Electronic Engineering
 
 ## Academic Services
-### Conference TPC Member
-* Design Automation Conference (DAC 2022 - 2024)
-* Asia and South Pacific Design Automation Conference (ASP-DAC 2023)
-* IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
+### Conference Services
+* PC Member, Design Automation Conference (DAC 2022 - 2024)
+* PC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023)
+* PC Member, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
+* PC Member, Ph.D. Forum at DAC (2024)
+* PC Member, The 1st International Workshop on Acceleration and Optimization of Multi-modal Computing (ISCA Workshop, AOMC 2024)
 
 ### Journal Editor
-* SCIENCE CHINA Information Sciences (Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
-* Journal of Semiconductors (Youth Editorial Board Member, JOS 2024 - Present)
+* Science China Information Sciences (SCIS Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
+* Journal of Semiconductors (JOS Youth Editorial Board Member, 2024 - Present)
 
 ### Journal Reviewer
 * IEEE Journal of Solid-State Circuits (JSSC 2023 - Present)
@@ -90,7 +92,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * ELEC 6950: Departmental Seminar (Spring 2024)
 
 ## Contact
-Address: Room 2418, 2/F (Lift 25/26), Academic Building, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+Address: Room 2418, 2/F (Lift 25/26), Academic Building, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
 
 Email: fengbintu at ust dot hk
 <br/><br/>
