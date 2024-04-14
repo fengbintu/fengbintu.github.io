@@ -9,7 +9,7 @@ author_profile: true
 * **F. Tu**, "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://item.jd.com/13141679.html)," Tsinghua University Press, 2022. 
 * S. Yin, **F. Tu**, D. Zhu, S. Wei, "[Artificial Intelligence Chip Design](https://item.jd.com/12905294.html)," Science Press, 2020.
 
-## Books
+## Survey Articles
 * **[JOS'24]** B. Yang, J. Chen, **F. Tu**, "[Towards Efficient Generative AI and Beyond-AI Computing: New Trends on ISSCC 2024 Machine Learning Accelerators](http://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/45/4/040204)," Journal of Semiconductors (JOS), 2024. (Corresponding Author, **Invited Paper**)
 * **[TCAS-I'23]** S. Wei, X. Lin, **F. Tu**, Y. Wang, L. Liu, S. Yin, "[Reconfigurability, Why It Matters in AI Tasks Processing: a Survey of Reconfigurable AI Chips](https://ieeexplore.ieee.org/document/9996124)," IEEE Transactions on Circuits and Systems I (TCAS-I), 2023. 
 
