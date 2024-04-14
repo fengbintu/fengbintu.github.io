@@ -41,13 +41,13 @@ author_profile: true
 * Huazhong University of Science and Technology, Online, Aug. 2023.
 
 ### Brain-Inspired Computing: Algorithm, Technology, and Application-Driven Innovations
-* Conference talk at ICCAD, Online, Nov. 2021.
+* Conference Talk at ICCAD, Online, Nov. 2021.
 
 ### From Thinker to Evolver: Towards Evolvable Intelligence Hardware
 * Biren Technology, Online, Feb. 2021.
 
 ### Architecture Design and Memory Optimization for Neural Network Accelerators
-* Dissertation talk at Tsinghua University, Beijing, China, Jul. 2019.
+* Dissertation Talk at Tsinghua University, Beijing, China, Jul. 2019.
 * 601 Talk, Beijing, China, Jul. 2019.
 
 ### RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM
@@ -63,7 +63,7 @@ author_profile: true
 
 ### DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns
 * THU Ph.D. Student Forum, Beijing, China, Oct. 2016.
-* Conference talk at ISSCC-SRP, San Francisco, USA, Feb. 2017.
+* Conference Talk at ISSCC-SRP, San Francisco, USA, Feb. 2017.
 * Deephi Tech, Beijing, China, Apr. 2017. 
 * AI Tech Talk, [Online](https://v.qq.com/x/page/r0504zxvl3j.html) [[Text](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html)], May 2017.
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2017.
