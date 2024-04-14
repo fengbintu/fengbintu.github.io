@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 ### Scalable Computing-In-Memory Chiplet-based Artificial Intelligence Processor 
+* Conference Talk (MulTCIM and TensorCIM) at ISSCC, Online, Feb. 2023.
 * Intel China Research Center, Beijing, China, Jan. 2024.
 * Tsinghua University, Beijing, China, Jan. 2024.
+* ICAC (Workshop on IC Advances in China), Shanghai, China, Mar. 2024.
+* Shanghai Jiao Tong University, Shanghai, China, Mar. 2024.
+* HKUST ECE Departmental Seminar, Hong Kong, China, Apr. 2024.
 
 ### Digital Computing-In-Memory and Design Automation
 * TsingMicro, Beijing, China, Mar. 2023.
@@ -23,7 +27,7 @@ author_profile: true
 * EDA Forum, HKUST(GZ), Guangzhou, China, Dec. 2023.
 
 ### Reconfigurable Digital Computing-In-Memory: Innovative Architecture Paradigm for AI Chips
-* Conference talk (ReDCIM and TranCIM) at ISSCC, Online, Feb. 2022.
+* Conference Talk (ReDCIM and TranCIM) at ISSCC, Online, Feb. 2022.
 * TsingMicro, Beijing, China, Feb. 2022.
 * Beijing Innovation Center for Future Chips, Beijing, China, Apr. 2022 ([Video and Text](https://mp.weixin.qq.com/s/Zfh2_iQ2NSQDGHSRwoVnww)).
 * Tsinghua University, Beijing, China, Apr. 2022.
@@ -47,14 +51,14 @@ author_profile: true
 * 601 Talk, Beijing, China, Jul. 2019.
 
 ### RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM
-* Conference talk at ISCA, Los Angeles, USA, Jun. 2018. 
-* Lightning talk for ISCA, [Online](https://www.youtube.com/watch?v=QmtDP13oXFE&list=PL_i_ACawvXe6jchq9RgA0lOL42EeVA7H4&t=33s&index=5), Jun. 2018.
+* Conference Talk at ISCA, Los Angeles, USA, Jun. 2018. 
+* Lightning Talk for ISCA, [Online](https://www.youtube.com/watch?v=QmtDP13oXFE&list=PL_i_ACawvXe6jchq9RgA0lOL42EeVA7H4&t=33s&index=5), Jun. 2018.
 * Tsinghua University, Beijing, China, Jun. 2018.
 * Intel Labs China, Beijing, China, Aug. 2018.
 * Lam Research Technical Symposium, Beijing, China, Sep. 2018.
 
 ### Thinker: Reconfigurable AI Chip for Multi-Modal DNN Inference
-* Conference talk at ISLPED, Taipei, China, Jul. 2017.
+* Conference Talk at ISLPED, Taipei, China, Jul. 2017.
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2018.
 
 ### DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns
