@@ -18,6 +18,9 @@ This is the most important lesson I learned from Prof. Yuan Xie. The ABCDE provi
 ## [Write for Readers](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf) (By Prof. Yang Liu, THU, in Chinese)
 
 ## [Having Effective Meetings Between Advisors and Students](https://www.sigarch.org/having-effective-meetings-between-advisors-and-students/) (By Prof. Mingyu Gao, THU)
+My friend Prof. Gao wrote the tips several years before I started my faculty career, but they are still helpful when I meet my students: 
+
+"1) Review the current progress quickly. 2) Spend time mostly on advice for improvements and plans for the next steps. 3) End the meeting with a summary of to-do tasks. 4) Save easy and minor issues as well as detail checks to offline. 5) Learn how to analyze problems independently and comprehensively. 6) And also actively reach out for help when needed."
 
 ## Beautiful Science
 I believe the highest-level research is a beautiful art: Great insight matches smoothly with the target scientific problem. Readers would enjoy reading such beauty of science and get inspired to create their own arts.
