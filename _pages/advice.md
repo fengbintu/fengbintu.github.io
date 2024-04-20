@@ -15,9 +15,9 @@ This is the most important lesson I learned from Prof. Yuan Xie. The ABCDE provi
 
 ## Pyramid Principle
 
-## [Write for Readers](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+## [Write for Readers](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf) (By Prof. Yang Liu, THU, in Chinese)
 
-## [Having Effective Meetings Between Advisors and Students](https://www.sigarch.org/having-effective-meetings-between-advisors-and-students/) (By Prof. Mingyu Gao)
+## [Having Effective Meetings Between Advisors and Students](https://www.sigarch.org/having-effective-meetings-between-advisors-and-students/) (By Prof. Mingyu Gao, THU)
 
 ## Beautiful Science
 I believe the highest-level research is a beautiful art: Great insight matches smoothly with the target scientific problem. Readers would enjoy reading such beauty of science and get inspired to create their own arts.
