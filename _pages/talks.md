@@ -22,7 +22,7 @@ author_profile: true
 * ISIC (International Symposium on Integrated Circuits), Nanjing, China, Jul. 2023.
 * HKUST ICDC Annual Symposium, Hong Kong, China, Aug. 2023.
 * HKUST-THU Joint Workshop, Hong Kong, China, Sep. 2023.
-* ESWEEK DOT-PIM Workshop, Hamburg, Germany, Sept. 2023.
+* ESWEEK DOT-PIM Workshop, Hamburg, Germany, Sep. 2023.
 * HKTDC Hong Kong Electronics Fair, Hong Kong, China, Oct. 2023.
 * EDA Forum, HKUST(GZ), Guangzhou, China, Dec. 2023.
 
