@@ -12,6 +12,7 @@ author_profile: true
 * ICAC (Workshop on IC Advances in China), Shanghai, China, Mar. 2024.
 * Shanghai Jiao Tong University, Shanghai, China, Mar. 2024.
 * HKUST ECE Departmental Seminar, Hong Kong, China, Apr. 2024.
+* University of Macau, Macau, China, May 2024.
 
 ### Digital Computing-In-Memory and Design Automation
 * TsingMicro, Beijing, China, Mar. 2023.
