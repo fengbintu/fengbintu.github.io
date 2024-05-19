@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Scalable Computing-In-Memory Chiplet-based Artificial Intelligence Processor 
+### High-Performance Computing-In-Memory Chiplet-based AI Processor 
 * Conference Talk (MulTCIM and TensorCIM) at ISSCC, Online, Feb. 2023.
 * Intel China Research Center, Beijing, China, Jan. 2024.
 * Tsinghua University, Beijing, China, Jan. 2024.
