@@ -4,6 +4,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+## University of Macau, Macau, China, May 2024
+
+<img src="/images/2024_macau.jpg" />
+
+I gave a talk at University of Macau and met Prof. Pui In Mak, Prof. Wei-Han Yu, Prof. Ka-Fai Un at the State Key Laboratory of Analog and Mixed-Signal VLSI (AMSV).
+
 ## DOT-PIM at ESWEEK'23, Hamburg, Germany, Sep. 2023
 
 <img src="/images/2023_esweek.png" />
