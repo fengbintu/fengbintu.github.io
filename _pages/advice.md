@@ -34,6 +34,8 @@ Shallow Work Mode: Use small time pieces for non-thinking-intensive works. Somet
 
 ## Passion-Driven Research
 
+## Target-Driven Methodology
+
 ## Reading List
 * Computer Architecture: A Quantitative Approach
 * Computer Organization and Design: The Hardware/Software Interface
