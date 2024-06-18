@@ -69,6 +69,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * IEEE Micro (2021 - Present)
 
 ## Honors and Awards
+* WAIC Yunfan Award (``Bright Stars", Top-10 Chinese AI Scholars under 35, 2024)
 * 2023 Top-10 Research Advances in China Semiconductors (2023)
 * ZGC Forum Top-100 New Technologies and Products (2023)
 * Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2021)
