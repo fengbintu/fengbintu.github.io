@@ -21,29 +21,26 @@ This is the most important lesson I learned from Prof. Yuan Xie. The original ve
 * E: Execution (Engineering Thinking). For first-second-year Ph.D. students, we may be entering a new research field or working with senior students. Quickly learn all the basic techniques for simulation and design. 
 
 ## Writing and Presentation
-### Pyramid Principle
-The Pyramid Principle is an efficient way for communication to the potential (busy) reviewers, readers, or audience. The key is **leading with the conclusion first** and then presenting supporting materials.
-The principle works for both writing and presentation, which totally changes my research dimension. 
-
-### [Write for Readers](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf) (By Prof. Yang Liu, THU, in Chinese)
-### Keep a Habit of Writing (Inspired by Dr. Harry Shum, HKUST, "[You are What you Write](https://www.linkedin.com/pulse/you-what-write-harry-shum/)", [Chinese Version](https://www.microsoft.com/zh-cn/ard/news/news_2018_07))
-Random thinking becomes logical thinking only after writing down. Keep writing weekly memo and try daily memo.
+* **Pyramid Principle**
+  * The Pyramid Principle is an efficient way for communication to the potential (busy) reviewers, readers, or audience. The key is **leading with the conclusion first** and then presenting supporting materials. The principle works for both writing and presentation, which totally changes my research dimension. 
+* [**Write for Readers**](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf) (By Prof. Yang Liu, THU, in Chinese)
+* **Keep a Habit of Writing** (Inspired by Dr. Harry Shum, HKUST, "[You are What you Write](https://www.linkedin.com/pulse/you-what-write-harry-shum/)", [Chinese Version](https://www.microsoft.com/zh-cn/ard/news/news_2018_07))
+  * Random thinking becomes logical thinking only after writing down. Keep writing weekly memo and try daily memo.
 
 ## Time Management
-### [Having Effective Meetings Between Advisors and Students](https://www.sigarch.org/having-effective-meetings-between-advisors-and-students/) (By Prof. Mingyu Gao, THU)
-My friend Prof. Gao wrote the tips several years before I started my faculty career, but they are still helpful when I meet my students: 
-
-"1) Review the current progress quickly. 2) Spend time mostly on advice for improvements and plans for the next steps. 3) End the meeting with a summary of to-do tasks. 4) Save easy and minor issues as well as detail checks to offline. 5) Learn how to analyze problems independently and comprehensively. 6) And also actively reach out for help when needed."
-### Deep Work
-* Deep Work Mode: Use large time blocks for thinking-intensive works like formulating ideas and creating presentations. The tasks are usually on the critical path of your project, so they deserve your most active energy of a day.
-* Shallow Work Mode: Use small time pieces for non-thinking-intensive works. Sometimes even forgetting these tasks won't change the results.
+* [**Having Effective Meetings Between Advisors and Students**](https://www.sigarch.org/having-effective-meetings-between-advisors-and-students/) (By Prof. Mingyu Gao, THU)
+  * My friend Prof. Gao wrote the tips several years before I started my faculty career, but they are still helpful when I meet my students:
+  * "1) Review the current progress quickly. 2) Spend time mostly on advice for improvements and plans for the next steps. 3) End the meeting with a summary of to-do tasks. 4) Save easy and minor issues as well as detail checks to offline. 5) Learn how to analyze problems independently and comprehensively. 6) And also actively reach out for help when needed."
+* **Deep Work**
+  * Deep Work Mode: Use large time blocks for thinking-intensive works like formulating ideas and creating presentations. The tasks are usually on the critical path of your project, so they deserve your most active energy of a day.
+  * Shallow Work Mode: Use small time pieces for non-thinking-intensive works. Sometimes even forgetting these tasks won't change the results.
 
 ## Research Taste
-### Amdahl's Law
-This law for computer architecture also works for general research or even life. Pay attention to the critical bottleneck of your problem, because solving it brings the highest benefits.
-### Fundamental Innovation > Incremental Innovation
-### Beautiful Science
-I believe the highest-level research is a beautiful art: Great insight matches smoothly with the target scientific problem. Readers would enjoy reading such beauty of science and get inspired to create their own arts.
+* **Amdahl's Law**
+  * This law for computer architecture also works for general research or even life. Pay attention to the critical bottleneck of your problem, because solving it brings the highest benefits.
+* **Fundamental Innovation > Incremental Innovation**
+* **Beautiful Science**
+  * I believe the highest-level research is a beautiful art: Great insight matches smoothly with the target scientific problem. Readers would enjoy reading such beauty of science and get inspired to create their own arts.
 
 ## Reading List
 * Computer Architecture: A Quantitative Approach
