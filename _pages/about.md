@@ -47,11 +47,11 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Academic Services
 ### Conference Services
-* PC Member, Design Automation Conference (DAC 2022 - 2024)
-* PC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
-* PC Member, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
-* PC Member, Ph.D. Forum at DAC (2024)
-* PC Member, The 1st International Workshop on Acceleration and Optimization of Multi-modal Computing (ISCA Workshop, AOMC 2024)
+* TPC Member, Design Automation Conference (DAC 2022 - 2024)
+* TPC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
+* TPC Member, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
+* TPC Member, Ph.D. Forum at DAC (2024)
+* TPC Member, The 1st International Workshop on Acceleration and Optimization of Multi-modal Computing (ISCA Workshop, AOMC 2024)
 
 ### Journal Editor
 * Science China Information Sciences (SCIS Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
@@ -70,8 +70,8 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Honors and Awards
 * WAIC Yunfan Award ("Bright Stars", Top-10 Chinese AI Scholars under 35, 2024)
-* Nomination Award for 2023 Top-10 Research Advances in China Chip Science (2023)
 * 2023 Top-10 Research Advances in China Semiconductors (2023)
+* Nomination Award for 2023 Top-10 Research Advances in China Chip Science (2023)
 * ZGC Forum Top-100 New Technologies and Products (2023)
 * Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2021)
 * Top-Pick Paper Award in Chinese Institute of Electronics (2021)
