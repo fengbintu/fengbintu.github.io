@@ -29,7 +29,7 @@ author_profile: true
 * HKTDC Hong Kong Electronics Fair, Hong Kong, China, Oct. 2023.
 * EDA Forum, HKUST(GZ), Guangzhou, China, Dec. 2023.
 
-### Reconfigurable Digital Computing-in-Memory: Innovative Architecture Paradigm for AI Chips
+### Reconfigurable Digital Computing-in-Memory: New Architecture Paradigm for AI Chips
 * Conference Talk (ReDCIM and TranCIM) at ISSCC, Online, Feb. 2022.
 * TsingMicro, Beijing, China, Feb. 2022.
 * Beijing Innovation Center for Future Chips, Beijing, China, Apr. 2022 ([Video and Text](https://mp.weixin.qq.com/s/Zfh2_iQ2NSQDGHSRwoVnww)).
@@ -64,7 +64,7 @@ author_profile: true
 * Conference Talk at ISLPED, Taipei, China, Jul. 2017.
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2018.
 
-### DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns
+### DNA: Deep CNN Accelerator with Reconfigurable Computation Patterns
 * THU Ph.D. Student Forum, Beijing, China, Oct. 2016.
 * Conference Talk at ISSCC-SRP, San Francisco, USA, Feb. 2017.
 * Deephi Tech, Beijing, China, Apr. 2017. 
