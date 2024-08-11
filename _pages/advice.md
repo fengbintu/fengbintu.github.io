@@ -1,9 +1,17 @@
 ---
-layout: archive
+layout: single
 title: "Advice for Research"
 permalink: /advice/
 author_profile: true
 ---
+
+I like observing the environment and understanding the philosophy behind facts. Thanks to the advisors and friends I met during my academic journey, I have learned different styles of research methods. I summarize them here with my own understanding and hope they can help the younger generation:
+* [ABCDE Principles](#abcde-principles)
+* [Writing and Presentation](#writing-and-presentation)
+* [Time Management](#time-management)
+* [Research Taste](#research-taste)
+* [Reading List](#reading-list)
+
 
 ## ABCDE Principles
 This is the most important lesson I learned from Prof. Yuan Xie. The original version of ABCDE provides guidelines for how to become an excellent researcher. Always remember to take a look back at these principles, after you run for a long research journey. The following is my version **based on my own study and career development**. 
@@ -13,28 +21,27 @@ This is the most important lesson I learned from Prof. Yuan Xie. The original ve
 * D: Design (Creative Thinking). For third-year Ph.D. students, we should understand how to extract scientific problems from a given topic, propose techniques targeting the problems, and design experiments to effectively evaluate the techniques.
 * E: Execution (Engineering Thinking). For first-second-year Ph.D. students, we may be entering a new research field or working with senior students. Quickly learn all the basic techniques for simulation and design. 
 
-## Pyramid Principle
+## Writing and Presentation
+* **Pyramid Principle**
+  * The Pyramid Principle is an efficient way for communication to the potential (busy) reviewers, readers, or audience. The key is **leading with the conclusion first** and then presenting supporting materials. The principle works for both writing and presentation, which totally changes my research dimension. 
+* [**Write for Readers**](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf) (By Prof. Yang Liu, THU, in Chinese)
+* **Keep a Habit of Writing** (Inspired by Dr. Harry Shum, HKUST, "[You are What you Write](https://www.linkedin.com/pulse/you-what-write-harry-shum/)", [Chinese Version](https://www.microsoft.com/zh-cn/ard/news/news_2018_07))
+  * Random thinking becomes logical thinking only after writing down. Keep writing weekly memo and try daily memo.
 
-## [Write for Readers](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf) (By Prof. Yang Liu, THU, in Chinese)
+## Time Management
+* [**Having Effective Meetings Between Advisors and Students**](https://www.sigarch.org/having-effective-meetings-between-advisors-and-students/) (By Prof. Mingyu Gao, THU)
+  * My friend Prof. Gao wrote the tips several years before I started my faculty career, but they are still helpful when I meet my students:
+  * "1) Review the current progress quickly. 2) Spend time mostly on advice for improvements and plans for the next steps. 3) End the meeting with a summary of to-do tasks. 4) Save easy and minor issues as well as detail checks to offline. 5) Learn how to analyze problems independently and comprehensively. 6) And also actively reach out for help when needed."
+* **Deep Work**
+  * Deep Work Mode: Use large time blocks for thinking-intensive works like formulating ideas and creating presentations. The tasks are usually on the critical path of your project, so they deserve your most active energy of a day.
+  * Shallow Work Mode: Use small time pieces for non-thinking-intensive works. Sometimes even forgetting these tasks won't change the results.
 
-## [Having Effective Meetings Between Advisors and Students](https://www.sigarch.org/having-effective-meetings-between-advisors-and-students/) (By Prof. Mingyu Gao, THU)
-My friend Prof. Gao wrote the tips several years before I started my faculty career, but they are still helpful when I meet my students: 
-
-"1) Review the current progress quickly. 2) Spend time mostly on advice for improvements and plans for the next steps. 3) End the meeting with a summary of to-do tasks. 4) Save easy and minor issues as well as detail checks to offline. 5) Learn how to analyze problems independently and comprehensively. 6) And also actively reach out for help when needed."
-
-## Beautiful Science
-I believe the highest-level research is a beautiful art: Great insight matches smoothly with the target scientific problem. Readers would enjoy reading such beauty of science and get inspired to create their own arts.
-
-## Deep Work
-Deep Work Mode: Use large time blocks for thinking-intensive works like formulating ideas and creating presentations. The tasks are usually on the critical path of your project, so they deserve your most active energy of a day.
-
-Shallow Work Mode: Use small time pieces for non-thinking-intensive works. Sometimes even forgetting these tasks won't change the results.
-
-## Lifelong Learning
-
-## Passion-Driven Research
-
-## Target-Driven Methodology
+## Research Taste
+* **Amdahl's Law**
+  * This law for computer architecture also works for general research or even life. Pay attention to the critical bottleneck of your problem, because solving it brings the highest benefits.
+* **Fundamental Innovation > Incremental Innovation**
+* **Beautiful Science**
+  * I believe the highest-level research is a beautiful art: Great insight matches smoothly with the target scientific problem. Readers would enjoy reading such beauty of science and get inspired to create their own arts.
 
 ## Reading List
 * Computer Architecture: A Quantitative Approach
@@ -42,6 +49,3 @@ Shallow Work Mode: Use small time pieces for non-thinking-intensive works. Somet
 * Readings in Computer Architecture
 * The Pyramid Principle: Logic in Writing and Thinking
 * Deep Work: Rules for Focused Success in a Distracted World
-
-## Others
-Refer to Prof. Xie's [Advice Collection](https://seal.ece.ucsb.edu/advice-collection) for more tips (Not available any more, unfortunately).
