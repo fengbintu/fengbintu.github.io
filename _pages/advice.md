@@ -1,9 +1,10 @@
 ---
-layout: archive
+layout: single
 title: "Advice for Research"
 permalink: /advice/
 author_profile: true
 ---
+
 I like observing the environment and understanding the philosophy behind facts. Thanks to the advisors and friends I met during my academic journey, I have learned different styles of research methods. I summarize them here with my own understanding and hope they can help the younger generation:
 * [ABCDE Principles](#abcde-principles)
 * [Writing and Presentation](#writing-and-presentation)
