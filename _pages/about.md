@@ -54,8 +54,8 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * TPC Member, The 1st International Workshop on Acceleration and Optimization of Multi-modal Computing (ISCA Workshop, AOMC 2024)
 
 ### Journal Editor
-* Science China Information Sciences (SCIS Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
 * Journal of Semiconductors (JOS Youth Editorial Board Member, 2024 - Present)
+* Science China: Information Sciences (SCIS Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
 
 ### Journal Reviewer
 * IEEE Journal of Solid-State Circuits (JSSC 2023 - Present)
@@ -71,6 +71,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 ## Honors and Awards
 * **2023 Top-10 Research Advances in China Semiconductors (2023)**
 * **WAIC Yunfan Award ("Bright Stars", Top-10 Chinese AI Scholars under 35, 2024)**
+* **ISLPED'17 Design Contest Award (2017)**
 * Nomination Award for 2023 Top-10 Research Advances in China Chip Science (2023)
 * ZGC Forum Top-100 New Technologies and Products (2023)
 * Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2021)
@@ -78,20 +79,18 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * Beijing Outstanding Graduate (BUPT 2013, THU 2019, 5%)
 * THU Excellent Dissertation Award (2019)
 * THU Outstanding Student Scholarship (2016, 2018)
-* THU DengFeng Fellowship (2015, 2018)
-* IME Outstanding Young Researcher Award (2018)
+* THU-IME Outstanding Young Researcher Award (2018)
 * National Scholarship for Ph.D. Students (THU 2017, 0.2%)
-* ISLPED'17 Design Contest Award (2017)
 * THU Outstanding Postgraduate Assistant (2016)
 * ICFC Fellowship for Outstanding Ph.D. Students (2016)
 * Lam Research Scholarship (2015)
-* Excellent Paper Award of THU Ph.D. Student Forum (2015)
+* Excellent Paper Award at THU-IME Ph.D. Student Forum (2015)
 * National Scholarship for Undergraduate Students (BUPT 2010, 2011, 2012, 0.2%)
 * BUPT Merit Student (2010, 2011, 2012)
 
 ## Course Teaching
 * ELEC 2350: Introduction to Computer Organization and Design (Spring 2024)
-* ELEC 6910H: Advanced AI Chip and System (Fall 2025)
+* ELEC 6910H: Advanced AI Chip and System (Fall 2024)
 
 ## Contact
 Address: Room 2418, 2/F (Lift 25/26), Academic Building, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
