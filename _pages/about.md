@@ -39,11 +39,13 @@ Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
 * Dissertation: **Architecture Design and Memory Optimization for Neural Network Accelerators**
   - Tsinghua Excellent Dissertation Award
   - Advisor: Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm)
-* Beijing Outstanding Graduate (5%), GPA Rank 2/20 in the Institute of Microelectronics 
+* Beijing Outstanding Graduate (5%), GPA Rank 2/20 in the Institute of Microelectronics
+* National Scholarship for Ph.D. Students (0.2%, 2017)
 
 Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUPT)**
 * **B.S.** in Electronic Science and Technology 
 * Beijing Outstanding Graduate (5%), GPA Rank 1/255 in the School of Electronic Engineering
+* National Scholarship for Undergraduate Students (0.2%, 2010, 2011, 2012)
 
 ## Academic Services
 ### Conference Services
