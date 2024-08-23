@@ -73,11 +73,11 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Honors and Awards
 * **China NSFC Excellent Young Scientist Scheme (国家优秀青年科学基金, 2024)**
-* **2023 Top-10 Research Advances in China Semiconductors (2023)**
+* **2023 Top-10 Research Advances in China Semiconductors (2024)**
 * **WAIC Yunfan Award ("Bright Stars", Top-10 Chinese AI Scholars under 35, 2024)**
-* Nomination Award for 2023 Chip10 Science (2023)
+* Nomination Award for 2023 Chip10 Science (2024)
 * ZGC Forum Top-100 New Technologies and Products (2023)
-* Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2021)
+* Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2022)
 * Top-Pick Paper Award in Chinese Institute of Electronics (2021)
 * Beijing Outstanding Graduate (BUPT 2013, THU 2019, 5%)
 * THU Excellent Dissertation Award (2019)
