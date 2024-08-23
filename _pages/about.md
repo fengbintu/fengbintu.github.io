@@ -62,6 +62,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 ### Journal Reviewer
 * IEEE Journal of Solid-State Circuits (JSSC 2023 - Present)
 * IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I 2023 - Present)
+* IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI 2024 - Present)
 * IEEE Transactions on Computers (TC 2024 - Present)
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021 - Present)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023 - Present)
