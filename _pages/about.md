@@ -72,7 +72,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * ACM Transactions on Design Automation of Electronic Systems (TODAES, Since 2024)
 
 ## Honors and Awards
-* **China NSFC Excellent Young Scientist Scheme (2024)**
+* **China NSFC Excellent Young Scientist Scheme (国家优秀青年科学基金, 2024)**
 * **2023 Top-10 Research Advances in China Semiconductors (2023)**
 * **WAIC Yunfan Award ("Bright Stars", Top-10 Chinese AI Scholars under 35, 2024)**
 * Nomination Award for 2023 Chip10 Science (2023)
