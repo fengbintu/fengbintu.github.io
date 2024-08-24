@@ -43,6 +43,7 @@ This is the most important lesson I learned from Prof. Yuan Xie. The original ve
   * I always try to pursue fundamental innovation before kicking off a new project.
 * **Beautiful Science**
   * I believe the highest-level research is a beautiful art: Great insight matches smoothly with the target scientific problem. Readers would enjoy reading such beauty of science and get inspired to create their own arts.
+  * I happened to find Prof. Andrew Chi-Chih Yao has a similar view on [research taste](https://www.tsinghua.edu.cn/info/1660/108453.htm), which was mentioned on the [2024 THU graduate student opening ceremony](https://www.xiaohongshu.com/explore/66c946b1000000001f01f8dd?app_platform=android&ignoreEngage=true&app_version=8.50.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBIVE25FiV7j0Yugajlo63b6w6rFOYoI21Y8o5rSP0-TY=&author_share=1&xhsshare=WeixinSession&shareRedId=N0g5OTQ3OU84Sko6OjowNjY0TDxISUk5&apptime=1724492037&share_id=62271996af4545418898f197affe7ad3).
 
 ## Reading List
 * Computer Architecture: A Quantitative Approach
