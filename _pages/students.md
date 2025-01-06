@@ -17,6 +17,7 @@ I feel fortunate to work with the following talented students.
 * Xin Zhao (M.S. from UESTC, Fall 2024)
 * [Bohan Yang](https://starkerfirst.github.io/) (B.S. from USTC Gifted Young, HKPFS, Fall 2024)
 * Longke Yan (B.S. from UESTC, RedBird, Fall 2024)
+* Zhuoya Yan (M.S. From PKU, Spring 2025)
 
 ## Visiting Student
 * Junyi Wu (Year-4 UG from NJU, Early Admissin-Fall 2025)

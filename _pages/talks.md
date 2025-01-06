@@ -15,6 +15,8 @@ author_profile: true
 * University of Macau, Macau, China, May 2024.
 * WAIC Yunfan Award Ceremony, Shanghai, China, Jul. 2024.
 * CCF Chip Conference, Shanghai, China, Jul. 2024.
+* CIE Young Scientist Conference, Wuhan, China, Nov. 2024.
+* Rising Star Express (RiSE) Forum at A-SSCC, Hiroshima, Japan, Nov. 2024.
 
 ### Digital Computing-in-Memory and Design Automation
 * TsingMicro, Beijing, China, Mar. 2023.
