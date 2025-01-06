@@ -4,6 +4,18 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
+## High Junk Peak, Hong Kong, China, Dec. 2024 
+
+<img src="/images/2024_group[1].jpg" />
+
+I hiked the High Junk Peak (钓鱼翁, one of the three sharp peaks in Hong Kong) with my students.
+
+## HKUST, Hong Kong, China, Nov. 2024 
+
+<img src="/images/2024_6910h[1].jpg" />
+
+I finished the first semester of ELEC 6910H (Advanced AI Chip and System), which is the first AI chip course in Hong Kong. 
+
 ## University of Macau, Macau, China, May 2024 
 
 <img src="/images/2024_macau[1].jpg" />
