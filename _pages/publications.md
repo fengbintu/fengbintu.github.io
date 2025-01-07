@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Books
-* **F. Tu**, "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://item.jd.com/13141679.html)," Tsinghua University Press, 2022. 
-* S. Yin, **F. Tu**, D. Zhu, S. Wei, "[Artificial Intelligence Chip Design](https://item.jd.com/12905294.html)," Science Press, 2020.
+* **F. Tu**, "[神经网络加速器的计算架构及存储优化技术研究](https://books.google.com.hk/books/about/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%8A%A0%E9%80%9F%E5%99%A8%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9E%B6%E6%9E%84%E5%8F%8A.html?id=TfZQzwEACAAJ&redir_esc=y) (Architecture Design and Memory Optimization for Neural Network Accelerators)," Tsinghua University Press, 2022. 
+* S. Yin, **F. Tu**, D. Zhu, S. Wei, "[人工智能芯片设计](https://books.google.com.hk/books/about/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87%E8%AE%BE%E8%AE%A1.html?id=Z2fBzgEACAAJ&redir_esc=y) (Artificial Intelligence Chip Design)," Science Press, 2020.
 
 ## Survey Articles
 * **[JOS'24]** B. Yang, J. Chen, **F. Tu**, "[Towards Efficient Generative AI and Beyond-AI Computing: New Trends on ISSCC 2024 Machine Learning Accelerators](http://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/45/4/040204)," Journal of Semiconductors (JOS), 2024. (**Invited Paper**)
@@ -26,7 +26,7 @@ author_profile: true
 * **[TVLSI'17]** **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**TVLSI No.5/2/6/8/8/9 Downloaded Manuscripts in 2017~2022, 6 Times Monthly No.1 Popular Article**)
 
 ## Conference Papers
-* **[ISSCC'25]** P. Dong, Y. Tan, X. Liu, P. Luo, Y. Liu, L. Liang, Y. Zhou, D. Pang, M. Yung, D. Zhang, X. Huang, S.-Y. Liu, Y. Wu, F. Tian, C.-Y. Tsui, **F. Tu**, K.-T. Cheng, "A 28nm 0.22$\mu$J/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation," International Solid-State Circuits Conference ou(ISSCC), San Francisco, USA, 2025. (*Co-Corresponding Author, **The First AI chip ISSCC paper from Hong Kong**)
+* **[ISSCC'25]** P. Dong, Y. Tan, X. Liu, P. Luo, Y. Liu, L. Liang, Y. Zhou, D. Pang, M. Yung, D. Zhang, X. Huang, S.-Y. Liu, Y. Wu, F. Tian, C.-Y. Tsui, **F. Tu**, K.-T. Cheng, "A 28nm 0.22$\mu$J/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation," International Solid-State Circuits Conference (ISSCC), San Francisco, USA, 2025. (*Co-Corresponding Author, **The First AI chip ISSCC paper from Hong Kong**)
 *	**[HPCA'25]** Z. He, Y. Wang, Z. Wu, S. Wei, Y. Hu, **F. Tu**, S. Yin, "ER-DCIM: Error-Resilient Digital CIM with Run-Time MAC-Cell Error Correction," IEEE International Symposium on High-Performance Computer Architecture (HPCA), Las Vegas, USA, 2025. (*Co-Corresponding Author)
 * **[VLSI'24]** Y. Wang, Z. He, C. Zhao, Z. Wu, M. Gao, H. Han, S. Wei, Y. Hu, **F. Tu**,  S. Yin, "[ETCIM: An Error-Tolerant Digital-CIM Processor with Redundancy-Free Repair and Run-Time MAC and Cell Error Correction](https://ieeexplore.ieee.org/document/10631443)," Symposium on VLSI Technology and Circuits (VLSI), Hawaii, USA, 2024. (Co-Corresponding Author)
 * **[ISSCC'24]** R. Guo, L. Wang, X. Chen, H. Sun, Z. Yue, Y. Qin, H. Han, Y. Wang, **F. Tu**, S. Wei, Y. Hu, S. Yin, "[A 28nm 74.34TFLOPS/W BF16 Heterogeneous CIM-Based Accelerator Exploiting Denoising-Similarity for Diffusion Models](https://ieeexplore.ieee.org/document/10454308)," International Solid-State Circuits Conference (ISSCC), San Francisco, USA, 2024.
