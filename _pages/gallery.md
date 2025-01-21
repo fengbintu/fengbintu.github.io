@@ -4,6 +4,12 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
+## HKUST, Hong Kong, China, Jan. 2025
+
+<img src="/images/2024_hkust_highlights[1].jpg" />
+
+HKUST 2024: A Year of Breakthroughs and Milestones ([Video](https://www.youtube.com/watch?v=cq53SFKfK6U)).
+
 ## High Junk Peak, Hong Kong, China, Dec. 2024 
 
 <img src="/images/2024_group[1].jpg" />

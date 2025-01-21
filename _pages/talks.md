@@ -21,7 +21,7 @@ author_profile: true
 ### Digital Computing-in-Memory and Design Automation
 * TsingMicro, Beijing, China, Mar. 2023.
 * Horizon Robotics, Beijing, China, Mar. 2023.
-* Peking University, Beijing, China, Mar. 2023 ([Text](https://mp.weixin.qq.com/s/rf1yLB7N-TOGdcBDOlP0hA)).
+* Peking University, Beijing, China, Mar. 2023 ([Post](https://mp.weixin.qq.com/s/rf1yLB7N-TOGdcBDOlP0hA)).
 * ICAC (Workshop on IC Advances in China), Shenzhen, China, Mar. 2023.
 * ACCESS Technology Symposium, Hong Kong, China, Jun. 2023.
 * ISIC (International Symposium on Integrated Circuits), Nanjing, China, Jul. 2023.
@@ -34,7 +34,7 @@ author_profile: true
 ### Reconfigurable Digital Computing-in-Memory: New Architecture Paradigm for AI Chips
 * Conference Talk (ReDCIM and TranCIM) at ISSCC, Online, Feb. 2022.
 * TsingMicro, Beijing, China, Feb. 2022.
-* Beijing Innovation Center for Future Chips, Beijing, China, Apr. 2022 ([Video and Text](https://mp.weixin.qq.com/s/Zfh2_iQ2NSQDGHSRwoVnww)).
+* Beijing Innovation Center for Future Chips, Beijing, China, Apr. 2022 ([Post](https://mp.weixin.qq.com/s/Zfh2_iQ2NSQDGHSRwoVnww)).
 * Tsinghua University, Beijing, China, Apr. 2022.
 * ICAC (Workshop on IC Advances in China), [Online](https://mp.weixin.qq.com/s/qAy2EWFchCXDl-kak-F8cw), Jun. 2022.
 * The University of Hong Kong, Hong Kong, China, Jul. 2022.
@@ -70,7 +70,7 @@ author_profile: true
 * THU Ph.D. Student Forum, Beijing, China, Oct. 2016.
 * Conference Talk at ISSCC-SRP, San Francisco, USA, Feb. 2017.
 * Deephi Tech, Beijing, China, Apr. 2017. 
-* AI Tech Talk, [Online](https://v.qq.com/x/page/r0504zxvl3j.html) [[Text](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html)], May 2017.
+* AI Tech Talk, [Online](https://v.qq.com/x/page/r0504zxvl3j.html) [[Video](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html)], May 2017.
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2017.
 * Future Chip Forum, Beijing, China, Jun. 2017.
 * Momenta, Beijing, China, Aug. 2017.
