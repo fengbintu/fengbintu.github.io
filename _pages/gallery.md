@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## HKUST, Hong Kong, China, Jan. 2025
 
-<img src="/images/2024_hkust_highlights[1].jpg" />
+<img src="/images/2024_hkust_highlights.jpg" />
 
 HKUST 2024: A Year of Breakthroughs and Milestones ([Video](https://www.youtube.com/watch?v=cq53SFKfK6U)).
 
