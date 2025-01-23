@@ -76,6 +76,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * **NSFC Excellent Young Scientists Fund (国家优秀青年科学基金, 2024)**
 * **2023 Top-10 Research Advances in China Semiconductors (2024)**
 * **WAIC Yunfan Award-"Bright Stars" (Top-10 Chinese AI Scholars under 35, 2024)**
+* Nomination Award for 2024 Top-10 Research Advances in China Semiconductors (2025)
 * Nomination Award for 2023 Chip10 Science (2024)
 * ZGC Forum Top-100 New Technologies and Products (2023)
 * Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2022)
@@ -94,7 +95,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * BUPT Merit Student (2010, 2011, 2012)
 
 ## Course Teaching
-* ELEC 2350: Introduction to Computer Organization and Design (Spring 2024)
+* ELEC 2350: Introduction to Computer Organization and Design (Spring 2024, 2025)
 * ELEC 6910H: Advanced AI Chip and System (Fall 2024)
 
 ## Contact
