@@ -4,6 +4,12 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
+## ISSCC'25, San Francisco, California, USA, Feb. 2025
+
+<img src="/images/2025_isscc.jpg" />
+
+My team presented AC-Transformer, the first Hong Kong AI Chip at ISSCC.
+
 ## HKUST, Hong Kong, China, Jan. 2025
 
 <img src="/images/2024_hkust_highlights.jpg" />
@@ -14,7 +20,7 @@ HKUST 2024: A Year of Breakthroughs and Milestones ([Video](https://www.youtube.
 
 <img src="/images/2024_group[1].jpg" />
 
-I hiked the High Junk Peak (钓鱼翁, one of the three sharp peaks in Hong Kong) with my students.
+My team hiked the High Junk Peak (钓鱼翁, one of the three sharp peaks in Hong Kong).
 
 ## HKUST, Hong Kong, China, Nov. 2024 
 
