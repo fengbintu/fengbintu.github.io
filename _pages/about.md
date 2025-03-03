@@ -72,7 +72,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS, Since 2021)
 * IEEE Micro (Since 2021)
 * ACM Transactions on Design Automation of Electronic Systems (TODAES, Since 2024)
-* ACM Transactions on Embedded Computing Systems (TECS, Since 2025)
+* ACM Transactions on Embedded Computing Systems (TECS, Since 2025) 
 
 ## Honors and Awards
 * **NSFC Excellent Young Scientists Fund (国家优秀青年科学基金, 2024)**
