@@ -28,6 +28,10 @@ I have an AI chip-related paper collection at [Neural Networks on Silicon](https
 - TranCIM: [A 28nm 15.59uJ/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645) (**ISSCC'22**, extended to [**JSSC'23**](https://ieeexplore.ieee.org/document/9931922))
 
 ## Reconfigurable AI Chip Architecture
+[Feb. 2025] **AC-Transformer, CNN-Transformer AI Chip.**
+- I worked with the ACCESS team and designed a 28nm commercial-grade CNN-Transformer AI chip. In a semantic segmentation demonstration system, the AC-Transformer chip consumes merely 0.22μJ/token, delivering a system-level energy efficiency improvement of 3.86-10.91x compared with state-of-the-art implementations. This breakthrough demonstrates significant potential for applications in autonomous driving and embodied intelligence.
+- [A 28nm 0.22uJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation](https://ieeexplore.ieee.org/document/10904499) (**ISSCC'25, The First Hong Kong AI Chip at ISSCC**)
+ 
 [Aug. 2020] **Evolver, Evolvable AI Chip.**
 - I designed a 28nm evolvable AI chip (Evolver) with DNN training and reinforcement learning capabilities, to enable intelligence evolution during the chip's long lifetime. This work demonstrates a lifelong learning example of on-device quantization-voltage-frequency (QVF) tuning. Compared with conventional QVF tuning that determines policies offline, Evolver makes optimal customizations for varying local user scenarios. 
 - [Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning](https://ieeexplore.ieee.org/document/9209075) (**JSSC'21**)
