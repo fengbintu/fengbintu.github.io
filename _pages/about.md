@@ -77,7 +77,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 ## Honors and Awards
 * **NSFC Excellent Young Scientists Fund (国家优秀青年科学基金, 2024)**
 * **2023 Top-10 Research Advances in China Semiconductors (2024)**
-* **Gold Medal with Jury Congratulations at the 50th Inventions Geneva (2025)**
+* **Gold Medal with Congratulations of the Jury at the 50th International Exhibition of Inventions Geneva (2025)**
 * **WAIC Yunfan Award-"Bright Stars" (Top-10 Chinese AI Scholars under 35, 2024)**
 * Nomination Award for 2024 Top-10 Research Advances in China Semiconductors (2025)
 * Nomination Award for 2023 Chip10 Science (2024)
