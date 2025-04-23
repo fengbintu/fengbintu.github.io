@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Books
-* **F. Tu**, "[神经网络加速器的计算架构及存储优化技术研究](https://books.google.com.hk/books/about/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%8A%A0%E9%80%9F%E5%99%A8%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9E%B6%E6%9E%84%E5%8F%8A.html?id=TfZQzwEACAAJ&redir_esc=y) (Architecture Design and Memory Optimization for Neural Network Accelerators)," Tsinghua University Press, 2022. 
+* **F. Tu**, "[神经网络加速器的计算架构及存储优化技术研究](https://books.google.com.hk/books/about/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%8A%A0%E9%80%9F%E5%99%A8%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9E%B6%E6%9E%84%E5%8F%8A.html?id=TfZQzwEACAAJ&redir_esc=y) (Architecture Design and Memory Optimization for Neural Network Accelerators)," Tsinghua University Press, 2022. (THU Excellent Dissertation Series)
 * S. Yin, **F. Tu**, D. Zhu, S. Wei, "[人工智能芯片设计](https://www.amazon.com/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87%E8%AE%BE%E8%AE%A1-%E5%B0%B9%E9%A6%96%E4%B8%80%E7%AD%89/dp/7508857186) (Artificial Intelligence Chip Design)," Science Press, 2020.
 
 ## Survey Articles
@@ -41,7 +41,7 @@ author_profile: true
 * **[ISSCC'22]** **F. Tu**,  Z. Wu, Y. Wang, L. Liang, L. Liu, Y. Ding, L. Liu, S. Wei, Y. Xie, S. Yin, "[A 28nm 15.59uJ/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645)," International Solid-State Circuits Conference (ISSCC), 2022. 
 * **[HotChips'20]** **F. Tu**, W. Wu, Y. Wang, H. Chen, F. Xiong, M. Shi, N. Li, J. Deng, T. Chen, L. Liu, S. Wei, S. Yin, "[ELearn: Edge Learning Processor with Bidirectional Speculation and Sparsity & Mixed-Precision aware Dataflow Parallelism Reconfiguration](https://ieeexplore.ieee.org/document/9250188)," Hot Chips, 2020. 
 * **[ISCA'18]** **F. Tu**, W. Wu, S. Yin, L. Liu, S. Wei, "[RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/document/8416839/)," International Symposium on Computer Architecture (ISCA), Los Angeles, USA, 2018. 
-* **[VLSI'17]** S. Yin, P. Ouyang, S. Tang, **F. Tu**, L. Liu, S. Wei, "[A 1.06-to-5.09 TOPS/W Reconfigurable Hybrid-Neural-Network Processor for Deep Learning Applications](https://ieeexplore.ieee.org/document/8008534)," Symposia on VLSI Technology and Circuits (VLSI Symposia), Kyoto, Japan, 2017.
+* **[VLSI'17]** S. Yin, P. Ouyang, S. Tang, **F. Tu**, L. Liu, S. Wei, "[A 1.06-to-5.09 TOPS/W Reconfigurable Hybrid-Neural-Network Processor for Deep Learning Applications](https://ieeexplore.ieee.org/document/8008534)," Symposium on VLSI Technology and Circuits (VLSI), Kyoto, Japan, 2017.
 * **[DATE'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[RNA: A Reconfigurable Architecture for Hardware Neural Acceleration](https://ieeexplore.ieee.org/document/7092477)," Design, Automation and Test in Europe Conference (DATE), Grenoble, France, 2015.
 * **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[Neural Approximating Architecture Targeting Multiple Application Domains](https://ieeexplore.ieee.org/document/7169195)," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
