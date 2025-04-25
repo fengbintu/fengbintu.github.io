@@ -19,5 +19,5 @@ I feel fortunate to work with the following talented students.
 * [Bohan Yang](https://starkerfirst.github.io/) (B.S. from USTC Gifted Young, HKPFS, Fall 2024)
 * Longke Yan (B.S. from UESTC, RedBird, Fall 2024)
 * Zhuoya Yan (M.S. from PKU, Spring 2025)
-* Junyi Wu (B.S. from NJU, Fall 2025)
+* Junyi Wu (B.S. from NJU, RedBird, Fall 2025)
 * Xujiang Xiang (M.S. from THU, Fall 2025)
