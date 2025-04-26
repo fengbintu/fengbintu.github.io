@@ -50,11 +50,11 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Academic Services
 ### Conference Services
+* TPC Member, Asian Solid-State Circuits Conference (A-SSCC 2025)
 * TPC Member, Design Automation Conference (DAC 2022 - 2024)
 * TPC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
+* TPC Member, International Conference on Integrated Circuits, Technologies and Applications (ICTA 2025)
 * TPC Member, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
-* TPC Member, Ph.D. Forum at DAC (2024, 2025)
-* TPC Member, The 1st International Workshop on Acceleration and Optimization of Multi-modal Computing (ISCA Workshop, AOMC 2024)
 
 ### Journal Editor
 * Journal of Semiconductors (JOS Youth Editorial Board Member, 2024 - Present)
@@ -67,12 +67,14 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * IEEE Transactions on Computers (TC, Since 2024)
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, Since 2021)
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, Since 2023)
+* IEEE Transactions on Very Large Scale Integration Systems (TVLSI, Since 2023)
 * IEEE Open Journal of the Solid-State Circuits Society (OJ-SSCS, Since 2022)
 * IEEE Solid-State Circuits Letters (SSC-L, Since 2024)
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS, Since 2021)
 * IEEE Micro (Since 2021)
 * ACM Transactions on Design Automation of Electronic Systems (TODAES, Since 2024)
-* ACM Transactions on Embedded Computing Systems (TECS, Since 2025) 
+* ACM Transactions on Embedded Computing Systems (TECS, Since 2025)
+* Science China: Information Sciences (SCIS, Since 2023)
 
 ## Honors and Awards
 * **NSFC Excellent Young Scientists Fund (国家优秀青年科学基金, 2024)**
