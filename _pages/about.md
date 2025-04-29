@@ -57,7 +57,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * TPC Member, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
 
 ### Journal Editor
-* Journal of Semiconductors (JOS Youth Editorial Board Member, 2024 - Present)
+* Journal of Semiconductors (JOS Young Editorial Board Member, 2024 - Present)
 * Science China: Information Sciences (SCIS Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
 
 ### Journal Reviewer
