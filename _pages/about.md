@@ -55,28 +55,12 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * TPC Member, Design Automation Conference (DAC 2022 - 2024)
 * TPC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
 * TPC Member, International Conference on Integrated Circuits, Technologies and Applications (ICTA 2025)
-* TPC Member, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
+* TPC Member, International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
 
-### Journal Editor
+### Journal Editorial Board
 * Journal of Semiconductors (JOS Young Editorial Board Member, 2024 - Present)
 * Chinese Journal of Electronics (CJE Young Editorial Board Member, 2025 - Present)
 * Science China: Information Sciences (SCIS Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
-
-### Journal Reviewer
-* IEEE Journal of Solid-State Circuits (JSSC, Since 2023)
-* IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I, Since 2023)
-* IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI, Since 2024)
-* IEEE Transactions on Computers (TC, Since 2024)
-* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, Since 2021)
-* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, Since 2023)
-* IEEE Transactions on Very Large Scale Integration Systems (TVLSI, Since 2023)
-* IEEE Open Journal of the Solid-State Circuits Society (OJ-SSCS, Since 2022)
-* IEEE Solid-State Circuits Letters (SSC-L, Since 2024)
-* IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS, Since 2021)
-* IEEE Micro (Since 2021)
-* ACM Transactions on Design Automation of Electronic Systems (TODAES, Since 2024)
-* ACM Transactions on Embedded Computing Systems (TECS, Since 2025)
-* Science China: Information Sciences (SCIS, Since 2023)
 
 ## Honors and Awards
 * **NSFC Excellent Young Scientists Fund (国家优秀青年科学基金, 2024)**
