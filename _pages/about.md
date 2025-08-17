@@ -13,7 +13,7 @@ redirect_from:
 *The Hong Kong University of Science and Technology (HKUST)*    
 *Department of Electronic and Computer Engineering*
 
-Fengbin Tu is an [Assistant Professor](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fengbin-tu-fengbintu) and the Associate Director of the Institute of Integrated Circuits and Systems at The Hong Kong University of Science and Technology, NSFC Excellent Young Scientist (国家优青), and a core faculty member of the AI Chip Center for Emerging Smart Systems ([ACCESS](https://inno-access.hk)) under InnoHK. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.sic.tsinghua.edu.cn/en/info/1083/1444.htm) and Prof. [Shouyi Yin](https://www.sic.tsinghua.edu.cn/info/1040/1567.htm). He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://seng.hkust.edu.hk/about/people/faculty/yuan-xie), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at ACCESS, working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui), from 2022 to 2023. His Ph.D. dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" was recognized by the Tsinghua Excellent Dissertation Award. His AI chips Thinker and ReDCIM won the 2017 ISLPED Design Contest Award and 2023 Top-10 Research Advances in China Semiconductors, respectively. He received the 2024 WAIC Yunfan Award-“Bright Stars”. He worked with ACCESS and develeoped the AC-Transformer, [the first Hong Kong AI chip at ISSCC (2025)](https://inno-access.hk/news/research-paper-accepted-isscc-marking-innovative-breakthrough-empowers-intelligent-computing). Dr. Tu has an online collection of research on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
+Fengbin Tu is an [Assistant Professor](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fengbin-tu-fengbintu) and the Associate Director of the Institute of Integrated Circuits and Systems at The Hong Kong University of Science and Technology, NSFC Excellent Young Scientist (国家优青), and a core faculty member of the AI Chip Center for Emerging Smart Systems ([ACCESS](https://inno-access.hk)) under InnoHK. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.sic.tsinghua.edu.cn/en/info/1083/1444.htm). He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://seng.hkust.edu.hk/about/people/faculty/yuan-xie), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at ACCESS, from 2022 to 2023. His Ph.D. dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" was recognized by the Tsinghua Excellent Dissertation Award. His AI chips Thinker and ReDCIM won the 2017 ISLPED Design Contest Award and 2023 Top-10 Research Advances in China Semiconductors, respectively. He received the 2024 WAIC Yunfan Award-“Bright Stars”. He worked with ACCESS and develeoped the AC-Transformer, [the first Hong Kong AI chip at ISSCC (2025)](https://inno-access.hk/news/research-paper-accepted-isscc-marking-innovative-breakthrough-empowers-intelligent-computing). Dr. Tu has an online collection of research on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
 
 ## Research Interests
 AI Chip, Computing-in-Memory, Computer Architecture, Reconfigurable Computing
@@ -27,7 +27,7 @@ Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST
 
 May 2022 - Present: **AI Chip Center for Emerging Smart Systems (ACCESS)**
 * **Faculty Member** (Since Jun. 2023)
-* **Postdoctoral Fellow** (May. 2022 - Jun. 2023), working with Prof. Tim Cheng and Prof. Chi-Ying Tsui
+* **Postdoctoral Fellow** (May. 2022 - Jun. 2023)
 
 Oct. 2019 - May 2022: **University of California, Santa Barbara (UCSB)**
 * **Postdoctoral Scholar**, working with Prof. Yuan Xie
@@ -39,7 +39,7 @@ Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
 * **Ph.D.** in Electronic Science and Technology
 * Dissertation: **Architecture Design and Memory Optimization for Neural Network Accelerators**
   - Tsinghua Excellent Dissertation Award
-  - Advisor: Prof. Shaojun Wei and Prof. Shouyi Yin
+  - Advisor: Prof. Shaojun Wei
 * Beijing Outstanding Graduate (5%), GPA Rank 2/20 in the Institute of Microelectronics
 * National Scholarship for Ph.D. Students (0.2%, 2017)
 
@@ -75,11 +75,9 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * Beijing Outstanding Graduate (BUPT 2013, THU 2019, 5%)
 * THU Excellent Dissertation Award (2019)
 * THU Outstanding Student Scholarship (2016, 2018)
-* THU-IME Outstanding Young Researcher Award (2018)
 * National Scholarship for Ph.D. Students (THU 2017, 0.2%)
 * ISLPED'17 Design Contest Award (2017)
 * THU Outstanding Postgraduate Assistant (2016)
-* ICFC Fellowship for Outstanding Ph.D. Students (2016)
 * Lam Research Scholarship (2015)
 * Excellent Paper Award at THU-IME Ph.D. Student Forum (2015)
 * National Scholarship for Undergraduate Students (BUPT 2010, 2011, 2012, 0.2%)

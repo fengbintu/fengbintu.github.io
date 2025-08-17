@@ -8,7 +8,7 @@ author_profile: true
 I feel fortunate to work with the following talented students.
 
 ## Postdoctoral Scholar
-* Jia Chen (Ph.D. from HUST, Fall 2022)
+* [Jia Chen](https://www.researchgate.net/profile/Jia-Chen-87) (Ph.D. from HUST, Fall 2022)
 * [Songchen Ma](https://www.researchgate.net/profile/Songchen-Ma) (Ph.D. from THU, Fall 2024)
 * [Yewen Li](https://liyewen.tech/) (Ph.D. from ICT, Fall 2024)
 * [Jiancong Li](https://www.researchgate.net/profile/Jiancong-Li) (Ph.D. from HUST, Spring 2025)
