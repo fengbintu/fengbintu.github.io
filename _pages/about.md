@@ -13,7 +13,7 @@ redirect_from:
 *The Hong Kong University of Science and Technology (HKUST)*    
 *Department of Electronic and Computer Engineering*
 
-Fengbin Tu is an [Assistant Professor](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fengbin-tu-fengbintu) and the Associate Director of the Institute of Integrated Circuits and Systems at The Hong Kong University of Science and Technology, NSFC Excellent Young Scientist (国家优青), and a core faculty member of the AI Chip Center for Emerging Smart Systems ([ACCESS](https://inno-access.hk)) under InnoHK. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.sic.tsinghua.edu.cn/en/info/1083/1444.htm). He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://seng.hkust.edu.hk/about/people/faculty/yuan-xie), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at ACCESS, from 2022 to 2023. His Ph.D. dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" was recognized by the Tsinghua Excellent Dissertation Award. His AI chips Thinker and ReDCIM won the 2017 ISLPED Design Contest Award and 2023 Top-10 Research Advances in China Semiconductors, respectively. He received the 2024 WAIC Yunfan Award-“Bright Stars”. He worked with ACCESS and develeoped the AC-Transformer, [the first Hong Kong AI chip at ISSCC (2025)](https://inno-access.hk/news/research-paper-accepted-isscc-marking-innovative-breakthrough-empowers-intelligent-computing). Dr. Tu has an online collection of research on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
+Fengbin Tu is an [Assistant Professor](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fengbin-tu-fengbintu) and the Associate Director of the Institute of Integrated Circuits and Systems at The Hong Kong University of Science and Technology, NSFC Excellent Young Scientist (国家优青), and a core faculty member of the AI Chip Center for Emerging Smart Systems ([ACCESS](https://inno-access.hk)) under InnoHK. He received the Ph.D. degree in 2019 from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.sic.tsinghua.edu.cn/en/info/1083/1444.htm), with the Tsinghua Excellent Dissertation Award. He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://seng.hkust.edu.hk/about/people/faculty/yuan-xie), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at ACCESS, from 2022 to 2023. His AI chips Thinker and ReDCIM have been recognized by the ISLPED Design Contest Award (2017) and Top-10 Research Advances in China Semiconductors (2023). He has received the MIT Technology Review "Innovators Under 35" Asia-Pacific (2025), Gold Medal with Jury Congratulations at the Inventions Geneva (2025), and WAIC Yunfan Award-"Bright Stars" (2024). He worked with ACCESS and develeoped the AC-Transformer, [the first Hong Kong AI chip at ISSCC (2025)](https://inno-access.hk/news/research-paper-accepted-isscc-marking-innovative-breakthrough-empowers-intelligent-computing). Dr. Tu has an online collection of research on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
 
 ## Research Interests
 AI Chip, Computing-in-Memory, Computer Architecture, Reconfigurable Computing
@@ -37,7 +37,7 @@ Oct. 2019 - May 2022: **University of California, Santa Barbara (UCSB)**
 ## Education Experience
 Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
 * **Ph.D.** in Electronic Science and Technology
-* Dissertation: **Architecture Design and Memory Optimization for Neural Network Accelerators**
+* Dissertation: **[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)**
   - Tsinghua Excellent Dissertation Award
   - Advisor: Prof. Shaojun Wei
 * Beijing Outstanding Graduate (5%), GPA Rank 2/20 in the Institute of Microelectronics
@@ -58,23 +58,24 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * TPC Member, International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
 
 ### Journal Editorial Board
-* Journal of Semiconductors (JOS Young Editorial Board Member, 2024 - Present)
-* Chinese Journal of Electronics (CJE Young Editorial Board Member, 2025 - Present)
-* Science China: Information Sciences (SCIS Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
+* Young Editorial Board Member, Journal of Semiconductors (JOS, 2024 - Present)
+* Young Editorial Board Member, Chinese Journal of Electronics (CJE, 2025 - Present)
+* Guest Editor, Special Topic: Innovative Architectures and Electronic Systems for Efficient Artificial Intelligence, Chinese Journal of Electronics (CJE, 2025)
+* Guest Editor, Special Topic: AI Chips and Systems for Large Language Models, Science China: Information Sciences (SCIS, 2024)
 
 ## Honors and Awards
+* **MIT Technology Review "Innovators Under 35" (TR35) Asia-Pacific (2025)**
+* **Gold Medal with Congratulations of the Jury at the 50th International Exhibition of Inventions Geneva (2025)**
+* Nomination Award for 2024 Top-10 Research Advances in China Semiconductors (2025)
 * **NSFC Excellent Young Scientists Fund (国家优秀青年科学基金, 2024)**
 * **2023 Top-10 Research Advances in China Semiconductors (2024)**
-* **Gold Medal with Congratulations of the Jury at the 50th International Exhibition of Inventions Geneva (2025)**
 * **WAIC Yunfan Award-"Bright Stars" (Top-10 Chinese AI Scholars under 35, 2024)**
-* Nomination Award for 2024 Top-10 Research Advances in China Semiconductors (2025)
 * Nomination Award for 2023 Chip10 Science (2024)
 * ZGC Forum Top-100 New Technologies and Products (2023)
 * Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2022)
 * Top-Pick Paper Award in Chinese Institute of Electronics (2021)
 * Beijing Outstanding Graduate (BUPT 2013, THU 2019, 5%)
 * THU Excellent Dissertation Award (2019)
-* THU Outstanding Student Scholarship (2016, 2018)
 * National Scholarship for Ph.D. Students (THU 2017, 0.2%)
 * ISLPED'17 Design Contest Award (2017)
 * THU Outstanding Postgraduate Assistant (2016)
