@@ -4,6 +4,12 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+### Computing-in-Memory Processor for Large-Scale AI Models 
+* **Tutorial at ICTA**, Macao, China, Oct. 2025.
+* **Tutorial at A-SSCC**, Daejeon, South Korea, Nov. 2025.
+* Tsinghua-KAIST Alumni IC Workshop,  San Francisco, USA, Feb. 2025.
+* China Electronics and Information Conference, Chengdu, China, Apr. 2025.
+* China Semiconductor Physics Conference, Changsha, China, Oct. 2025.
 
 ### High-Performance Computing-in-Memory Chiplet-based AI Processor 
 * Conference Talk (MulTCIM and TensorCIM) at ISSCC, Online, Feb. 2023.
