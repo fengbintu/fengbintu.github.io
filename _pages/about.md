@@ -51,6 +51,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 ## Academic Services
 ### Conference Services
 * Design Contest Chair, Asia and South Pacific Design Automation Conference (ASP-DAC 2026)
+* TPC Member, International Symposium on Computer Architecture (ISCA 2026)
 * TPC Member, Asian Solid-State Circuits Conference (A-SSCC 2025)
 * TPC Member, Design Automation Conference (DAC 2022 - 2024)
 * TPC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
@@ -86,6 +87,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Course Teaching
 * ELEC 2350: Introduction to Computer Organization and Design (Spring 2024, 2025)
+* ELEC 4350: AI Processor Architecture (Spring 2026)
 * ELEC 6910H: Advanced AI Chip and System (Fall 2024, 2025)
 
 ## Contact
