@@ -20,6 +20,7 @@ AI Chip, Computing-in-Memory, Computer Architecture, Reconfigurable Computing
 
 ## Professional Experience
 Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
+* **Associate Director**, HKUST and Intel Joint Laboratory (Since Dec. 2025)
 * **Associate Director**, Institute of Integrated Circuits and Systems (Since Jan. 2025)
 * **Assistant Professor** (Since Jun. 2023)
 * **Adjunct Assistant Professor** (Oct. 2022 - Jun. 2023)
@@ -91,7 +92,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * ELEC 6910H: Advanced AI Chip and System (Fall 2024, 2025)
 
 ## Contact
-Address: Room 2418, 2/F (Lift 25/26), Academic Building, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
+Address: Room 2424, 2/F (Lift 25/26), Academic Building, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
 
 Email: fengbintu at ust dot hk
 <br/><br/>
