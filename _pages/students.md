@@ -22,4 +22,4 @@ I feel fortunate to work with the following talented students.
 * Junyi Wu (B.S. from NJU, RedBird, Fall 2025)
 
 ## Alumni
-* [Jia Chen](https://www.researchgate.net/profile/Jia-Chen-87) (Postdoc 2025, First Employment: Associate Professor@HUST)
+* [Jia Chen](https://www.researchgate.net/profile/Jia-Chen-87) (Postdoc 2026, First Employment: Associate Professor@HUST)
