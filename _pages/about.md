@@ -50,6 +50,10 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * National Scholarship for Undergraduate Students (0.2%, 2010, 2011, 2012)
 
 ## Academic Services
+### Community Services
+* Financial Chair, Council on Electronic Design Automation (CEDA) Hong Kong Chapter (2026)
+* Founding Member, Hong Kong High Performance Computing Association
+
 ### Conference Services
 * Design Contest Chair, Asia and South Pacific Design Automation Conference (ASP-DAC 2026)
 * TPC Member, International Symposium on Computer Architecture (ISCA 2026)
@@ -58,6 +62,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * TPC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
 * TPC Member, International Conference on Integrated Circuits, Technologies and Applications (ICTA 2025)
 * TPC Member, International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
+* TPC Member, Workshop on IC Advances in China (ICAC 2026)
 
 ### Journal Editorial Board
 * Young Editorial Board Member, Journal of Semiconductors (JOS, 2024 - Present)
