@@ -51,22 +51,25 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Academic Services
 ### Community Services
+* Vice Chair, Council on Electronic Design Automation (CEDA) Hong Kong Chapter (2026)
 * Financial Chair, Council on Electronic Design Automation (CEDA) Hong Kong Chapter (2026)
-* Founding Member, Hong Kong High Performance Computing Association
+* Founding Member, Hong Kong High Performance Computing Association (Since 2023)
 
 ### Conference Services
 * Design Contest Chair, Asia and South Pacific Design Automation Conference (ASP-DAC 2026)
-* TPC Member, International Symposium on Computer Architecture (ISCA 2026)
-* TPC Member, Asian Solid-State Circuits Conference (A-SSCC 2025)
-* TPC Member, Design Automation Conference (DAC 2022 - 2024)
-* TPC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
-* TPC Member, International Conference on Integrated Circuits, Technologies and Applications (ICTA 2025)
-* TPC Member, International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
-* TPC Member, Workshop on IC Advances in China (ICAC 2026)
+* PC Member, International Symposium on Computer Architecture (ISCA 2026)
+* PC Member, Asian Solid-State Circuits Conference (A-SSCC 2025)
+* PC Member, Design Automation Conference (DAC 2022 - 2024)
+* PC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
+* PC Member, International Conference on Integrated Circuits, Technologies and Applications (ICTA 2025)
+* PC Member, International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
+* PC Member, Workshop on IC Advances in China (ICAC 2026)
 
 ### Journal Editorial Board
-* Young Editorial Board Member, Journal of Semiconductors (JOS, 2024 - Present)
-* Young Editorial Board Member, Chinese Journal of Electronics (CJE, 2025 - Present)
+* Associate Editor, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, Since 2026)
+* Associate Editor, Edge Intelligence and Systems (EIS, Since 2025)
+* Young Editorial Board Member, Journal of Semiconductors (JOS, Since 2024)
+* Young Editorial Board Member, Chinese Journal of Electronics (CJE, Since 2025)
 * Guest Editor, Special Topic: Innovative Architectures and Electronic Systems for Efficient Artificial Intelligence, Chinese Journal of Electronics (CJE, 2025)
 * Guest Editor, Special Topic: AI Chips and Systems for Large Language Models, Science China: Information Sciences (SCIS, 2024)
 
