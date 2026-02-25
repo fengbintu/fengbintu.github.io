@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**Assistant Professor**
-
-*The Hong Kong University of Science and Technology (HKUST)*    
-*Department of Electronic and Computer Engineering*
+**Assistant Professor, ECE Department, HKUST**  
+**Associate Director, Institute of Integrated Circuits and Systems, HKUST**  
+**Associate Director, HKUST and Intel Joint Laboratory** 
 
 Fengbin Tu is an [Assistant Professor](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fengbin-tu-fengbintu) of ECE Department, Associate Director of Institute of Integrated Circuits and Systems, and Associate Director of HKUST and Intel Joint Laboratory at The Hong Kong University of Science and Technology. He is the recipient of NSFC Excellent Young Scientists Fund (国家优青). He received the Ph.D. degree in 2019 from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.sic.tsinghua.edu.cn/en/info/1083/1444.htm), with the Tsinghua Excellent Dissertation Award. He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://seng.hkust.edu.hk/about/people/faculty/yuan-xie), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems ([ACCESS](https://inno-access.hk)) under InnoHK, from 2022 to 2023. 
 
