@@ -53,7 +53,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 ## Academic Services
 ### Community Services
 * Vice Chair, IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter (2026)
-* Financial Chair, IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter (2026)
+* Financial Chair, IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter (2025)
 * Founding Member, Hong Kong High Performance Computing Association (Since 2023)
 
 ### Conference Services
