@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 
-I feel fortunate to work with the following talented students.
+I feel fortunate to work with the following talented students. Recruitment statement (in Chinese) can be found in my [Zhihu homepage](https://zhuanlan.zhihu.com/p/629778702).
 
 ## Postdoctoral Scholar
 
