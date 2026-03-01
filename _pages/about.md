@@ -38,10 +38,8 @@ Oct. 2019 - May 2022: **University of California, Santa Barbara (UCSB)**
 
 ## Education Experience
 Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
-* **Ph.D.** in Electronic Science and Technology
-* Dissertation: **[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)**
-  - Tsinghua Excellent Dissertation Award
-  - Advisor: Prof. Shaojun Wei
+* **Ph.D.** in Electronic Science and Technology (Advisor: Prof. Shaojun Wei)
+* Dissertation: **[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)** (Tsinghua Excellent Dissertation Award)
 * Beijing Outstanding Graduate (5%), GPA Rank 2/20 in the Institute of Microelectronics
 * National Scholarship for Ph.D. Students (0.2%, 2017)
 
