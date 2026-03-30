@@ -25,8 +25,8 @@ I feel fortunate to work with the following talented students. Recruitment state
 * Jingkai Song (M.S. from THU, to join in Fall 2026)
 * Zimu Li (B.S. from NJU Elite Program, to join in Fall 2026)
 * [Zhongyu Zhao](https://scholar.google.com/citations?user=b8PvQzUAAAAJ&hl=en) (Ph.D. candidate from University of Macao, to join in Fall 2026)
-* [Zhiwei Zhou](https://scholar.google.com/citations?user=yu4G0pcAAAAJ&hl=zh-CN) (Ph.D. candidate from HUST)
-* Zhuoyang Yan (Year-3 UG student from UESTC)
+* [Zhiwei Zhou](https://scholar.google.com/citations?user=yu4G0pcAAAAJ&hl=zh-CN) (Ph.D. candidate from HUST, Spring 2026)
+* Zhuoyang Yan (Year-3 UG student from UESTC, Spring 2026)
 
 ## Alumni
 * [Jia Chen](https://www.researchgate.net/profile/Jia-Chen-87) (Postdoc 2023-2026, First Employment: Associate Professor@HUST)
