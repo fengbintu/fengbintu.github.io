@@ -29,7 +29,7 @@ Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST
 
 May 2022 - Present: **AI Chip Center for Emerging Smart Systems (ACCESS)**
 * **Faculty Member** (Since Jun. 2023)
-* **Postdoctoral Fellow** (May. 2022 - Jun. 2023)
+* **Postdoctoral Fellow**, working with Prof. Tim Cheng (May. 2022 - Jun. 2023)
 
 Oct. 2019 - May 2022: **University of California, Santa Barbara (UCSB)**
 * **Postdoctoral Scholar**, working with Prof. Yuan Xie
