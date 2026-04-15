@@ -28,5 +28,14 @@ I feel fortunate to work with the following talented students. Recruitment state
 * [Zhiwei Zhou](https://scholar.google.com/citations?user=yu4G0pcAAAAJ&hl=zh-CN) (Ph.D. candidate from HUST, Spring 2026)
 * Zhuoyang Yan (Year-3 UG student from UESTC, Spring 2026)
 
+## Student Honors
+* Hong Kong PhD Fellowship Scheme (Zimu Li, 2026)
+* ICAC'26 Best Student Poster Award (Pingcheng Dong, ISSCC'26 RHB Chip, 2026)
+* HKUST Post-Doctoral Fellowship (Jiancong Li, 2025)
+* HKUST RedBird PhD Award (Junyi Wu, 2025)
+* HKUST ECE Best TA Award 2024/25 (Yonghao Tan, ELEC 6910H and 2350 TA, 2025)
+* Hong Kong PhD Fellowship Scheme (Bohan Yang, 2024)
+* HKUST RedBird PhD Award (Longke Yan, 2024)
+
 ## Alumni
 * [Jia Chen](https://www.researchgate.net/profile/Jia-Chen-87) (Postdoc 2023-2026, First Employment: Associate Professor@HUST)
