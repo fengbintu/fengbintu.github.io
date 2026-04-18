@@ -4,11 +4,35 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
+## HKUST, Hong Kong, China, Dec. 2025
+
+<img src="/images/2025_hkust.jpg" />
+
+I was honored at the HKUST Faculty Recognition Ceremony 2025 (for NSFC Excellent Young Scientists Fund).
+
+## TR35 Asia-Pacific, Shanghai, China, Sep. 2025
+
+<img src="/images/2025_tr35.jpg" />
+
+I was honored with MIT Technology Review "Innovators Under 35" (TR35) Asia-Pacific.
+
+## VLSI'25, Beijing, China, Jul. 2025
+
+<img src="/images/2025_beijing.jpg" />
+
+I was invited for a close-door study at Chinese Academy of Governance.
+
+## VLSI'25, Kyoto, Japan, Jun. 2025
+
+<img src="/images/2025_vlsi.jpg" />
+
+My close partners, Yiqi and Zihang, published two papers at VLSI'25.
+
 ## ISSCC'25, San Francisco, California, USA, Feb. 2025
 
 <img src="/images/2025_isscc.jpg" />
 
-My team presented AC-Transformer, the first Hong Kong AI Chip at ISSCC.
+My team presented AC-Transformer, the first Hong Kong AI Chip at ISSCC'25.
 
 ## HKUST, Hong Kong, China, Jan. 2025
 
