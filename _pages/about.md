@@ -75,6 +75,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * Guest Editor, Special Topic: AI Chips and Systems for Large Language Models, Science China: Information Sciences (SCIS, 2024)
 
 ## Honors and Awards
+* IEEE Senior Member (2026)
 * **MIT Technology Review "Innovators Under 35" (TR35) Asia-Pacific (2025)**
 * **Gold Medal with Congratulations of the Jury at the 50th International Exhibition of Inventions Geneva (2025)**
 * Nomination Award for 2024 Top-10 Research Advances in China Semiconductors (2025)
