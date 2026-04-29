@@ -19,7 +19,7 @@ I feel fortunate to work with the following talented students. Recruitment state
 * [Longke Yan](https://www.researchgate.net/profile/Longke-Yan) (B.S. from UESTC, RedBird, Fall 2024)
 * Zhuoya Yan (M.S. from PKU, Spring 2025)
 * [Xujiang Xiang](https://orcid.org/0009-0009-4171-0563) (M.S. from THU, Fall 2025)
-* Junyi Wu (B.S. from NJU, RedBird, Fall 2025)
+* [Junyi Wu](https://scholar.google.com/citations?user=fbG9frsAAAAJ&hl=zh-CN) (B.S. from NJU, RedBird, Fall 2025)
 
 ## Visiting Student
 * Jingkai Song (M.S. from THU, to join in Fall 2026)
