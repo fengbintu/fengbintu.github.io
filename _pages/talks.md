@@ -10,6 +10,11 @@ author_profile: true
 * Tsinghua-KAIST Alumni IC Workshop,  San Francisco, USA, Feb. 2025.
 * China Electronics and Information Conference, Chengdu, China, Apr. 2025.
 * China Semiconductor Physics Conference, Changsha, China, Oct. 2025.
+* TsingMicro, Beijing, China, Jan. 2026.
+* Nanjing University, Suzhou, China, Mar. 2026.
+* Shanghai Jiao Tong University, Shanghai, China, Mar. 2026.
+* Huazhong University of Science and Technology, Wuhan, China, Apr. 2026
+* Peking University Shenzhen Graduate School, Shenzhen, China, Apr. 2026
 
 ### High-Performance Computing-in-Memory Chiplet-based AI Processor 
 * Conference Talk (MulTCIM and TensorCIM) at ISSCC, Online, Feb. 2023.
