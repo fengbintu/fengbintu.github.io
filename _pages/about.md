@@ -68,7 +68,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ### Journal Editorial Board
 * Associate Editor, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, Since 2026)
-* Associate Editor, Edge Intelligence and Systems (EIS, Since 2025)
+* Associate Editor, Edge Intelligence and Systems (EIS, Since 2026)
 * Young Editorial Board Member, Journal of Semiconductors (JOS, Since 2024)
 * Young Editorial Board Member, Chinese Journal of Electronics (CJE, Since 2025)
 * Guest Editor, Special Topic: Innovative Architectures and Electronic Systems for Efficient Artificial Intelligence, Chinese Journal of Electronics (CJE, 2025)
