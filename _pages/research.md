@@ -17,6 +17,12 @@ My research focuses on **AI Chip** with the cross-stack co-design philosophy. :
 This is the computer architecture research philosophy I learnt from Prof. Yuan Xie. I have adapted it to AI chip research and taught my students. This page shows my representative research. I also have an AI chip-related paper collection at [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which is helpful for students to learn the history and SOTA of AI chip and system research.
 
 ## Application-Driven Architecture Innovation
+### CNN Inference and Training
+- **[TVLSI'17]** DNA: [Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI No.5/2/6/8/8/9 Downloaded Manuscripts in 2017~2022, 6 Times Monthly No.1 Popular Article**)  
+- **[JSSC'18]** Thinker: [A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications](http://ieeexplore.ieee.org/document/8207783/) (Thinker was exhibited at the [2016 National Mass Innovation and Entrepreneurship Week](https://www.tsinghua.edu.cn/info/1173/18061.htm), as a representative work from Tsinghua University. The Thinker chip was highly praised by Chinese Premier Li Keqiang, and featured by Yang Lan One on One, [AI Tech Talk](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html) and [MIT Technology Review](https://www.technologyreview.com/s/609954/china-wants-to-make-the-chips-that-will-add-ai-to-any-gadget/?from=timeline&isappinstalled=0). It won the [ISLPED'17 Design Contest Award](http://islped.org/2017/index.php), which was [the first time that a China Mainland team won this contest](https://www.tsinghua.edu.cn/info/1175/19744.htm).)
+- **[ISCA'18]** [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/document/8416839/) (Covered by [Tsinghua University News](https://www.tsinghua.edu.cn/info/1175/19449.htm) and [AI Tech Talk](https://www.leiphone.com/news/201806/wFQ2Sc52Utikcl8D.html))
+
+
 [Apr. 2024] **ISSCC'24 Insights for Emerging AI Computing.**
 - I was invited by JOS to review the research highlights on machine learning accelerators in ISSCC'24. We observed four research trends toward efficient generative AI (ML Chips for Generative AI, and CIM Innovation from Circuits to Systems) and beyond-AI computing (DSA for Embedded Vision Processors, and DSA for Solver Accelerators). We believe these remarkable trends will lead to more AI software and hardware innovations from academia and industry in the near future.
 - [Towards Efficient Generative AI and Beyond-AI Computing: New Trends on ISSCC 2024 Machine Learning Accelerators](http://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/45/4/040204) (**JOS'24, Invited Paper**)
@@ -44,14 +50,11 @@ This is the computer architecture research philosophy I learnt from Prof. Yuan X
 
 [Jun. 2018] **RANA, Software-Hardware Co-design for AI Chip Memory Optimization.**
 - I designed a retention-aware neural acceleration (RANA) framework, which strengthens AI chips with high-density eDRAM, while eliminating eDRAM refresh operations to improve system energy efficiency.
-- [RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/document/8416839/) (**ISCA'18**)   
-  - RANA was the **only** work first-authored by a Chinese research team in ISCA'18, which was covered by [Tsinghua University News](https://www.tsinghua.edu.cn/info/1175/19449.htm) and [AI Tech Talk](https://www.leiphone.com/news/201806/wFQ2Sc52Utikcl8D.html).
+- 
 
 [Apr. 2017] **Thinker and DNA, Reconfigurable AI Chip.**
 - I designed a deep convolutional neural network accelerator (DNA) targeting flexible and efficient CNN acceleration. This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters. Based on the DNA architecture, We designed a 65nm reconfigurable multi-modal neural network processor (Thinker) supporting CNN, RNN, and FCN. 
-- DNA: [Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI No.5/2/6/8/8/9 Downloaded Manuscripts in 2017~2022, 6 Times Monthly No.1 Popular Article**)  
-- Thinker: [A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications](http://ieeexplore.ieee.org/document/8207783/) (**JSSC'18**)   
-  - Thinker was exhibited at the [2016 National Mass Innovation and Entrepreneurship Week](https://www.tsinghua.edu.cn/info/1173/18061.htm), as a representative work from Tsinghua University. The Thinker chip was highly praised by Chinese Premier Li Keqiang, and featured by Yang Lan One on One, [AI Tech Talk](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html) and [MIT Technology Review](https://www.technologyreview.com/s/609954/china-wants-to-make-the-chips-that-will-add-ai-to-any-gadget/?from=timeline&isappinstalled=0). It won the [ISLPED'17 Design Contest Award](http://islped.org/2017/index.php), which was [the first time that a China Mainland team won this contest](https://www.tsinghua.edu.cn/info/1175/19744.htm).
+
 
 [Oct. 2014] **RNA, Reconfigurable Architecture for Neural Approximation.**
 - I designed a reconfigurable neural accelerator (RNA) to process multi-layer perceptron (MLP) for neural approximation. By approximating the core kernels in a program with MLP, RNA achieves higher performance and efficiency with negligible accuracy loss.
