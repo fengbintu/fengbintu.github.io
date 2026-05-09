@@ -33,21 +33,11 @@ This is the computer architecture research philosophy I learnt from Prof. Yuan X
 
 ## Technology-Driven Architecture Innovation
 ### SRAM-based Digital CIM
-- **[ISSCC'22]** ReDCIM: [A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration](https://ieeexplore.ieee.org/document/9731762) (Invited to [**JSSC'23**](https://ieeexplore.ieee.org/document/9968289), [2023 Top-10 Research Advances in China Semiconductors](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650731796&idx=1&sn=20715157349e7b05c33a499bfb3ff49b&chksm=881d30bebf6ab9a891cc54bc66f95126fbaf295b2df5121a91b8fe95029ecde29237719e9ac8&mpshare=1&scene=2&srcid=0205egurWwnMVy5QKhWrR1d3&sharer_shareinfo=0a5e68f5bd8e867fbaa555ede0957cef&sharer_shareinfo_first=9d0438640e200e56fc5ef6d3473b320a#rd), Featured by [HKUST SENG News](https://seng.hkust.edu.hk/news/20240228/reconfigurable-digital-computing-memory-ai-chip-ece-professors-selected-chinas-2023-top-10-research-advances-semiconductors))
+- **[ISSCC'22]** ReDCIM: [A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration](https://ieeexplore.ieee.org/document/9731762) (Invited to [**JSSC'23**](https://ieeexplore.ieee.org/document/9968289), [2023 Top-10 Research Advances in China Semiconductors](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650731796&idx=1&sn=20715157349e7b05c33a499bfb3ff49b&chksm=881d30bebf6ab9a891cc54bc66f95126fbaf295b2df5121a91b8fe95029ecde29237719e9ac8&mpshare=1&scene=2&srcid=0205egurWwnMVy5QKhWrR1d3&sharer_shareinfo=0a5e68f5bd8e867fbaa555ede0957cef&sharer_shareinfo_first=9d0438640e200e56fc5ef6d3473b320a#rd), Featured by [Synced](https://mp.weixin.qq.com/s/v82Bt99l43S6Kegf83_q6A) and [HKUST SENG News](https://seng.hkust.edu.hk/news/20240228/reconfigurable-digital-computing-memory-ai-chip-ece-professors-selected-chinas-2023-top-10-research-advances-semiconductors))
+- **[ISSCC'22]** TranCIM: [A 28nm 15.59uJ/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645) (Extended to [**JSSC'23**](https://ieeexplore.ieee.org/document/9931922))
+- **[ISSCC'23]** [MulTCIM: A 28nm 2.24uJ/Token Attention-Token-Bit Hybrid Sparse Digital CIM-based Accelerator for Multimodal Transformers](https://ieeexplore.ieee.org/abstract/document/10067842) (Invited to [**JSSC'24**](https://ieeexplore.ieee.org/document/10226612))
+- **[ISSCC'23]** [TensorCIM: A 28nm 3.7nJ/Gather and 8.3TFLOPS/W FP32 Digital-CIM Tensor Processor for MCM-CIM-based Beyond-NN Acceleration](https://ieeexplore.ieee.org/abstract/document/10067285) (Extended to [**JSSC'24**](https://ieeexplore.ieee.org/document/10555118))
 
-[Feb. 2023] **Scaling-out CIM for Large-scale AI and Beyond-AI Applications.**
-- I designed two 28nm chips that scale out the AI capability based on Reconfigurable Digital CIM. TensorCIM is the first CIM processor for tensor computing in a Multi-Chip-Module system. MulTCIM is the first CIM accelerator for the emerging multimodal Transformer models, which leverages attention-token-bit hybrid sparsity to improve energy efficiency.
-- [TensorCIM: A 28nm 3.7nJ/Gather and 8.3TFLOPS/W FP32 Digital-CIM Tensor Processor for MCM-CIM-based Beyond-NN Acceleration](https://ieeexplore.ieee.org/abstract/document/10067285) (**ISSCC'23**, extended to [**JSSC'24**](https://ieeexplore.ieee.org/document/10555118))
-- 
-
-[Feb. 2022] **Reconfigurable Digital Computing-in-Memory (CIM) AI Chip.**
-- I designed an innovative AI chip architecture, Reconfigurable Digital CIM. The architecture fuses the philosophy of reconfigurable computing and digital CIM, balancing efficiency, accuracy, and flexibility for emerging AI chips. I designed two 28nm chips based on the new architecture, Reconfigurable Digital CIM (ReDCIM) and Transformer CIM (TranCIM). ReDCIM (pronounced as "red-CIM") is the first CIM chip for cloud AI with flexible FP/INT support, which was covered by [Synced](https://mp.weixin.qq.com/s/v82Bt99l43S6Kegf83_q6A). TranCIM is the first CIM chip for Transformer models, which tackles the memory and computation challenges raised by Transformer's attention mechanism.
-
-- 
-
-
- 
-   
 ## Agile Development for AI Chips
 [Jul. 2023] **AutoDCIM, Automated Digital CIM Macro Compiler.**
 - I worked with ACCESS and developed AutoDCIM, the first automated digital CIM (DCIM) macro compiler. AutoDCIM takes the user specifications as inputs and generates a DCIM macro architecture with an optimized layout. With the growing interest in the DCIM field, AutoDCIM will play an important role in agile DCIM implementation and developing an ecosystem for DCIM-based AI computing.
