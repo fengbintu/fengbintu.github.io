@@ -8,8 +8,6 @@ author_profile: true
 
 <img src="/images/AI Chip Research.png" />
 
-I was honored at the HKUST Faculty Recognition Ceremony 2025 (for NSFC Excellent Young Scientists Fund).
-
 My research focuses on **AI Chip** with the cross-stack co-design philosophy. :
 * [Application-Driven Architecture Innovation](#application-driven-architecture-innovation)
 * [Technology-Driven Architecture Innovation](#technology-driven-architecture-innovation)
