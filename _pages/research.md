@@ -4,14 +4,19 @@ title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
-My research focuses on **AI Chip and System**, with the following directions:
-* [Computing-in-Memory Architecture for Emerging AI Applications](#computing-in-memory-architecture-for-emerging-ai-applications)
-* [Reconfigurable AI Chip Architecture](#reconfigurable-ai-chip-architecture)
-* [Agile Development for AI Chips](#agile-development-for-ai-chips) 
+## AI Chip Research Philosophy (Cross-Stack Co-Design)
 
-I have an AI chip-related paper collection at [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which is helpful for students to learn the history and SOTA of AI chip and system research.
+<img src="/images/AI Chip Research.png" />
 
-## Computing-in-Memory Architecture for Emerging AI Applications
+I was honored at the HKUST Faculty Recognition Ceremony 2025 (for NSFC Excellent Young Scientists Fund).
+
+My research focuses on **AI Chip** with the cross-stack co-design philosophy. :
+* [Application-Driven Architecture Innovation](#application-driven-architecture-innovation)
+* [Technology-Driven Architecture Innovation](#technology-driven-architecture-innovation)
+
+This is the computer architecture research philosophy I learnt from Prof. Yuan Xie. I have adapted it to AI chip research and taught my students. This page shows my representative research. I also have an AI chip-related paper collection at [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which is helpful for students to learn the history and SOTA of AI chip and system research.
+
+## Application-Driven Architecture Innovation
 [Apr. 2024] **ISSCC'24 Insights for Emerging AI Computing.**
 - I was invited by JOS to review the research highlights on machine learning accelerators in ISSCC'24. We observed four research trends toward efficient generative AI (ML Chips for Generative AI, and CIM Innovation from Circuits to Systems) and beyond-AI computing (DSA for Embedded Vision Processors, and DSA for Solver Accelerators). We believe these remarkable trends will lead to more AI software and hardware innovations from academia and industry in the near future.
 - [Towards Efficient Generative AI and Beyond-AI Computing: New Trends on ISSCC 2024 Machine Learning Accelerators](http://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/45/4/040204) (**JOS'24, Invited Paper**)
@@ -27,7 +32,7 @@ I have an AI chip-related paper collection at [Neural Networks on Silicon](https
   - ReDCIM was awarded the [2023 Top-10 Research Advances in China Semiconductors](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650731796&idx=1&sn=20715157349e7b05c33a499bfb3ff49b&chksm=881d30bebf6ab9a891cc54bc66f95126fbaf295b2df5121a91b8fe95029ecde29237719e9ac8&mpshare=1&scene=2&srcid=0205egurWwnMVy5QKhWrR1d3&sharer_shareinfo=0a5e68f5bd8e867fbaa555ede0957cef&sharer_shareinfo_first=9d0438640e200e56fc5ef6d3473b320a#rd), which was featured by [ACCESS](https://www.linkedin.com/posts/inno-accesshk_access-hkust-access-activity-7161248635551125505-VcrD/?utm_source=share&utm_medium=member_desktop) and [HKUST SENG News](https://seng.hkust.edu.hk/news/20240228/reconfigurable-digital-computing-memory-ai-chip-ece-professors-selected-chinas-2023-top-10-research-advances-semiconductors).
 - TranCIM: [A 28nm 15.59uJ/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645) (**ISSCC'22**, extended to [**JSSC'23**](https://ieeexplore.ieee.org/document/9931922))
 
-## Reconfigurable AI Chip Architecture
+## Technology-Driven Architecture Innovation
 [Feb. 2025] **AC-Transformer, CNN-Transformer AI Chip.**
 - I worked with the ACCESS team and designed a 28nm commercial-grade CNN-Transformer AI chip. In a semantic segmentation demonstration system, the AC-Transformer chip consumes merely 0.22μJ/token, delivering a system-level energy efficiency improvement of 3.86-10.91x compared with state-of-the-art implementations. This breakthrough demonstrates significant potential for applications in autonomous driving and embodied intelligence.
 - [A 28nm 0.22uJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation](https://ieeexplore.ieee.org/document/10904499) (**ISSCC'25, The First Hong Kong AI Chip at ISSCC**)
