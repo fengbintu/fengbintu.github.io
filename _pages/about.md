@@ -105,5 +105,3 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 Address: Room 2424, 2/F (Lift 25/26), Academic Building, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
 
 Email: fengbintu at ust dot hk
-<br/><br/>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=fa9RQj-cgl1m5eQQQyP1VHu5hbgUfLQa-PSsV3Cc58w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
