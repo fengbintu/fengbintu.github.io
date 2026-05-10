@@ -54,18 +54,6 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * Financial Chair, IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter (2025)
 * Founding Member, Hong Kong High Performance Computing Association (Since 2023)
 
-### Conference Services
-* Design Contest Chair, Asia and South Pacific Design Automation Conference (ASP-DAC 2026)
-* Digital SC Co-Chair, International Conference on Integrated Circuits, Technologies and Applications (ICTA 2026)
-* Digital SC Co-Chair, International Conference on Solid-State and Integrated Circuit Technology (ICSICT 2026)
-* PC Member, International Symposium on Computer Architecture (ISCA 2026)
-* PC Member, Asian Solid-State Circuits Conference (A-SSCC 2025)
-* PC Member, Design Automation Conference (DAC 2022 - 2024)
-* PC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
-* PC Member, International Conference on Integrated Circuits, Technologies and Applications (ICTA 2025)
-* PC Member, International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
-* PC Member, Workshop on IC Advances in China (ICAC 2026)
-
 ### Journal Editorial Board
 * Associate Editor, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, Since 2026)
 * Associate Editor, Edge Intelligence and Systems (EIS, Since 2026)
@@ -73,6 +61,22 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * Young Editorial Board Member, Chinese Journal of Electronics (CJE, Since 2025)
 * Guest Editor, Special Topic: Innovative Architectures and Electronic Systems for Efficient Artificial Intelligence, Chinese Journal of Electronics (CJE, 2025)
 * Guest Editor, Special Topic: AI Chips and Systems for Large Language Models, Science China: Information Sciences (SCIS, 2024)
+
+### Conference Services
+* Design Contest Chair, Asia and South Pacific Design Automation Conference (ASP-DAC 2026)
+* Panel Chair, International Conference on Computer Design (ICCD 2026)
+* Digital SC Co-Chair, International Conference on Integrated Circuits, Technologies and Applications (ICTA 2026)
+* Digital SC Co-Chair, International Conference on Solid-State and Integrated Circuit Technology (ICSICT 2026)
+* Tutorial Chair, International Symposium on Advanced Parallel Processing Technology (APPT 2026)
+* Finance Chair, International Workshop on Logic \& Synthesis (IWLS 2026)
+* PC Member, International Symposium on Computer Architecture (ISCA 2026)
+* PC Member, Asian Solid-State Circuits Conference (A-SSCC 2025, 2026)
+* PC Member, Design Automation Conference (DAC 2022 - 2024)
+* PC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
+* PC Member, International Conference on Computer Design (ICCD 2026)
+* PC Member, International Conference on Integrated Circuits, Technologies and Applications (ICTA 2025)
+* PC Member, International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
+* PC Member, Workshop on IC Advances in China (ICAC 2026)
 
 ## Honors and Awards
 * IEEE Senior Member (2026)
