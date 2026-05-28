@@ -16,7 +16,7 @@ This is the computer architecture research philosophy I learnt from Prof. Yuan X
 
 ## Application-Driven Architecture Innovation
 ### Embodied AI and Robotics
-- **[ISCA'26]** To Appear Soon.
+- **[ISCA'26]** DiTPA: A DiT-based Action Planner Accelerator Exploiting Action-Denoising-Multimodality Redundancy for Embodied Artificial Intelligence
 - **[JOS'25]** [Robotic Computing System and Embodied AI Evolution: An Algorithm-Hardware Co-Design Perspective](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/25020034)
 
 ### Transformers
