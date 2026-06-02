@@ -13,7 +13,7 @@ I feel fortunate to work with the following talented students. Recruitment state
 * [Jiancong Li](https://www.researchgate.net/profile/Jiancong-Li) (Ph.D. from HUST, HKUST Post-Doctoral Fellowship, Spring 2025)
 
 ## Ph.D. Student
-* [Yongkun Wu](https://rockywu.netlify.app/) (B.S. from NJU, HKPFS, co-supervised with Prof. Tim Cheng, Fall 2022)
+* [Yongkun Wu](https://rockywu.netlify.app/) (B.S. from NJU, HKPFS, co-supervised with Prof. Tim Cheng and Prof. CY Tsui, Fall 2022)
 * [Xin Zhao](https://scholar.google.com/citations?user=iO2dQW4AAAAJ&hl=zh-CN) (M.S. from UESTC, Fall 2024)
 * [Bohan Yang](https://starkerfirst.github.io/) (B.S. from USTC Gifted Young, HKPFS, Fall 2024)
 * [Longke Yan](https://www.researchgate.net/profile/Longke-Yan) (B.S. from UESTC, RedBird, Fall 2024)
@@ -31,7 +31,7 @@ I feel fortunate to work with the following talented students. Recruitment state
 
 ## Student Honors
 * Hong Kong PhD Fellowship Scheme (Zimu Li, 2026)
-* ICAC'26 Best Student Poster Award (Pingcheng Dong, ISSCC'26 RHB Chip, 2026)
+* ICAC'26 Best Student Poster Award (Pingcheng Dong, ISSCC'26 ReRAM-on-Logic 3D Chip, 2026)
 * HKUST Post-Doctoral Fellowship (Jiancong Li, 2025)
 * HKUST RedBird PhD Award (Junyi Wu, 2025)
 * HKUST ECE Best TA Award 2024/25 (Yonghao Tan, ELEC 6910H and 2350 TA, 2025)
