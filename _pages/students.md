@@ -31,7 +31,7 @@ I feel fortunate to work with the following talented students. Recruitment state
 
 ## Student Honors
 * Hong Kong PhD Fellowship Scheme (Zimu Li, 2026)
-* ICAC'26 Best Student Poster Award (Pingcheng Dong, ISSCC'26 ReRAM-on-Logic 3D Chip, 2026)
+* ICAC'26 Best Student Poster Award (Pingcheng Dong, ISSCC'26 3D Chip, 2026)
 * HKUST Post-Doctoral Fellowship (Jiancong Li, 2025)
 * HKUST RedBird PhD Award (Junyi Wu, 2025)
 * HKUST ECE Best TA Award 2024/25 (Yonghao Tan, ELEC 6910H and 2350 TA, 2025)
