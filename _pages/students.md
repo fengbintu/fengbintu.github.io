@@ -13,7 +13,7 @@ I feel fortunate to work with the following talented students. Recruitment state
 * [Jiancong Li](https://www.researchgate.net/profile/Jiancong-Li) (Ph.D. from HUST, HKUST Post-Doctoral Fellowship, Spring 2025)
 
 ## Ph.D. Student
-* [Yongkun Wu](https://rockywu.netlify.app/) (B.S. from NJU, HKPFS, co-supervised with Prof. Tim Cheng and Prof. CY Tsui, Fall 2022)
+* [Yongkun Wu](https://rockywu.netlify.app/) (B.S. from NJU, HKPFS, co-supervised with Tim and CY, Fall 2022)
 * [Xin Zhao](https://scholar.google.com/citations?user=iO2dQW4AAAAJ&hl=zh-CN) (M.S. from UESTC, Fall 2024)
 * [Bohan Yang](https://starkerfirst.github.io/) (B.S. from USTC Gifted Young, HKPFS, Fall 2024)
 * [Longke Yan](https://www.researchgate.net/profile/Longke-Yan) (B.S. from UESTC, RedBird, Fall 2024)
