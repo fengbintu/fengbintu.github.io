@@ -4,6 +4,15 @@ title: "Advice for Research"
 permalink: /advice/
 author_profile: true
 ---
+[**治学三境界**](https://xsg.tsinghua.edu.cn/info/1023/2428.htm)（王国维作于1907年，原载《人间词话》）
+
+古今之成大事业、大学问者，必经过三种之境界：
+
+“昨夜西风凋碧树。独上高楼，望尽天涯路。”此第一境也。
+
+“衣带渐宽终不悔，为伊消得人憔悴。”此第二境也。
+
+“众里寻他千百度，回头蓦见，那人正在灯火阑珊处。”此第三境也。
 
 I like observing the environment and understanding the philosophy behind facts. Thanks to the advisors and friends I met during my academic journey, I have learned different styles of research methods. I summarize them here with my own understanding and hope they can help the younger generation:
 * [ABCDE Principles](#abcde-principles)
