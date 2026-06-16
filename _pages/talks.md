@@ -4,10 +4,16 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+### DiTPA: DiT-based Action Planning Accelerator for Embodied AI Inference
+* HKUST-SEU Joint Workshop, Hong Kong, China, May 2026
+* Anhui University, Hefei, China, Jun. 2026
+* Zhejiang University, Hangzhou, China, Jun. 2026
+
 ### Computing-in-Memory Processor for Large-Scale AI Models 
 * **Tutorial at ICTA**, Macao, China, Oct. 2025.
 * **Tutorial at A-SSCC**, Daejeon, South Korea, Nov. 2025.
-* Tsinghua-KAIST Alumni IC Workshop,  San Francisco, USA, Feb. 2025.
+* Tsinghua-KAIST Alumni IC Workshop, San Francisco, USA, Feb. 2025.
 * China Electronics and Information Conference, Chengdu, China, Apr. 2025.
 * China Semiconductor Physics Conference, Changsha, China, Oct. 2025.
 * TsingMicro, Beijing, China, Jan. 2026.
