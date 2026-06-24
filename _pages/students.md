@@ -27,7 +27,9 @@ I feel fortunate to work with the following talented students. Recruitment state
 * [Zhongyu Zhao](https://scholar.google.com/citations?user=b8PvQzUAAAAJ&hl=en) (Ph.D. candidate from University of Macao, to join in Fall 2026)
 * [Zhiwei Zhou](https://scholar.google.com/citations?user=yu4G0pcAAAAJ&hl=zh-CN) (Ph.D. candidate from HUST, Spring 2026)
 * Junwei Cui (Ph.D. candidate from HKUST(GZ), Summer 2026)
-* Zhuoyang Yan (Year-3 UG student from UESTC, Spring 2026)
+* Han Zhang (M.S. student from BUAA, to join in Fall 2027)
+* Zhuoyang Yan (B.S. student from UESTC, to join in Fall 2027)
+* Yujing Zhu (B.S. student from SCUT, to join in Fall 2027)
 
 ## Student Honors
 * Hong Kong PhD Fellowship Scheme (Zimu Li, 2026)
