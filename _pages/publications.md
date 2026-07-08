@@ -32,6 +32,7 @@ author_profile: true
 * **[TVLSI'17]** **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**TVLSI No.5/2/6/8/8/9 Downloaded Manuscripts in 2017~2022, 6 Times Monthly No.1 Popular Article**)
 
 ## Conference Papers
+* **[MICRO'26]** X. Xiang, L. Yan, **F. Tu\***, "To Appear," International Symposium on Microarchitecture (MICRO), Athens, Greece, 2026.
 * **[ISCA'26]** X. Zhao, L. Yan, J. Li, Y. Wu, **F. Tu\***, "DiTPA: A DiT-based Action Planner Accelerator Exploiting Action-Denoising-Multimodality Redundancy for Embodied Artificial Intelligence," International Symposium on Computer Architecture (ISCA), Raleigh, USA, 2026.
 * **[ESSERC'26]** Z. Wu, Y. Wang, Z. He, H. Han, Y. Hu, **F. Tu\***,  S. Yin\*, "DRAGON: A 28nm 5.12ms-response and 42.83token/s Digital CIM-based Multi-Phase Accelerator for Hybrid-Intensive Retrieval-Augmented Generation," European Solid-State Electronics Research Conference (ESSERC), Palma de Mallorca, Spain, 2026. (\*Co-Corresponding Author)
 * **[VLSI'26]** Z. He, Y. Wang, Z. Yue, Z. Wu, Y. Hu, **F. Tu\***,  S. Yin\*, "A 28nm 44.15 TFLOPS/W and 1.57TFLOPS/mm<sup>2</sup> Joint-Alignment Floating-point CIM Macro with ISO26262 ASIL-D Safety Level for Autonomous Driving," Symposium on VLSI Technology and Circuits (VLSI), Honolulu, USA, 2026. (\*Co-Corresponding Author)
