@@ -20,11 +20,11 @@ I feel fortunate to work with the following talented students. Recruitment state
 * Zhuoya Yan (M.S. from PKU, Spring 2025)
 * [Xujiang Xiang](https://orcid.org/0009-0009-4171-0563) (M.S. from THU, Fall 2025)
 * [Junyi Wu](https://scholar.google.com/citations?user=fbG9frsAAAAJ&hl=zh-CN) (B.S. from NJU, RedBird, Fall 2025)
+* Jingkai Song (M.S. from THU, Fall 2026)
+* Zimu Li (B.S. from NJU Elite Program, HKPFS, Fall 2026)
 
 ## Visiting Student
-* Jingkai Song (M.S. from THU, to join in Fall 2026)
-* Zimu Li (B.S. from NJU Elite Program, HKPFS, to join in Fall 2026)
-* [Zhongyu Zhao](https://scholar.google.com/citations?user=b8PvQzUAAAAJ&hl=en) (Ph.D. candidate from University of Macao, to join in Fall 2026)
+* [Zhongyu Zhao](https://scholar.google.com/citations?user=b8PvQzUAAAAJ&hl=en) (Ph.D. from University of Macao, to join in Fall 2026)
 * [Zhiwei Zhou](https://scholar.google.com/citations?user=yu4G0pcAAAAJ&hl=zh-CN) (Ph.D. candidate from HUST, Spring 2026)
 * Junwei Cui (Ph.D. candidate from HKUST(GZ), Summer 2026)
 * Han Zhang (M.S. student from BUAA, to join in Fall 2027)
