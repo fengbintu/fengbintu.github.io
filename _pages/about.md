@@ -104,6 +104,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 ## Course Teaching
 * ELEC 2350: Introduction to Computer Organization and Design (Spring 2024, 2025)
 * ELEC 4350: AI Processor Architecture (Spring 2026)
+* ELEC 5170: Advanced AI Chips and Systems (Fall 2026)
 * ELEC 6910H: Advanced AI Chip and System (Fall 2024, 2025)
 
 ## Contact
