@@ -80,8 +80,10 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Honors and Awards
 * **ISSCC Highlight Paper (2022, 2023, 2026)**
+* **A-SSCC Highlighted Paper (2026)**
 * IEEE Senior Member (2026)
 * **MIT Technology Review "Innovators Under 35" (TR35) Asia-Pacific (2025)**
+* **HKUST Faculty Recognition Honor (2025)**
 * **Gold Medal with Congratulations of the Jury at the 50th International Exhibition of Inventions Geneva (2025)**
 * Nomination Award for 2024 Top-10 Research Advances in China Semiconductors (2025)
 * **NSFC Excellent Young Scientists Fund (国家优秀青年科学基金, 2024)**
