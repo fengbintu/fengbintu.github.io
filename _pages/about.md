@@ -70,6 +70,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * Tutorial Chair, International Symposium on Advanced Parallel Processing Technology (APPT 2026)
 * Finance Chair, International Workshop on Logic and Synthesis (IWLS 2026)
 * PC Member, International Symposium on Computer Architecture (ISCA 2026)
+* PC Member, International Symposium on High-Performance Computer Architecture (HPCA 2027)
 * PC Member, Asian Solid-State Circuits Conference (A-SSCC 2025, 2026)
 * PC Member, Design Automation Conference (DAC 2022 - 2024)
 * PC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
