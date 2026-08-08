@@ -33,6 +33,7 @@ author_profile: true
 
 ## Conference Papers
 * **[MICRO'26]** X. Xiang, L. Yan, **F. Tu\***, "Prediction-Execution Co-optimized Constant-Memory Sparse Attention for Foundational Diffusion Model: A Full-stack Analytical Bottleneck Model Perspective," International Symposium on Microarchitecture (MICRO), Athens, Greece, 2026.
+* **[A-SSCC'26]** X. Zhao, Z. Yan, J. Li, L. Yan, Z. Yan, **F. Tu\***, "CLORC: A 193.05Hz DiT-MPC Closed-Loop Robotic Control FPGA Accelerator with Adaptive Action Prediction and Sparsity-Dependency Exploitation," Asian Solid-State Circuits Conference (A-SSCC), Taichung, China, 2026. (**Highlighted Paper**)
 * **[ICCAD'26]** L. Yan, X. Zhao, Z. Yan, J. Li, **F. Tu\***, "S<sup>2</sup>AE: Exploiting Action Similarity and Layer Significance to Accelerate Diffusion Transformer Action Experts," International Conference on Computer Aided Design (ICCAD), San Jose, USA, 2026.
 * **[ISCA'26]** X. Zhao, L. Yan, J. Li, Y. Wu, **F. Tu\***, "DiTPA: A DiT-based Action Planner Accelerator Exploiting Action-Denoising-Multimodality Redundancy for Embodied Artificial Intelligence," International Symposium on Computer Architecture (ISCA), Raleigh, USA, 2026.
 * **[ESSERC'26]** Z. Wu, Y. Wang, Z. He, H. Han, Y. Hu, **F. Tu\***,  S. Yin\*, "DRAGON: A 28nm 5.12ms-response and 42.83token/s Digital CIM-based Multi-Phase Accelerator for Hybrid-Intensive Retrieval-Augmented Generation," European Solid-State Electronics Research Conference (ESSERC), Palma de Mallorca, Spain, 2026. (\*Co-Corresponding Author)
