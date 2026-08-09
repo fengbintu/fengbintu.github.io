@@ -9,6 +9,7 @@ author_profile: true
 * HKUST-SEU Joint Workshop, Hong Kong, China, May 2026
 * Anhui University, Hefei, China, Jun. 2026
 * Zhejiang University, Hangzhou, China, Jun. 2026
+* CCF Chip, Wuxi, China, Jul. 2026
 
 ### Computing-in-Memory Processor for Large-Scale AI Models 
 * **Tutorial at ICTA**, Macao, China, Oct. 2025.
