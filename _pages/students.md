@@ -31,6 +31,7 @@ I feel fortunate to work with the following talented students. Recruitment state
 * Yujing Zhu (B.S. student from SCUT, to join in Fall 2027)
 
 ## Student Honors
+* HKUST ECE Best TA Award 2025/26 (Longke Yan, ELEC 6910H TA, 2026) 
 * Hong Kong PhD Fellowship Scheme (Zimu Li, 2026)
 * ICAC'26 Best Student Poster Award (Pingcheng Dong, ISSCC'26 3D Chip, 2026)
 * HKUST Post-Doctoral Fellowship (Jiancong Li, 2025)
