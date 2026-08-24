@@ -11,6 +11,7 @@ I feel fortunate to work with the following talented students. Recruitment state
 
 * [Yewen Li](https://liyewen.tech/) (Ph.D. from ICT, Fall 2024)
 * [Jiancong Li](https://www.researchgate.net/profile/Jiancong-Li) (Ph.D. from HUST, HKUST Post-Doctoral Fellowship, Spring 2025)
+* [Zhongyu Zhao](https://scholar.google.com/citations?user=b8PvQzUAAAAJ&hl=en) (Ph.D. from University of Macao, Fall 2026)
 
 ## Ph.D. Student
 * [Yongkun Wu](https://rockywu.netlify.app/) (B.S. from NJU, HKPFS, co-supervised with Tim and CY, Fall 2022)
@@ -23,7 +24,6 @@ I feel fortunate to work with the following talented students. Recruitment state
 * Zimu Li (B.S. from NJU Elite Program, HKPFS, Fall 2026)
 
 ## Visiting Student and Research Assistant
-* [Zhongyu Zhao](https://scholar.google.com/citations?user=b8PvQzUAAAAJ&hl=en) (Ph.D. from University of Macao, to join in Fall 2026)
 * [Zhiwei Zhou](https://scholar.google.com/citations?user=yu4G0pcAAAAJ&hl=zh-CN) (Ph.D. candidate from HUST, Spring 2026)
 * Junwei Cui (Ph.D. candidate from HKUST(GZ), Summer 2026)
 * Han Zhang (M.S. student from BUAA, to join in Fall 2027)
