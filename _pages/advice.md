@@ -23,7 +23,7 @@ I like observing the environment and understanding the philosophy behind facts. 
 * [Reading List](#reading-list)
 
 ## Time Will Tell
-How many roads must a man walk down before you call him a man? Work hard, be patient, and focus on building your strength. Sometimes the goal isn't achieved immediately, not because you haven't tried enough, but because the time accumulation is still not enough. Time will tell us the answer.
+How many roads must a man walk down before you call him a man? Work hard, be patient, and focus on building your strength. Sometimes the goal isn't achieved immediately, not because you haven't tried hard, but because the time accumulation is still not enough. Time will tell us the answer.
 
 ## ABCDE Principles
 This is the most important lesson I learned from Prof. Yuan Xie. The original version of ABCDE provides guidelines for how to become an excellent researcher. Always remember to take a look back at these principles, after you run for a long research journey. The following is my version **based on my own study and career development**. 
