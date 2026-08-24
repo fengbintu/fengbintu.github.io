@@ -15,12 +15,15 @@ author_profile: true
 “众里寻他千百度，回头蓦见，那人正在灯火阑珊处。”此第三境也。
 
 I like observing the environment and understanding the philosophy behind facts. Thanks to the advisors and friends I met during my academic journey, I have learned different styles of research methods. I summarize them here with my own understanding and hope they can help the younger generation:
+* [Time Will Tell](#time-will-tell)
 * [ABCDE Principles](#abcde-principles)
 * [Writing and Presentation](#writing-and-presentation)
 * [Time Management](#time-management)
 * [Research Taste](#research-taste)
 * [Reading List](#reading-list)
 
+## Time Will Tell
+How many roads must a man walk down before you call him a man? Work hard, be patient, and focus on building your strength. Sometimes the goal isn't achieved immediately, not because you haven't tried enough, but because the time accumulation is still not enough. Time will tell us the answer.
 
 ## ABCDE Principles
 This is the most important lesson I learned from Prof. Yuan Xie. The original version of ABCDE provides guidelines for how to become an excellent researcher. Always remember to take a look back at these principles, after you run for a long research journey. The following is my version **based on my own study and career development**. 
@@ -56,7 +59,5 @@ This is the most important lesson I learned from Prof. Yuan Xie. The original ve
 
 ## Reading List
 * Computer Architecture: A Quantitative Approach
-* Computer Organization and Design: The Hardware/Software Interface
-* Readings in Computer Architecture
 * The Pyramid Principle: Logic in Writing and Thinking
 * Deep Work: Rules for Focused Success in a Distracted World
