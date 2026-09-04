@@ -27,7 +27,7 @@ How many roads must a man walk down before you call him a man? Work hard, be pat
 
 ## ABCDE Principles
 This is the most important lesson I learned from Prof. Yuan Xie. The original version of ABCDE provides guidelines for how to become an excellent researcher. Always remember to take a look back at these principles, after you run for a long research journey. The following is my version **based on my own study and career development**. 
-* **A: Assessment (Critical Thinking).** For a mature faculty, we have obtained much experience and resource. We should be able to judge the current research in our field, know the future direction, and invest our resource to the future. Let's make more milestones.
+* **A: Assessment (Critical Thinking).** For a mature faculty, there are so many research opportunities, but we shall ask ourselves three questions first: 1) Is this topic really important? 2) How many people are working on this topic? 3) Do we have unique advantages on this topic? We should be able to judge the current research in our field, predict the future trend, and invest our resource to the future. Let's make more milestones.
 * **B: Big Vision (Visionary Thinking).** For a postdoc or young faculty, we should be able to make plans for a series of research works to build up our own name card. We are beginning to run small research groups. Teach students the CDE principles. 
 * **C: Communication (Logical Thinking).** For senior Ph.D. students, we should learn to logically organize our paper and presentation for the best understanding from readers and audiences. This is one of the most important abilities for Ph.D. students. Learn the Pyramid Principle. Once we obtain all the CDE abilities, congratulations, the Ph.D. degree is coming.  
 * **D: Design (Creative Thinking).** For second-third-year Ph.D. students, we should understand how to extract scientific problems from a given topic, propose techniques targeting the problems, and design experiments to effectively evaluate the techniques.
@@ -38,7 +38,7 @@ This is the most important lesson I learned from Prof. Yuan Xie. The original ve
   * The Pyramid Principle is an efficient way for communication to the potential (busy) reviewers, readers, or audience. The key is **leading with the conclusion first** and then presenting supporting materials. The principle works for both writing and presentation, as I always think they are two modalities (text and oral) of communication that shares the same philosophy behind. 
 * [**Write for Readers**](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf) (By Prof. Yang Liu, THU, in Chinese)
   * The tips shared by Prof. Liu offer highly practical guidelines for writing. Always assume the readers are busy or have no adequate background knowledge. The goal of writing should be convincing readers with your idea, instead of simply expressing what you think. 
-* **Keep a Habit of Writing** (Inspired by Dr. Harry Shum, HKUST, "[You are What you Write](https://www.linkedin.com/pulse/you-what-write-harry-shum/)", [Chinese Version](https://www.microsoft.com/zh-cn/ard/news/news_2018_07))
+* **Keep a Habit of Writing** (Inspired by Dr. Harry Shum, HKUST, "[You are What you Write](https://www.linkedin.com/pulse/you-what-write-harry-shum/)")
   * Random thinking becomes logical thinking only after writing down. Keep writing weekly memo and try daily memo.
 
 ## Time Management
