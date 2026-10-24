@@ -69,6 +69,7 @@ author_profile: true
 * **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[Neural Approximating Architecture Targeting Multiple Application Domains](https://ieeexplore.ieee.org/document/7169195)," International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
 ## Featured Collaborative Papers
+* **[ICTA'26]** H. Zhang, X. Zhang, H. Ge, X. Wang, K. Yang, J. Cao, X. Hu, **F. Tu**, B. Pan, "MGFA: a Modality-Aware Glance-and-Focus Accelerator for High-Resolution VLM Inference", International Conference on Integrated Circuits, Technologies and Applications (ICTA), Singapore, 2026. (**Best Paper Finalist**)
 * **[ICCAD'26]** W. Fang, Y. Lu, S. Liu, J. Wang, Z. Guo, J. He, **F. Tu**, Z. Xie, "Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement," International Conference on Computer Aided Design (ICCAD), San Jose, USA, 2026.
 * **[TCAS-I'26]** D. Wang, L. Xu, S. Yuan, W. He, G. He, **F. Tu**, X. Li, Y. Sun, "A Full-Digital Heterogenous Computing-in-Memory with Dual-Bit Serialized Weight Stream and Ping-Pong Computing for Efficient Transformer Acceleration," IEEE Transactions on Circuits and Systems I (TCAS-I), 2026.
 * **[ISCA'26]** H. Li, S. Ma, H. Qu, W. Zhang, J. Chen, J. Lin, **F. Tu**, Rong. Z, "Bridging Efficiency and Scalability in LLM System via 3D Hybrid PIM with 2D In-Transit Computation," International Symposium on Computer Architecture (ISCA), Raleigh, USA, 2026.
