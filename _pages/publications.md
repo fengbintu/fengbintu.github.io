@@ -35,6 +35,7 @@ author_profile: true
 * **[TVLSI'17]** **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**TVLSI No.5/2/6/8/8/9 Downloaded Manuscripts in 2017~2022, 6 Times Monthly No.1 Popular Article**)
 
 ## Conference Papers
+* **[HPCA'27]** J. Wu, **F. Tu\***, "Tool3D: A Tool-Centric Hybrid Bonding Architecture with Chunked Caching for Efficient Agent Inference," International Symposium on High-Performance Computer Architecture (HPCA), Salt Lake City, USA, 2027.
 * **[ASP-DAC'27]** L. Yan, X. Zhao, Z. Yan, J. Li, **F. Tu\***, "DAST: A 1.15J/Action Diffusion Transformer Action Expert Accelerator with Stream Denoising and Token Reuse," Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2027. (University LSI Design Contest)
 * **[ISCA'26]** X. Zhao, L. Yan, J. Li, Y. Wu, **F. Tu\***, "[DiTPA: A DiT-based Action Planner Accelerator Exploiting Action-Denoising-Multimodality Redundancy for Embodied Artificial Intelligence](https://ieeexplore.ieee.org/document/11617959)," International Symposium on Computer Architecture (ISCA), Raleigh, USA, 2026.
 * **[MICRO'26]** X. Xiang, L. Yan, **F. Tu\***, "Prediction-Execution Co-optimized Constant-Memory Sparse Attention for Foundational Diffusion Model: A Full-stack Analytical Bottleneck Model Perspective," International Symposium on Microarchitecture (MICRO), Athens, Greece, 2026.
