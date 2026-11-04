@@ -21,7 +21,7 @@ This is the computer architecture research philosophy I learnt from Prof. Yuan X
 - **[A-SSCC'26]** CLORC: A 193.05Hz DiT-MPC Closed-Loop Robotic Control FPGA Accelerator with Adaptive Action Prediction and Sparsity-Dependency Exploitation (**Highlighted Paper**)
 
 ### Generative AI for Computer Vision
--  **[HPCA'26]** [VAR-Turbo: Unlocking the Potential of Visual Autoregressive Models through Dual Redundancy](https://ieeexplore.ieee.org/document/11408607)
+- **[HPCA'26]** [VAR-Turbo: Unlocking the Potential of Visual Autoregressive Models through Dual Redundancy](https://ieeexplore.ieee.org/document/11408607)
 - **[MICRO'26]** Prediction-Execution Co-optimized Constant-Memory Sparse Attention for Foundational Diffusion Model: A Full-stack Analytical Bottleneck Model Perspective
 
 ### Transformers
@@ -51,3 +51,4 @@ This is the computer architecture research philosophy I learnt from Prof. Yuan X
 ### 3D-Stacked AI Chip
 - **[ISCA'24]** [Exploiting Similarity Opportunities of Emerging Vision AI Models on Hybrid Bonding Architecture](https://ieeexplore.ieee.org/document/10609595)
 - **[ISSCC'26]** AC-Transformer-RHB: [A 14.08-to-135.69Token/s ReRAM-on-Logic Stacked Outlier-Free Large-Language-Model Accelerator with Block-Clustered Weight-Compression and Adaptive Parallel-Speculative-Decoding](https://ieeexplore.ieee.org/document/11409211) (**Highlight Paper**, Invited to [**JSSC'27**](https://ieeexplore.ieee.org/document/11657928))
+- **[HPCA'27]** Tool3D: A Tool-Centric Hybrid Bonding Architecture with Chunked Caching for Efficient Agent Inference
