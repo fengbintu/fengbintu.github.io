@@ -35,6 +35,7 @@ author_profile: true
 * **[TVLSI'17]** **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**TVLSI No.5/2/6/8/8/9 Downloaded Manuscripts in 2017~2022, 6 Times Monthly No.1 Popular Article**)
 
 ## Conference Papers
+* **[HPCA'27]** J. Wu, **F. Tu\***, "Tool3D: A Tool-Centric Hybrid Bonding Architecture with Chunked Caching for Efficient Agent Inference," International Symposium on High-Performance Computer Architecture (HPCA), Salt Lake City, USA, 2027.
 * **[ASP-DAC'27]** L. Yan, X. Zhao, Z. Yan, J. Li, **F. Tu\***, "DAST: A 1.15J/Action Diffusion Transformer Action Expert Accelerator with Stream Denoising and Token Reuse," Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2027. (University LSI Design Contest)
 * **[ISCA'26]** X. Zhao, L. Yan, J. Li, Y. Wu, **F. Tu\***, "[DiTPA: A DiT-based Action Planner Accelerator Exploiting Action-Denoising-Multimodality Redundancy for Embodied Artificial Intelligence](https://ieeexplore.ieee.org/document/11617959)," International Symposium on Computer Architecture (ISCA), Raleigh, USA, 2026.
 * **[MICRO'26]** X. Xiang, L. Yan, **F. Tu\***, "Prediction-Execution Co-optimized Constant-Memory Sparse Attention for Foundational Diffusion Model: A Full-stack Analytical Bottleneck Model Perspective," International Symposium on Microarchitecture (MICRO), Athens, Greece, 2026.
@@ -69,6 +70,8 @@ author_profile: true
 * **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[Neural Approximating Architecture Targeting Multiple Application Domains](https://ieeexplore.ieee.org/document/7169195)," International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
 ## Featured Collaborative Papers
+* **[HPCA'27]** X. Yang, Z. Zhu, W. Ma, Z. Wang, S. Lyu, B. Zhang, S. Zeng, K. Hong, M. Guang, H. Hui, K. Long, R. Cheung, **F. Tu**, Y. Xie, H. Yang, Y. Wang, "AdaLLM: Decoupling Compute and Bandwidth for Multi-LLM Serving," International Symposium on High-Performance Computer Architecture (HPCA), Salt Lake City, USA, 2027.
+* **[HPCA'27]** J. Cui, L. Qin, W. Cai, Y. Chen, **F. Tu**, J. Huang, "Resilient and Bandwidth-Efficient Collective Communication on Mesh Networks," International Symposium on High-Performance Computer Architecture (HPCA), Salt Lake City, USA, 2027.
 * **[ICTA'26]** H. Zhang, X. Zhang, H. Ge, X. Wang, K. Yang, J. Cao, X. Hu, **F. Tu**, B. Pan, "MGFA: a Modality-Aware Glance-and-Focus Accelerator for High-Resolution VLM Inference", International Conference on Integrated Circuits, Technologies and Applications (ICTA), Singapore, 2026. (**Best Paper Finalist**)
 * **[ICCAD'26]** W. Fang, Y. Lu, S. Liu, J. Wang, Z. Guo, J. He, **F. Tu**, Z. Xie, "Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement," International Conference on Computer Aided Design (ICCAD), San Jose, USA, 2026.
 * **[TCAS-I'26]** D. Wang, L. Xu, S. Yuan, W. He, G. He, **F. Tu**, X. Li, Y. Sun, "A Full-Digital Heterogenous Computing-in-Memory with Dual-Bit Serialized Weight Stream and Ping-Pong Computing for Efficient Transformer Acceleration," IEEE Transactions on Circuits and Systems I (TCAS-I), 2026.
