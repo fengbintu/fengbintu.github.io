@@ -70,6 +70,7 @@ author_profile: true
 * **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[Neural Approximating Architecture Targeting Multiple Application Domains](https://ieeexplore.ieee.org/document/7169195)," International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
 ## Featured Collaborative Papers
+* **[APEC'27]** Y. Ji, S. Wu, C. Peng, **F. Tu**, P. Wang, "A 99.57%-Peak-Efficiency Merged Switched-Capacitor Active-Bridge Differential Power Converter for 3D-Stacked Logic-Memory ICs," Applied Power Electronics Conference and Exposition (APEC), New Orleans, USA, 2027.
 * **[HPCA'27]** X. Yang, Z. Zhu, W. Ma, Z. Wang, S. Lyu, B. Zhang, S. Zeng, K. Hong, M. Guang, H. Hui, K. Long, R. Cheung, **F. Tu**, Y. Xie, H. Yang, Y. Wang, "AdaLLM: Decoupling Compute and Bandwidth for Multi-LLM Serving," International Symposium on High-Performance Computer Architecture (HPCA), Salt Lake City, USA, 2027.
 * **[HPCA'27]** J. Cui, L. Qin, W. Cai, Y. Chen, **F. Tu**, J. Huang, "Resilient and Bandwidth-Efficient Collective Communication on Mesh Networks," International Symposium on High-Performance Computer Architecture (HPCA), Salt Lake City, USA, 2027.
 * **[ICTA'26]** H. Zhang, X. Zhang, H. Ge, X. Wang, K. Yang, J. Cao, X. Hu, **F. Tu**, B. Pan, "MGFA: a Modality-Aware Glance-and-Focus Accelerator for High-Resolution VLM Inference", International Conference on Integrated Circuits, Technologies and Applications (ICTA), Singapore, 2026. (**Best Paper Finalist**)
