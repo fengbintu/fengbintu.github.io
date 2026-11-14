@@ -24,7 +24,7 @@ I feel fortunate to work with the following talented students. Recruitment state
 * Zimu Li (B.S. from NJU Elite Program, HKPFS, Fall 2026)
 
 ## Visiting Scholar and Research Assistant
-* Prof. Jiahao Lu (Assistant Professor@HUST, Fall 2026)
+* Prof. Jiahao Lu (Assistant Professor from HUST, Fall 2026)
 * Junwei Cui (Ph.D. candidate from HKUST(GZ), Summer 2026)
 * Han Zhang (M.S. student from BUAA, to join in Fall 2027)
 * Zhuoyang Yan (B.S. student from UESTC, to join in Fall 2027)
