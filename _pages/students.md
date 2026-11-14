@@ -23,8 +23,8 @@ I feel fortunate to work with the following talented students. Recruitment state
 * [Junyi Wu](https://scholar.google.com/citations?user=fbG9frsAAAAJ&hl=zh-CN) (B.S. from NJU, RedBird, Fall 2025)
 * Zimu Li (B.S. from NJU Elite Program, HKPFS, Fall 2026)
 
-## Visiting Student and Research Assistant
-* [Zhiwei Zhou](https://scholar.google.com/citations?user=yu4G0pcAAAAJ&hl=zh-CN) (Ph.D. candidate from HUST, Spring 2026)
+## Visiting Scholar and Research Assistant
+* Prof. Jiahao Lu (Assistant Professor@HUST, Fall 2026)
 * Junwei Cui (Ph.D. candidate from HKUST(GZ), Summer 2026)
 * Han Zhang (M.S. student from BUAA, to join in Fall 2027)
 * Zhuoyang Yan (B.S. student from UESTC, to join in Fall 2027)
@@ -43,3 +43,4 @@ I feel fortunate to work with the following talented students. Recruitment state
 
 ## Alumni
 * [Jia Chen](http://faculty.hust.edu.cn/CHENJIA/zh_CN/index.htm) (Postdoc 2023-2026, First Employment: Associate Professor@HUST)
+* [Zhiwei Zhou](https://scholar.google.com/citations?user=yu4G0pcAAAAJ&hl=zh-CN) (HUST Visiting Student 2026)
