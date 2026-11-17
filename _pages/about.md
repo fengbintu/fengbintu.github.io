@@ -83,6 +83,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * **ISSCC Highlight Paper (2022, 2023, 2026)**
 * **A-SSCC Highlighted Paper (2026)**
 * IEEE Senior Member (2026)
+* ICCD Student Research Forum Best Poster Award (2026)
 * ICTA Best Paper Finalist (2026)
 * **MIT Technology Review "Innovators Under 35" (TR35) Asia-Pacific (2025)**
 * **HKUST Faculty Recognition Honor (2025)**
@@ -107,7 +108,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 
 ## Course Teaching
 * ELEC 2350: Introduction to Computer Organization and Design (Spring 2024, 2025)
-* ELEC 4350: AI Processor Architecture (Spring 2026)
+* ELEC 4350: AI Processor Architecture (Spring 2026, 2027)
 * ELEC 5170: Advanced AI Chips and Systems (Fall 2026)
 * ELEC 6910H: Advanced AI Chip and System (Fall 2024, 2025)
 
